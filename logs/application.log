@@ -1,0 +1,25 @@
+[2026-04-18 15:24:35] INFO - ingestion - Loading single file via input
+[2026-04-18 15:24:35] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:27:43] INFO - ingestion - Loading single file via input
+[2026-04-18 15:27:43] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:27:44] INFO - ingestion - Start chunking documents | total_docs=1
+[2026-04-18 15:27:44] INFO - ingestion - Start chunking | file=data/raw/vcb-FAQ - SMS Banking.pdf | chunk_size=1000 | chunk_overlap=200
+[2026-04-18 15:27:44] INFO - ingestion - Chunking completed | file=data/raw/vcb-FAQ - SMS Banking.pdf | total_chunks=22
+[2026-04-18 15:27:44] INFO - ingestion - All documents chunked | total_docs=1 | total_chunks=22
+[2026-04-18 15:34:18] INFO - ingestion - Loading single file via input
+[2026-04-18 15:34:18] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:34:18] INFO - ingestion - Detected unstructured file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:34:18] INFO - ingestion - Chunked unstructured | file=data/raw/vcb-FAQ - SMS Banking.pdf | chunks=16
+[2026-04-18 15:34:18] INFO - ingestion - Total chunks created: 16
+[2026-04-18 15:38:03] INFO - ingestion - Loading single file via input
+[2026-04-18 15:38:03] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:38:03] INFO - ingestion - Detected unstructured file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:38:03] INFO - ingestion - Chunked unstructured | file=data/raw/vcb-FAQ - SMS Banking.pdf | chunks=16
+[2026-04-18 15:38:03] INFO - ingestion - Total chunks created: 16
+[2026-04-18 15:43:52] INFO - ingestion - Loading single file via input
+[2026-04-18 15:43:52] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:43:52] INFO - ingestion - Detected unstructured file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-18 15:43:52] INFO - ingestion - Chunked unstructured | file=data/raw/vcb-FAQ - SMS Banking.pdf | chunks=15
+[2026-04-18 15:43:52] INFO - ingestion - Total chunks created: 15
+[2026-04-18 15:43:52] INFO - ingestion - Chunks metadata enriched | total=15 | run_id=20260418_150000
+[2026-04-18 15:43:52] INFO - ingestion - Chunks saved | output=data\processed\20260418_150000\vcb_faq_sms_banking_chunks_v1.json | total=15

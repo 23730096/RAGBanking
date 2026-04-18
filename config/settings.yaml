@@ -1,0 +1,36 @@
+app:
+  name: RAG-Banking-Support
+  version: 1.0.0-beta
+  env: production
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+
+embedding:
+  model: intfloat/multilingual-e5-small
+  batch_size: 32
+  device: cpu
+
+vector_database:
+  type: qdrant
+  host: localhost
+  port: 6333
+  url: http://localhost:6333
+  api_key: null
+  collection_Name: rag_banking_collection
+  distance: cosine
+  vector_size: 384
+  timeout: 30
+
+llm:
+  provider: ollama
+  model_name: qwen2.5:3b
+  base_url: http://localhost:11434
+  temperature: 0.2  #độ sáng tạo câu trả lời
+  max_tokens: 512   #giới hạn token
+  timeout: 60
+
+retrieval:
+  top_k: 5  #số lượng chunk lấy về dùng làm ngữ cảnh cho llm
+  score:threshold: 0.4   # sau khi tính cosine thì chỉ lấy chunk có điểm số trên ngưỡng này

@@ -1,0 +1,257 @@
+[
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0001",
+    "text": "1 DỊCH VỤ NGÂN HÀNG QUA TIN NHẮN ĐIỆN THOẠI DI ĐỘNG (VCB – SMS B@NKING) CÁC CÂU HỎI THƯỜNG GẶP 2 Mục lục I. Đăng ký dịch vụ: ............................................................................................................................. 3 Câu 1: Tôi có thể đăng ký sử dụng dịch vụ VCB-SMS B@nking ở đâu? ................................................ 3 Câu 2: Tôi có thể đăng ký bao nhiêu số điện thoại sử dụng dịch vụ VCB-SMS B@nking?.................... 3 Câu 3: Làm thế nào để đăng ký sử dụng tính năng nhận tin nhắn chủ động (SMS chủ động)? ............... 3 Câu 4: Làm thế nào để đăng ký được tính năng SMS chủ động tại kênh ngân hàng trực tuyến VCB- iB@nking? ................................................................................................................................................ 3 Câu 5: Tôi có thể thay đổi số điện thoại hoặc thay đổi số tài khoản mặc định sử dụng dịch vụ VCB- SMS B@nking ở đâu? ......................................................",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 1,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0002",
+    "text": ".......................... 3 Câu 5: Tôi có thể thay đổi số điện thoại hoặc thay đổi số tài khoản mặc định sử dụng dịch vụ VCB- SMS B@nking ở đâu? .............................................................................................................................. 4 Câu 6: Tôi muốn sử dụng tính năng VCB-eTopup để nạp tiền tài khoản điện thoại di động trả trước thì cần phải đáp ứng những yêu cầu gì?......................................................................................................... 4 Câu 7: Tôi đã đăng ký dịch vụ Ngân hàng trực tuyến VCB-iB@nking, để thực hiện chuyển khoản trên VCB-iB@nking tôi có cần đăng ký thêm dịch vụ VCB-SMS B@nking hay không? .............................. 4 Câu 8: Làm thế nào để đăng ký số điện thoại nhận OTP? ........................................................................ 4 II. Tính năng sản phẩm ....................................................................................................................... 4 Câu 9: N",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 2,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0003",
+    "text": "............................................ 4 II. Tính năng sản phẩm ....................................................................................................................... 4 Câu 9: Những tính năng Dịch vụ VCB-SMS B@nking đem lại cho khách hàng? .................................. 4 Câu 10: Tôi có thể sử dụng tính năng VCB-eTopup nạp tiền tài khoản điện thoại di động trả trước theo các mệnh giá nào ? .................................................................................................................................... 5 Câu 11: Tôi đã đăng ký sử dụng dịch vụ Roaming của Telco (Vinaphone, Mobifone, Viettel) thì có sử dụng được Dịch vụ VCB-SMS B@nking tại nước ngoài hay không? ..................................................... 5 Câu 12: Tôi sử dụng tính năng VCB-eTopup nạp tiền điện thoại đi động trả trước không thành công tuy nhiên tài khoản tiền gửi tại Vietcombank vẫn bị trừ?......................................................................... 5 Câu",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 3,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0004",
+    "text": "CB-eTopup nạp tiền điện thoại đi động trả trước không thành công tuy nhiên tài khoản tiền gửi tại Vietcombank vẫn bị trừ?......................................................................... 5 Câu 13: Trong các giao dịch trên kênh Ngân hàng trực tuyến VCB-iB@nking, tôi có phải nhắn tin để nhận OTP không? ..................................................................................................................................... 5 Câu 14: Tôi đã đăng ký sử dụng Dịch vụ VCB-SMS B@nking thành công tuy nhiên khi dùng điện thoại Iphone để gửi tin nhắn truy vấn đến đầu số 6167 không thấy phản hồi từ Dịch vụ. ....................... 6 Câu 15: Những loại giao dịch nào Vietcombank có gửi tin nhắn chủ động? ........................................... 6 III. Phí dịch vụ ....................................................................................................................................... 6 Câu 16: Phí sử dụng dịch vụ VCB-SMS B@nking được tính và thu như thế nào? ......",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 4,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0005",
+    "text": "..................................................................................................................... 6 Câu 16: Phí sử dụng dịch vụ VCB-SMS B@nking được tính và thu như thế nào? ................................. 6 Câu 17: Tôi có bị mất phí nhận OTP không? ........................................................................................... 7 Câu 18: Đầu mối hỗ trợ khách hàng trong quá trình sử dụng Dịch vụ? ................................................... 7 3 I. Đăng ký dịch vụ: Câu 1: Tôi có thể đăng ký sử dụng dịch vụ VCB-SMS B@nking ở đâu? Hiện tại khách hàng có thể đăng ký sử dụng Dịch vụ VCB-SMS B@nking tại các kênh sau: - Các quầy giao dịch của Vietcombank trên toàn quốc; - Qua Dịch vụ các máy ATM trên hệ thống của Vietcombank (áp dụng đối với Khách hàng sử dụng thẻ ghi nợ do Vietcombank phát hành). Câu 2: Tôi có thể đăng ký bao nhiêu số điện thoại sử dụng dịch vụ VCB-SMS B@nking? Mỗi khách hàng có thể đăng ký tối đa 03 số điện thoại sử dụng dịch vụ VCB-S",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 5,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0006",
+    "text": "ụng thẻ ghi nợ do Vietcombank phát hành). Câu 2: Tôi có thể đăng ký bao nhiêu số điện thoại sử dụng dịch vụ VCB-SMS B@nking? Mỗi khách hàng có thể đăng ký tối đa 03 số điện thoại sử dụng dịch vụ VCB-SMS B@nking tại kênh quầy giao dịch của Vietcombank trên toàn quốc. Câu 3: Làm thế nào để đăng ký sử dụng tính năng nhận tin nhắn chủ động (SMS chủ động)? Để kích hoạt tính năng SMS chủ động, khách hàng chỉ cần đăng ký 01 lần duy nhất bằng cách: - Soạn tin nhắn “VCB cd” gửi 6167 - Ngay khi đăng ký dịch vụ VCB-SMS Banking tại các điểm giao dịch của Vietcombank trên toàn quốc - Tại kênh Ngân hàng trực tuyến VCB-iB@nking Để dừng nhận SMS chủ động, khách hàng chỉ cần: - Soạn tin nhắn “VCB cd huy” gửi 6167; Câu 4: Làm thế nào để đăng ký được tính năng SMS chủ động tại kênh ngân hàng trực tuyến VCB-iB@nking? Tại VCB-iB@nking, khách hàng có thể lựa chọn 01 trong 03 hình thức sau để đăng ký tài khoản nhận SMS chủ động: (i) 01 tài khoản mặc định; (ii) tất cả các tài khoản tiền gửi thanh toán của khá",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 6,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0007",
+    "text": "B@nking? Tại VCB-iB@nking, khách hàng có thể lựa chọn 01 trong 03 hình thức sau để đăng ký tài khoản nhận SMS chủ động: (i) 01 tài khoản mặc định; (ii) tất cả các tài khoản tiền gửi thanh toán của khách hàng; (iii) một số tài khoản thanh toán của khách hàng. - Để đăng ký nhận SMS chủ động với biến động số dư của 01 tài khoản hoặc tất cả tài khoản của khách hàng: thực hiện thao tác “Kích hoạt SMS Chủ động” - Để đăng ký nhận SMS chủ động với biến động số dư của một vài tài khoản của khách hàng:  Bước 1: Khách hàng kích hoạt SMS chủ động: thực hiện thao tác “Kích hoạt SMS Chủ động” như trên, 4  Bước 2: Khách hàng thực hiện yêu cầu “Đăng ký bổ sung tài khoản nhận biến động” hoặc “Đăng ký tài khoản không nhận biến động”. Câu 5: Tôi có thể thay đổi số điện thoại hoặc thay đổi số tài khoản mặc định sử dụng dịch vụ VCB-SMS B@nking ở đâu? Hiện tại khách hàng có thể thay đổi số điện thoại hoặc thay đổi số tài khoản mặc định sử dụng dịch vụ VCB-SMS B@nking qua các kênh sau: - Các điểm giao dịch",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 7,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0008",
+    "text": "định sử dụng dịch vụ VCB-SMS B@nking ở đâu? Hiện tại khách hàng có thể thay đổi số điện thoại hoặc thay đổi số tài khoản mặc định sử dụng dịch vụ VCB-SMS B@nking qua các kênh sau: - Các điểm giao dịch của Vietcombank trên toàn quốc (kênh quầy). - Qua dịch vụ Ngân hàng trực tuyến VCB-iB@nking. Câu 6: Tôi muốn sử dụng tính năng VCB-eTopup để nạp tiền tài khoản điện thoại di động trả trước thì cần phải đáp ứng những yêu cầu gì? Để sử dụng tính năng VCB – eTopup, số điện thoại của khách hàngcần: - Đăng ký sử dụng Dịch vụ VCB-SMS B@nking - Là thuê bao trả trước của các mạng di động Vinaphone, Mobiphone hoặc Viettel. Câu 7: Tôi đã đăng ký dịch vụ Ngân hàng trực tuyến VCB-iB@nking, để thực hiện chuyển khoản trên VCB-iB@nking tôi có cần đăng ký thêm dịch vụ VCB-SMS B@nking hay không? Có, Để có thể thực hiện chuyển khoản trên VCB-iB@nking, ngoài việc đăng ký sử dụng dịch vụ Ngân hàng trực tuyến VCB-iB@nking, khách hàng phải đăng ký thêm dịch vụ VCB- SMS B@nking, để nhận mã xác thực OTP cho giao",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 8,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0009",
+    "text": "thực hiện chuyển khoản trên VCB-iB@nking, ngoài việc đăng ký sử dụng dịch vụ Ngân hàng trực tuyến VCB-iB@nking, khách hàng phải đăng ký thêm dịch vụ VCB- SMS B@nking, để nhận mã xác thực OTP cho giao dịch chuyển khoản (áp dụng trường hợp khách hàng lựa chọn nhận OTP qua SMS) hoặc để kích hoạt ứng dụng Vietcombank Smart OTP trước khi khách hàng sử dụng để nhận mã xác thực OTP cho giao dịch chuyển khoản (áp dụng trường hợp khách hàng lựa chọn nhận OTP qua ứng dụng Vietcombank Smart OTP). Câu 8: Làm thế nào để đăng ký số điện thoại nhận OTP? Để số điện thoại khách hàng nhận được OTP chủ động từ phía Vietcombank, số điện thoại của khách hàng phải: - Được đăng ký dịch vụ VCB-SMS B@nking tại Quầy giao dịch hoặc hệ thống ATM của Vietcombank; - Được đăng ký là số điện thoại nhận OTP tại kênh VCB-iB@nking. II. Tính năng sản phẩm Câu 9: Những tính năng Dịch vụ VCB-SMS B@nking đem lại cho khách hàng? 5 Bất cứ lúc nào 24 giờ trong ngày và 7 ngày trong tuần (24x7), dịch vụ VCB SMS- B@nking qua tổn",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 9,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0010",
+    "text": "iB@nking. II. Tính năng sản phẩm Câu 9: Những tính năng Dịch vụ VCB-SMS B@nking đem lại cho khách hàng? 5 Bất cứ lúc nào 24 giờ trong ngày và 7 ngày trong tuần (24x7), dịch vụ VCB SMS- B@nking qua tổng đài 6167 hỗ trợ khách hàng tra cứu các thông tin sau: - Thông tin về số dư tài khoản - Thông tin hạn mức của tất cả các loại thẻ tín dụng - Thông tin 05 giao dịch gần nhất và chi tiết từng giao dịch - Thông tin về tỉ giá, lãi suất - Thông tin địa điểm đặt máy ATM, quầy giao dịch. Ngoài ra, Vietcombank cung cấp các tính năng gia tăng trên SMS B@nking gồm: - Tính năng nhận tin nhắn chủ động - nhận tin nhắn thông báo mỗi khi thay đổi số dư tài khoản và chi tiêu thẻ tín dụng từ Vietcombank. - Tính năng nạp tiền cho thuê bao di động trả trước (VCB-eTopup) áp dụng cho các mạng di động Vinaphone, Mobifone, Viettel. Câu 10: Tôi có thể sử dụng tính năng VCB-eTopup nạp tiền tài khoản điện thoại di động trả trước theo các mệnh giá nào ? Hiện tại, tính năng VCB-eTopup hỗ trợ khách hàng nạp tiền qua",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 10,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0011",
+    "text": "obifone, Viettel. Câu 10: Tôi có thể sử dụng tính năng VCB-eTopup nạp tiền tài khoản điện thoại di động trả trước theo các mệnh giá nào ? Hiện tại, tính năng VCB-eTopup hỗ trợ khách hàng nạp tiền qua với các mệnh giá sau: 30 nghìn đồng (30N), 50 nghìn đồng (50N), 100 nghìn đồng (100N), 200 nghìn đồng (200N), 300 nghìn đồng (300N), 500 nghìn đồng (500N) cho các mạng di động Vinaphone, Mobifone và Viettel. Câu 11: Tôi đã đăng ký sử dụng dịch vụ Roaming của Telco (Vinaphone, Mobifone, Viettel) thì có sử dụng được Dịch vụ VCB-SMS B@nking tại nước ngoài hay không? Khách hàng đã đăng ký Dịch vụ Roaming của Telco có thể sử dụng Dịch vụ VCB-SMS B@nking như ở trong nước, cước phí tin nhắn khách hàng phải trả theo quy định của các Công ty viễn thông. Câu 12: Tôi sử dụng tính năng VCB-eTopup nạp tiền điện thoại đi động trả trước không thành công tuy nhiên tài khoản tiền gửi tại Vietcombank vẫn bị trừ? Hiện tượng trên thường xảy ra khi các mạng viễn thông triển khai khuyến mại mà nguyên nhân là do",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 11,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0012",
+    "text": "điện thoại đi động trả trước không thành công tuy nhiên tài khoản tiền gửi tại Vietcombank vẫn bị trừ? Hiện tượng trên thường xảy ra khi các mạng viễn thông triển khai khuyến mại mà nguyên nhân là do lỗi của các mạng viễn thông này. Trong trường hợp này, đề nghị Quý khách hàng liên hệ với Trung tâm Dịch vụ Khách hàng Vietcombank theo số điện thoại 1900545413 để được hỗ trợ giải quyết. Câu 13: Trong các giao dịch trên kênh Ngân hàng trực tuyến VCB-iB@nking, tôi có phải nhắn tin để nhận OTP không? 6 Không, Vietcombank sẽ chủ động gửi OTP tới số điện thoại đăng ký ngay khi khách hàng hoàn tất xác nhận nếu KH đăng ký nhận OTP qua SMS. KH cũng có thể đăng ký nhận OTP qua Smart OTP hoặc thẻ EMV. Câu 14: Tôi đã đăng ký sử dụng Dịch vụ VCB-SMS B@nking thành công tuy nhiên khi dùng điện thoại Iphone để gửi tin nhắn truy vấn đến đầu số 6167 không thấy phản hồi từ Dịch vụ. Theo phản hồi của khách hàng khi sử dụng Dịch vụ VCB-SMS B@nking, các dòng máy Iphone và Blackberry có thể bị lỗi khi sử dụn",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 12,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0013",
+    "text": "ne để gửi tin nhắn truy vấn đến đầu số 6167 không thấy phản hồi từ Dịch vụ. Theo phản hồi của khách hàng khi sử dụng Dịch vụ VCB-SMS B@nking, các dòng máy Iphone và Blackberry có thể bị lỗi khi sử dụng Dịch vụ (nhắn tin đến tổng đài 6167, tuy nhiên không nhận được tin nhắn phản hồi từ Dịch vụ). Trong trường hợp này, đề nghị quý khách hàng liên hệ với các công ty viễn thông để được hướng dẫn cài đặt sử dụng Dịch vụ giá trị gia tăng trên từng loại máy. Câu 15: Những loại giao dịch nào Vietcombank có gửi tin nhắn chủ động? - Giao dịch trích nợ tài khoản thông thường do khách hàng tự thực hiện: rút tiền, chuyển tiền, thanh toán. - Giao dịch ghi có tài khoản thông thường do cá nhân/tổ chức khác chủ động thực hiện chuyển tiền đến. III. Phí dịch vụ Câu 16: Phí sử dụng dịch vụ VCB-SMS B@nking được tính và thu như thế nào? - Mức phí: 8.800 đồng/tháng/số điện thoại (đã bao gồm VAT). - Mức phí này chỉ áp dụng với số điện thoại có trạng thái kích hoạt SMS chủ động trong tháng tính phí và không bao",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 13,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0014",
+    "text": "tính và thu như thế nào? - Mức phí: 8.800 đồng/tháng/số điện thoại (đã bao gồm VAT). - Mức phí này chỉ áp dụng với số điện thoại có trạng thái kích hoạt SMS chủ động trong tháng tính phí và không bao gồm phí tin nhắn khách hàng gửi đến đầu số ngắn 6167, của dịch vụ VCB-SMS B@nking (1.500 đồng/ tin nhắn với nhà mạng Viettel, Vinaphone, Mobifone; 1000 đồng/ tin nhắn với nhà mạng Vietnamobile, Gmobile – đã bao gồm VAT) - Vietcombank thu trực tiếp từ tài khoản mặc định sử dụng dịch vụ của từng số điện thoại khách hàng mở tại Vietcombank vào thời điểm đầu tháng kế tiếp, không phụ thuộc vào số lượng tin nhắn SMS Chủ động khách hàng nhận được trong tháng. - Nếu trong tháng, khách hàng thực hiện ngừng sử dụng dịch vụ VCB-SMS B@nking hoặc ngừng tính năng SMS Chủ động, Vietcombank vẫn thu phí của tháng đó. Chính sách ưu đãi: 7 - Mức ưu đãi: Vietcombank miễn phí 8.800 đồng/số điện thoại trong tháng đầu tiên đăng ký dịch vụ VCB-SMS B@nking. - Đối tượng ưu đãi: Số điện thoại lần đầu đăng ký sử dụn",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 14,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  },
+  {
+    "id": "vcb_faq_sms_banking_v1_chunk_0015",
+    "text": "háng đó. Chính sách ưu đãi: 7 - Mức ưu đãi: Vietcombank miễn phí 8.800 đồng/số điện thoại trong tháng đầu tiên đăng ký dịch vụ VCB-SMS B@nking. - Đối tượng ưu đãi: Số điện thoại lần đầu đăng ký sử dụng dịch vụ VCB-SMS B@nking tại Quầy giao dịch trong thời gian ưu đãi. - Thời gian ưu đãi: từ 05/08/2015 đến khi có thông báo mới của Vietcombank. Câu 17: Tôi có bị mất phí nhận OTP không? Với cơ chế chủ động gửi OTP tới số điện thoại khách hàng, Vietcombank hoàn toàn miễn phí việc nhận OTP của khách hàng. Câu 18: Đầu mối hỗ trợ khách hàng trong quá trình sử dụng Dịch vụ? Trong quá trình sử dụng Dịch vụ, nếu có vướng mắc, quý khách có thể tham khảo vể thông tin hướng dẫn sử dụng Dịch vụ tại website của Vietcombank www.vietcombank.com.vn hoặc liên hệ với Trung tâm Dịch vụ Khách hàng Vietcombank theo số điện thoại 1900 54 54 13 để được hỗ trợ giải quyết.",
+    "metadata": {
+      "file_path": "data/raw/vcb-FAQ - SMS Banking.pdf",
+      "file_name": "vcb-FAQ - SMS Banking.pdf",
+      "chunk_index": 15,
+      "char_count": 858,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "faq",
+      "topic": "sms_banking",
+      "version": "v1",
+      "run_id": "20260418_150000",
+      "created_at": "2026-04-18T15:43:52"
+    }
+  }
+]
