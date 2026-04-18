@@ -18,7 +18,7 @@ vector_database:
   port: 6333
   url: http://localhost:6333
   api_key: null
-  collection_Name: rag_banking_collection
+  collection_name: rag_banking_collection
   distance: cosine
   vector_size: 384
   timeout: 30
@@ -33,4 +33,4 @@ llm:
 
 retrieval:
   top_k: 5  #số lượng chunk lấy về dùng làm ngữ cảnh cho llm
-  score:threshold: 0.4   # sau khi tính cosine thì chỉ lấy chunk có điểm số trên ngưỡng này
+  score_threshold: 0.4   # sau khi tính cosine thì chỉ lấy chunk có điểm số trên ngưỡng này
