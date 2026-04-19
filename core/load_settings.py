@@ -1,5 +1,6 @@
 import os
 
+
 def load_settings(settings):
     # APP
     if os.getenv("APP_ENV"):
@@ -13,14 +14,14 @@ def load_settings(settings):
         settings["embedding"]["device"] = os.getenv("EMBEDDING_DEVICE")
 
     # VECTOR DB
-    if os.getenv("VECTOR_DB_HOST"):
-        settings["vector_database"]["host"] = os.getenv("VECTOR_DB_HOST")
+    if os.getenv("VECTOR_DB_URL"):
+        settings["vector_database"]["url"] = os.getenv("VECTOR_DB_URL")
 
-    if os.getenv("VECTOR_DB_PORT"):
-        settings["vector_database"]["port"] = int(os.getenv("VECTOR_DB_PORT"))
+    if os.getenv("VECTOR_DB_TIMEOUT"):
+        settings["vector_database"]["timeout"] = int(os.getenv("VECTOR_DB_TIMEOUT"))
 
     if os.getenv("VECTOR_DB_COLLECTION"):
-        settings["vector_database"]["collection_Name"] = os.getenv("VECTOR_DB_COLLECTION")
+        settings["vector_database"]["collection_name"] = os.getenv("VECTOR_DB_COLLECTION")
 
     # LLM
     if os.getenv("LLM_MODEL_NAME"):
@@ -41,5 +42,11 @@ def load_settings(settings):
 
     if os.getenv("SCORE_THRESHOLD"):
         settings["retrieval"]["score_threshold"] = float(os.getenv("SCORE_THRESHOLD"))
+
+    if os.getenv("DENSE_WEIGHT"):
+        settings["retrieval"]["dense_weight"] = float(os.getenv("DENSE_WEIGHT"))
+
+    if os.getenv("LEXICAL_WEIGHT"):
+        settings["retrieval"]["lexical_weight"] = float(os.getenv("LEXICAL_WEIGHT"))
 
     return settings
