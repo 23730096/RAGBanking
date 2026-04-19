@@ -27,10 +27,20 @@ llm:
   provider: ollama
   model_name: qwen2.5:3b
   base_url: http://localhost:11434
-  temperature: 0.2  #độ sáng tạo câu trả lời
-  max_tokens: 512   #giới hạn token
+  temperature: 0.2
+  max_tokens: 512
   timeout: 60
 
 retrieval:
-  top_k: 5  #số lượng chunk lấy về dùng làm ngữ cảnh cho llm
-  score_threshold: 0.4   # sau khi tính cosine thì chỉ lấy chunk có điểm số trên ngưỡng này
+  top_k: 5
+  score_threshold: 0.4
+
+  # hybrid config
+  dense_weight: 0.7
+  lexical_weight: 0.3
+  dense_candidate_multiplier: 4
+
+  # answer quality control
+  min_context_items: 2
+  min_answer_score: 0.5
+  max_context_chars: 4000
