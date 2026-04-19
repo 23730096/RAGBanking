@@ -33,6 +33,7 @@ def call_ollama(prompt: str, settings: Dict[str, Any]) -> str:
     }
 
     timeout = int(llm_cfg.get("timeout", 60))
+    LOGGER.info("Calling Ollama | model=%s | timeout=%s", llm_cfg["model_name"], timeout)
     response = requests.post(url, json=payload, timeout=timeout)
     response.raise_for_status()
 
@@ -50,14 +51,24 @@ def should_abstain(results: List[Dict], min_items: int, min_score: float) -> boo
 def generate_answer(question: str) -> Dict[str, Any]:
     settings = load_app_settings()
 
+    LOGGER.info("Question: %s", question)
     retrieved_results = hybrid_retrieve(question)
 
     retrieval_cfg = settings.get("retrieval", {})
-    min_items = int(retrieval_cfg.get("min_context_items", 2))
-    min_score = float(retrieval_cfg.get("min_answer_score", 0.5))
+    min_items = int(retrieval_cfg.get("min_context_items", 1))
+    min_score = float(retrieval_cfg.get("min_answer_score", 0.4))
     max_chars = int(retrieval_cfg.get("max_context_chars", 4000))
 
+    LOGGER.info(
+        "Decision config | min_items=%s | min_score=%s | max_chars=%s | retrieved=%s",
+        min_items,
+        min_score,
+        max_chars,
+        len(retrieved_results),
+    )
+
     if should_abstain(retrieved_results, min_items, min_score):
+        LOGGER.warning("Abstain before context selection | retrieved=%s", len(retrieved_results))
         return {
             "question": question,
             "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
@@ -65,8 +76,10 @@ def generate_answer(question: str) -> Dict[str, Any]:
         }
 
     selected, dropped = select_context_chunks(retrieved_results, max_chars)
+    LOGGER.info("Context selection | selected=%s | dropped=%s", len(selected), len(dropped))
 
     if should_abstain(selected, min_items, min_score):
+        LOGGER.warning("Abstain after context selection | selected=%s", len(selected))
         return {
             "question": question,
             "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
