@@ -9,55 +9,13 @@ import requests
 
 from core.setup_logging import setup_logging
 from core.rag_runtime import load_app_settings, hybrid_retrieve
+from generation.prompt_builder import (
+    build_prompt,
+    select_context_chunks,
+    build_sources,
+)
 
 LOGGER = logging.getLogger("generation.rag")
-
-
-def build_context_block(results: List[Dict[str, Any]]) -> str:
-    blocks: List[str] = []
-
-    for idx, item in enumerate(results, start=1):
-        metadata = item.get("metadata", {})
-        source_file = metadata.get("source_filename") or metadata.get("source_file") or "unknown_source"
-
-        block = (
-            f"[Nguồn {idx}]\n"
-            f"chunk_id: {item.get('chunk_id')}\n"
-            f"score: {item.get('score'):.4f}\n"
-            f"source: {source_file}\n"
-            f"nội dung: {item.get('text')}\n"
-        )
-        blocks.append(block)
-
-    return "\n".join(blocks)
-
-
-def build_prompt(question: str, results: List[Dict[str, Any]]) -> str:
-    context = build_context_block(results)
-
-    return f"""
-Bạn là trợ lý hỏi đáp nghiệp vụ ngân hàng theo hướng RAG (Hybrid).
-
-Nhiệm vụ:
-- Chỉ được trả lời dựa trên phần NGỮ CẢNH được cung cấp.
-- Không tự bịa thêm thông tin.
-- Nếu ngữ cảnh không đủ để kết luận, phải trả lời rõ là: "Không đủ thông tin trong dữ liệu để trả lời."
-- Trả lời ngắn gọn, đúng trọng tâm.
-- Cuối câu trả lời phải liệt kê nguồn.
-
-CÂU HỎI:
-{question}
-
-NGỮ CẢNH:
-{context}
-
-ĐỊNH DẠNG:
-Trả lời:
-...
-
-Nguồn:
-- ...
-""".strip()
 
 
 def call_ollama(prompt: str, settings: Dict[str, Any]) -> str:
@@ -81,35 +39,50 @@ def call_ollama(prompt: str, settings: Dict[str, Any]) -> str:
     return response.json().get("response", "").strip()
 
 
+def should_abstain(results: List[Dict], min_items: int, min_score: float) -> bool:
+    if len(results) < min_items:
+        return True
+
+    strong = [r for r in results if r.get("score", 0) >= min_score]
+    return len(strong) == 0
+
+
 def generate_answer(question: str) -> Dict[str, Any]:
     settings = load_app_settings()
 
     retrieved_results = hybrid_retrieve(question)
 
-    if not retrieved_results:
+    retrieval_cfg = settings.get("retrieval", {})
+    min_items = int(retrieval_cfg.get("min_context_items", 2))
+    min_score = float(retrieval_cfg.get("min_answer_score", 0.5))
+    max_chars = int(retrieval_cfg.get("max_context_chars", 4000))
+
+    if should_abstain(retrieved_results, min_items, min_score):
         return {
             "question": question,
             "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
             "sources": [],
         }
 
-    prompt = build_prompt(question, retrieved_results)
+    selected, dropped = select_context_chunks(retrieved_results, max_chars)
+
+    if should_abstain(selected, min_items, min_score):
+        return {
+            "question": question,
+            "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
+            "sources": [],
+        }
+
+    prompt = build_prompt(question, selected)
     answer = call_ollama(prompt, settings)
 
-    sources = []
-    for item in retrieved_results:
-        metadata = item.get("metadata", {})
-        source_file = metadata.get("source_filename") or metadata.get("source_file") or "unknown_source"
-        sources.append({
-            "chunk_id": item.get("chunk_id"),
-            "score": item.get("score"),
-            "source": source_file,
-        })
+    sources = build_sources(selected)
 
     return {
         "question": question,
         "answer": answer,
         "sources": sources,
+        "dropped_context": len(dropped),
     }
 
 
