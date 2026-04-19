@@ -62,9 +62,29 @@ def api_retrieve(payload: AskRequest):
     return {"question": question, "results": retrieve(question)}
 
 
-@app.post("/api/ask", response_model=AskResponse)
-def api_ask(payload: AskRequest):
+def _handle_ask(payload: AskRequest):
     question = (payload.question or "").strip()
     if not question:
         raise HTTPException(status_code=400, detail="Question is required")
     return generate_answer(question)
+
+
+@app.post("/api/ask", response_model=AskResponse)
+def api_ask(payload: AskRequest):
+    return _handle_ask(payload)
+
+
+# alias routes for frontend compatibility
+@app.post("/ask", response_model=AskResponse)
+def ask_alias(payload: AskRequest):
+    return _handle_ask(payload)
+
+
+@app.post("/chat", response_model=AskResponse)
+def chat_alias(payload: AskRequest):
+    return _handle_ask(payload)
+
+
+@app.post("/query", response_model=AskResponse)
+def query_alias(payload: AskRequest):
+    return _handle_ask(payload)
