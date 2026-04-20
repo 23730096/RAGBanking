@@ -734,3 +734,45 @@
 [2026-04-20 09:12:53] INFO - generation.rag - Decision config | min_items=2 | min_score=0.5 | max_chars=4000 | retrieved=5
 [2026-04-20 09:12:53] INFO - generation.rag - Context selection | selected=3 | dropped=2
 [2026-04-20 09:12:53] INFO - generation.rag - Calling Ollama | model=qwen2.5:3b | timeout=60
+[2026-04-20 09:42:05] INFO - generation.rag - Question: toi can mo tai khoan
+[2026-04-20 09:42:06] INFO - httpx - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+[2026-04-20 09:42:06] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:06] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:06] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:06] WARNING - huggingface_hub.utils._http - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-04-20 09:42:06] INFO - sentence_transformers.base.model - Loading SentenceTransformer model from intfloat/multilingual-e5-small.
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/README.md "HTTP/1.1 200 OK"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:07] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/sentence_bert_config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:08] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:08] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:08] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:08] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:09] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:09] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:09] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:09] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:09] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:10] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:11] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:11] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:11] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[2026-04-20 09:42:11] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-04-20 09:42:13] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 09:42:14] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 09:42:14] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[2026-04-20 09:42:14] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 09:42:15] INFO - httpx - HTTP Request: POST http://localhost:6333/collections/rag_banking_collection/points/query "HTTP/1.1 200 OK"
+[2026-04-20 09:42:15] INFO - rag.runtime - Hybrid retrieval done | question=toi can mo tai khoan | dense_limit=20 | final=20
+[2026-04-20 09:42:15] INFO - generation.rag - Decision config | min_items=1 | min_score=0.45 | max_chars=4000 | retrieved=5
+[2026-04-20 09:42:15] INFO - generation.rag - Context selection | selected=4 | dropped=1
+[2026-04-20 09:42:15] INFO - generation.rag - Calling Ollama | model=qwen2.5:3b | timeout=60
