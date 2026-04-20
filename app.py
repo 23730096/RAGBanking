@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Optional
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -91,26 +91,56 @@ def query_alias(payload: AskRequest):
     return _handle_ask(payload)
 
 
-# ================= DOCUMENT DOWNLOAD =================
+# ================= DOCUMENT ACCESS =================
 
 
-def _find_file_by_name(file_name: str) -> Optional[Path]:
+def _iter_document_files():
     settings = load_app_settings()
     data_cfg = settings.get("data", {})
 
     raw_dir = BASE_DIR / data_cfg.get("raw_dir", "data/raw")
     processed_dir = BASE_DIR / data_cfg.get("processed_dir", "data/processed")
 
-    file_name = file_name.lower()
+    preferred_suffixes = {".pdf", ".doc", ".docx", ".txt", ".json"}
+    seen = set()
 
     for base_dir in [raw_dir, processed_dir]:
         if not base_dir.exists():
             continue
-        for path in base_dir.rglob("*"):
-            if path.is_file() and path.name.lower() == file_name:
-                return path
+        for path in sorted(base_dir.rglob("*")):
+            if not path.is_file():
+                continue
+            if path.suffix.lower() not in preferred_suffixes:
+                continue
+            key = path.name.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            yield path
 
+
+def _find_file_by_name(file_name: str) -> Optional[Path]:
+    file_name = file_name.lower()
+    for path in _iter_document_files():
+        if path.name.lower() == file_name:
+            return path
     return None
+
+
+@app.get("/api/documents")
+def list_documents():
+    items = []
+    for path in _iter_document_files():
+        encoded_name = quote(path.name)
+        items.append(
+            {
+                "file_name": path.name,
+                "extension": path.suffix.lower(),
+                "download_url": f"/api/documents/{encoded_name}",
+                "open_url": f"/api/documents/{encoded_name}",
+            }
+        )
+    return {"items": items, "count": len(items)}
 
 
 @app.get("/api/documents/{file_name}")
