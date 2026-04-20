@@ -1,11 +1,35 @@
 from __future__ import annotations
 
+from pathlib import Path
 from typing import Dict, List, Tuple
+from urllib.parse import quote
 
 
 def _resolve_source_name(item: Dict) -> str:
     metadata = item.get("metadata", {}) or {}
-    return metadata.get("source_filename") or metadata.get("source_file") or "unknown_source"
+
+    file_name = metadata.get("file_name")
+    if file_name:
+        return str(file_name)
+
+    file_path = metadata.get("file_path")
+    if file_path:
+        return Path(str(file_path)).name
+
+    source_filename = metadata.get("source_filename")
+    if source_filename:
+        return str(source_filename)
+
+    source_file = metadata.get("source_file")
+    if source_file:
+        return Path(str(source_file)).name
+
+    return "unknown_source"
+
+
+def _resolve_source_path(item: Dict) -> str:
+    metadata = item.get("metadata", {}) or {}
+    return str(metadata.get("file_path") or metadata.get("source_file") or "").strip()
 
 
 def select_context_chunks(results: List[Dict], max_context_chars: int) -> Tuple[List[Dict], List[Dict]]:
@@ -42,10 +66,6 @@ def build_context_block(results: List[Dict]) -> str:
         source_file = _resolve_source_name(item)
         block = (
             f"[Nguồn {idx}]\n"
-            f"chunk_id: {item.get('chunk_id')}\n"
-            f"score_hybrid: {item.get('score', 0):.4f}\n"
-            f"score_dense: {item.get('dense_score', 0):.4f}\n"
-            f"score_lexical: {item.get('lexical_score', 0):.4f}\n"
             f"source: {source_file}\n"
             f"nội dung: {item.get('text')}\n"
         )
@@ -69,6 +89,7 @@ Quy tắc bắt buộc:
 - Ưu tiên câu trả lời ngắn, rõ, đúng trọng tâm.
 - Khi trả lời được, phải nêu các ý bám sát chứng cứ trong ngữ cảnh.
 - Sau phần trả lời, liệt kê nguồn thực sự đã dùng; không liệt kê nguồn không dùng.
+- Không được nhắc đến chunk_id, score_hybrid, score_dense hoặc score_lexical trong câu trả lời.
 
 CÂU HỎI:
 {question}
@@ -90,19 +111,20 @@ def build_sources(results: List[Dict]) -> List[Dict]:
     sources: List[Dict] = []
 
     for item in results:
-        source = _resolve_source_name(item)
-        key = (item.get("chunk_id"), source)
+        source_name = _resolve_source_name(item)
+        source_path = _resolve_source_path(item)
+        key = (source_name, source_path)
         if key in seen:
             continue
         seen.add(key)
-        sources.append(
-            {
-                "chunk_id": item.get("chunk_id"),
-                "score": item.get("score"),
-                "dense_score": item.get("dense_score"),
-                "lexical_score": item.get("lexical_score"),
-                "source": source,
-            }
-        )
+
+        source_payload = {
+            "source": source_name,
+            "file_name": source_name,
+            "file_path": source_path,
+            "score": item.get("score"),
+            "download_url": f"/api/documents/{quote(source_name)}" if source_name and source_name != "unknown_source" else None,
+        }
+        sources.append(source_payload)
 
     return sources
