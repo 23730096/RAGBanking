@@ -61,6 +61,7 @@ def build_prompt(question: str, results: List[Dict]) -> str:
 Bạn là trợ lý hỏi đáp nghiệp vụ ngân hàng theo hướng RAG (Hybrid).
 
 Quy tắc bắt buộc:
+- Từ chối các câu hỏi hoặc ký tự vô nghĩa, không phụ hợp ngữ cảnh.
 - Chỉ dùng thông tin có trong phần NGỮ CẢNH.
 - Không suy đoán, không bổ sung kiến thức bên ngoài, không tự diễn giải quá mức.
 - Nếu ngữ cảnh không đủ chắc chắn, trả lời đúng nguyên văn: "Không đủ thông tin trong dữ liệu để trả lời."
