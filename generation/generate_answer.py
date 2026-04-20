@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 from pathlib import Path
+import re
 from typing import Any, Dict, List
 
 import requests
@@ -40,18 +41,64 @@ def call_ollama(prompt: str, settings: Dict[str, Any]) -> str:
     return response.json().get("response", "").strip()
 
 
+BANKING_HINTS = [
+    "tài khoản", "tai khoan", "mở tài khoản", "mo tai khoan", "thẻ", "the",
+    "thẻ tín dụng", "the tin dung", "thẻ ghi nợ", "vay", "tiết kiệm", "tiet kiem",
+    "lãi suất", "lai suat", "chuyển khoản", "chuyen khoan", "napas", "sms banking",
+    "internet banking", "mobile banking", "ibanking", "ebanking", "otp", "phí",
+    "phi", "biểu phí", "bieu phi", "hạn mức", "han muc", "atm", "swift",
+    "cif", "sổ tiết kiệm", "so tiet kiem", "ngân hàng", "ngan hang"
+]
+
+SMALLTALK_PATTERNS = [
+    "xin chào", "chào", "hello", "hi", "bạn là ai", "ban la ai", "cảm ơn", "cam on", "tạm biệt", "tam biet"
+]
+
+
+def _normalize_router_text(text: str) -> str:
+    text = (text or "").strip().lower()
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+
+def is_smalltalk(question: str) -> bool:
+    q = _normalize_router_text(question)
+    return any(p in q for p in SMALLTALK_PATTERNS)
+
+
+def is_banking_related(question: str) -> bool:
+    q = _normalize_router_text(question)
+    return any(k in q for k in BANKING_HINTS)
+
+
 def should_abstain(results: List[Dict], min_items: int, min_score: float) -> bool:
-    if len(results) < min_items:
+    if not results:
         return True
 
-    strong = [r for r in results if r.get("score", 0) >= min_score]
-    return len(strong) == 0
+    if len(results) >= min_items:
+        strong = [r for r in results if r.get("score", 0) >= min_score]
+        if strong:
+            return False
+
+    top_score = float(results[0].get("score", 0))
+    if top_score >= min_score:
+        return False
+
+    return True
 
 
 def generate_answer(question: str) -> Dict[str, Any]:
     settings = load_app_settings()
 
     LOGGER.info("Question: %s", question)
+    if is_smalltalk(question) and not is_banking_related(question):
+        return {
+            "question": question,
+            "answer": "Xin chào! Tôi là trợ lý hỏi đáp nghiệp vụ ngân hàng. Bạn hãy nhập câu hỏi về sản phẩm, dịch vụ, biểu phí, thủ tục hoặc quy định ngân hàng.",
+            "sources": [],
+            "dropped_context": 0,
+        }
+
     retrieved_results = hybrid_retrieve(question)
 
     retrieval_cfg = settings.get("retrieval", {})
@@ -71,8 +118,9 @@ def generate_answer(question: str) -> Dict[str, Any]:
         LOGGER.warning("Abstain before context selection | retrieved=%s", len(retrieved_results))
         return {
             "question": question,
-            "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
+            "answer": "Không tìm thấy đủ bằng chứng phù hợp trong dữ liệu để trả lời chắc chắn. Bạn có thể hỏi rõ hơn về sản phẩm, dịch vụ, biểu phí hoặc thủ tục ngân hàng cần tra cứu.",
             "sources": [],
+            "dropped_context": 0,
         }
 
     selected, dropped = select_context_chunks(retrieved_results, max_chars)
@@ -82,8 +130,9 @@ def generate_answer(question: str) -> Dict[str, Any]:
         LOGGER.warning("Abstain after context selection | selected=%s", len(selected))
         return {
             "question": question,
-            "answer": "Không đủ thông tin trong dữ liệu để trả lời.",
+            "answer": "Không tìm thấy đủ bằng chứng phù hợp trong dữ liệu để trả lời chắc chắn. Bạn có thể hỏi rõ hơn về sản phẩm, dịch vụ, biểu phí hoặc thủ tục ngân hàng cần tra cứu.",
             "sources": [],
+            "dropped_context": len(dropped),
         }
 
     prompt = build_prompt(question, selected)
