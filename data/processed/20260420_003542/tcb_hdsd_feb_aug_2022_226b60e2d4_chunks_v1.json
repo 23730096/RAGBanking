@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0001",
+    "text": "1 Hướng dẫn sửdụng DỊCH VỤ NGÂN HÀNG ĐIỆN TỬ DÀNH CHO DOANH NGHIỆP TỐI ƯU HIỆU QUẢ & AN TOÀN BẢO MẬT 1 DỊCH VỤ NGÂN HÀNG ĐIỆN TỬ CHO DOANH NGHIỆP TỐI ƯU HIỆU QUẢ & AN TOÀN BẢO MẬT Doanh nghiệp dễdàng sửdụng dịch vụngân hàng điện tửF@ST EBANK của Techcombank đểthực hiện giao dịch tài chính và quản lý tài khoản nhanh chóng, an toàn, hiệu quảmọi lúc, mọi nơi thông qua kết nối internet. AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ Cẩm nang hướng dẫn 3 PHẦN 1: ĐĂNG NHẬP DỊCH VỤ Đăng nhập lần đầu 6 Khôi phục mật khẩu 7 Mở khóa tên truy cập 12 PHẦN 2: TRUY VẤN, BÁO CÁO Thông tin tài khoản 17 Truy vấn tài khoản 18 Báo cáo tài khoản 29 Truy vấn Hợp đồng tiền gửi 31 Truy vấn Tiền gửi trực tuyến 32 Truy vấn Tài trợ thương mại 33 Truy vấn khoản vay 36 Tính năng quản trị khác 38 PHẦN 3: TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH Chuyển tiền đơn VND trong Techcombank 44 Chuyển tiền đơn VND ngoài Techcombank 45 Chuyển tiền nhanh 2",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 1,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0002",
+    "text": "mại 33 Truy vấn khoản vay 36 Tính năng quản trị khác 38 PHẦN 3: TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH Chuyển tiền đơn VND trong Techcombank 44 Chuyển tiền đơn VND ngoài Techcombank 45 Chuyển tiền nhanh 24/7 46 Chuyển tiền quốc tế 47 Chuyển ngoại tệ trong nước 60 Chuyển tiền tới Tài khoản định danh 61 Bán ngoại tệ 62 Chuyển khoản lô/lương trong Techcombank 65 Chuyển khoản lô/lương ngoài Techcombank 72 Trả lương ngoại tệ theo lô 73 Yêu cầu tra soát 77 Thanh toán thuế Hải quan – Lệnh đơn 78 Thanh toán thuế Hải quan – Lệnh lô 82 Thanh toán trực tuyến khác 84 Mở tài khoản tiền gửi trực tuyến 86 Thanh toán khoản vay 88 PHẦN 4: TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH ………………………………………………………………………………... 90 PHẦN 5: HƯỚNG DẪN XÁC THỰC GIAO DỊCH ………………………………………………………………………………….98 MỤC LỤC PHẦN 1: ĐĂNG NHẬP DỊCH VỤ AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ LƯU Ý THIẾT BỊ/TRÌNH DUYỆT KHI SỬ DỤNG Quý khách đăng nhập hệ thống F@",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 2,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0003",
+    "text": "H VỤ AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ LƯU Ý THIẾT BỊ/TRÌNH DUYỆT KHI SỬ DỤNG Quý khách đăng nhập hệ thống F@ST EBank theo đường dẫn: https://ib.techcombank.com.vn/corp/servlet/BrowserServlet Để trải nghiệm tốt nhất trên hệ thống F@st EBank tương thích, Quý khách vui lòng trình duyệt Firefox hoặc Chrome trên giao diện Desktop. 5 Cẩm nang hướng dẫn ĐĂNG NHẬP LẦN ĐẦU Quý khách đăng nhập hệ thống F@ST EBank theo đường dẫn: https://ib.techcombank.com.vn/corp/servlet/BrowserServlet 1 2 Tên truy cập đã được cung cấp tại thời điểm đăng ký dịch vụvà được gửi tới địa chỉ email đăng ký với Techcombank. Mật khẩu truy cập lần đầu được gửi qua sốđiện thoại đăng ký với Techcombank Quý khách đăng nhập và thực hiện đổi Mật khẩu mới. Sau khi đổi mật khẩu mới thành công, hệthống tựđộng quay vềmàn hình đăng nhập. 1 2 6 Cẩm nang hướng dẫn KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN Quý khách lựa chọn tính năng “QUÊN MẬT KHẨU” trê",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 3,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0004",
+    "text": "đổi Mật khẩu mới. Sau khi đổi mật khẩu mới thành công, hệthống tựđộng quay vềmàn hình đăng nhập. 1 2 6 Cẩm nang hướng dẫn KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN Quý khách lựa chọn tính năng “QUÊN MẬT KHẨU” trên màn hình đăng nhập F@st EBank 1 Tính năng này cho phép khách hàng chủđộng thiết lập lại mật khẩu trong trường hợp khách hàng quên mật khâu đăng nhập. Đểthực hiện tính năng Khôi phục mật khẩu, khách hàng cần xác thực bằng mã OTP. - Mã OTP được sinh ra bởi Smart OTP/Token nâng cao nếu khách hàng đã kích hoạt thành công. - Hoặc Mã OTP được gửi qua tin nhắn đến sốđiện thoại đăng ký nếu khách hàng chưa kích hoạt thành công Smart OTP/Token nâng cao hoặc khách hàng sửdụng gói truy vấn 1 7 Cẩm nang hướng dẫn KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN [TIẾP THEO ] 1 Quý khách nhập thông tin Mã sốdoanh nghiệp 1 Quý khách nhập thông tin Tên truy cập cần khôi phục mật khẩu 2 Quý khách nhập số CMTND/Hộ chiếu/CCCD Quý khách nhập sốđiện thoại liên hệ (Sốđiện thoại quý khách đã đăng ký với TCB) 1 Quý khách nhập sốtà",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 4,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0005",
+    "text": "ý khách nhập thông tin Tên truy cập cần khôi phục mật khẩu 2 Quý khách nhập số CMTND/Hộ chiếu/CCCD Quý khách nhập sốđiện thoại liên hệ (Sốđiện thoại quý khách đã đăng ký với TCB) 1 Quý khách nhập sốtài khoản thanh toán của DN 2 Quý khách nhập Mã Captcha hiển thị tương ứng 3 Quý khách chọn Thực hiện đểxác thực giao dịch 5 1 2 23 4 5 5 6 1 2 3 4 5 6 7 4 7 8 Cẩm nang hướng dẫn XÁC THỰC BẰNG SMART OTP/ TOKEN NÂNG CAO Quý khách đăng nhập ứng dụng Smart OTP/ thiết bịToken nâng cao, quét QR code/nhập Mã giao dịch và Mã PIN đểlấy mã OTP 1 Quý khách nhập Mã xác thực OTP hiển thị trên ứng dụng Smart OTP hoặc trên thiết bị Token nâng cao 2 Quý khách chọn Xác thực đểđến bước thiết lập mật khẩu mới 5 1 KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN 8 9 8 9 10 10 10 [TIẾP THEO ] 9 Cẩm nang hướng dẫn XÁC THỰC BẰNG SMS OTP 1 Quý khách kiểm tra địa chỉemail đăng ký với Ngân hàng 2 Quý khách chọn Khôi phục nếu email đăng ký khớp đúng 3 (Trường hợp email đăng ký không khớp đúng, Quý khách chọn Hủy và liên hệchi nhánh đểc",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 5,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0006",
+    "text": "P 1 Quý khách kiểm tra địa chỉemail đăng ký với Ngân hàng 2 Quý khách chọn Khôi phục nếu email đăng ký khớp đúng 3 (Trường hợp email đăng ký không khớp đúng, Quý khách chọn Hủy và liên hệchi nhánh đểcập nhật thông tin email đăng ký) 4 Hệthống thông báo đã gửi email xác nhận khôi phục mật khẩu 5 Quý khách đăng nhập email đăng ký, kiểm tra email và nhấn vào đường dẫn xác nhận khôi phục mật khẩu 5 3 8 KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN 8 8 1 Quý khách nhập OTP vào trường Mã xác thực 2 Chọn Thực hiện đểđến bước thiết lập mật khẩu mới 9 Quý khách kiểm tra tin nhắn đến sốđiện thoại đã đăng ký với Ngân hàng đểlấy mã OTP (Nội dung tin nhắn từTCB: Ma OTP: 237843, Vui long bao mat va khong chia se cho nguoi khac, bao gom nhan vien TCB. Hotline: 1800588822/0842439446699] 9 10 10 [TIẾP THEO ] 10 Cẩm nang hướng dẫn THIẾT LẬP MẬT KHẨU MỚI 1 Quý khách nhập Mật khẩu mới 2 Quý khách nhập Xác nhận mật khẩu mới 3 Chọn Thực hiện đểhoàn thiện bước Thiết lập mật khẩu mới 5 2 8 KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN 11 11",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 6,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0007",
+    "text": "ướng dẫn THIẾT LẬP MẬT KHẨU MỚI 1 Quý khách nhập Mật khẩu mới 2 Quý khách nhập Xác nhận mật khẩu mới 3 Chọn Thực hiện đểhoàn thiện bước Thiết lập mật khẩu mới 5 2 8 KHÔI PHỤC MẬT KHẨU TRỰC TUYẾN 11 11 11 Cẩm nang hướng dẫn MỞ KHÓA TÊN TRUY CẬP TRỰC TUYẾN Quý khách hàng lựa chọn tính năng “Mởkhóa tên truy cập” trên màn hình đăng nhập F@st EBank 1 Lưu ý: Sửdụng trình duyệt Google Chrome hoặc Mozilla Firefox đểđảm bảo sựtrải nghiệm tốt nhất. Tính năng này cho phép khách hàng chủđộng mởkhóa Tên truy cập khi Tên truy cập bịkhóa do nhập sai mật khẩu vượt quá sốlần cho phép 12 Cẩm nang hướng dẫn MỞ KHÓA TÊN TRUY CẬP TRỰC TUYẾN XÁC THỰC THÔNG TIN 5 1 2 3 1 Quý khách nhập thông tin Mã sốdoanh nghiệp 1 Quý khách nhập thông tin Tên truy cập cần khôi phục mật khẩu 2 Quý khách nhập số CMTND/Hộ chiếu/CCCD Quý khách nhập sốđiện thoại liên hệ (Sốđiện thoại quý khách đã đăng ký với TCB) 1 Quý khách nhập sốtài khoản thanh toán của DN 2 Quý khách nhập Mã Captcha hiển thị tương ứng 3 Quý khách chọn Thực h",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 7,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0008",
+    "text": "CD Quý khách nhập sốđiện thoại liên hệ (Sốđiện thoại quý khách đã đăng ký với TCB) 1 Quý khách nhập sốtài khoản thanh toán của DN 2 Quý khách nhập Mã Captcha hiển thị tương ứng 3 Quý khách chọn Thực hiện đểthực hiện bước tiếp theo. 5 1 2 23 4 5 5 6 7 4 4 5 6 7 [TIẾP THEO ] Cẩm nang hướng dẫn 13 XÁC THỰC EMAIL 1 Quý khách kiểm tra địa chỉemail đăng ký với Ngân hàng 2 Quý khách chọn Mởkhóa nếu email đăng ký khớp đúng 3 (Trường hợp email đăng ký không khớp đúng, Quý khách chọn Hủy và liên hệchi nhánh để cập nhật thông tin email) 4 Hệthống thông báo đã gửi email xác nhận mởkhóa tên truy cập đến email đăng ký 5 Quý khách đăng nhập email đăng ký, kiểm tra email và nhấn vào đường dẫn xác nhận mở khóa tên truy cập 5 3 8 9 MỞ KHÓA TÊN TRUY CẬP TRỰC TUYẾN 8 9 8 9 [TIẾP THEO ] 14 Cẩm nang hướng dẫn HOÀN THÀNH 1 Hệthống hiển thịthông báo Mởkhóa tên truy cập thành công. 2 Quý khách đăng nhập F@st EBank và sử dụng dịch vụ. 5 1 MỞ KHÓA TÊN TRUY CẬP TRỰC TUYẾN 910 10 10 10 [TIẾP THEO ] 15 Cẩm nang hướ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 8,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0009",
+    "text": "OÀN THÀNH 1 Hệthống hiển thịthông báo Mởkhóa tên truy cập thành công. 2 Quý khách đăng nhập F@st EBank và sử dụng dịch vụ. 5 1 MỞ KHÓA TÊN TRUY CẬP TRỰC TUYẾN 910 10 10 10 [TIẾP THEO ] 15 Cẩm nang hướng dẫn PHẦN 2: TRUY VẤN THÔNG TIN & BÁO CÁO AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ 17 Cẩm nang hướng dẫn Khi Quý khách Đăng nhập thành công vào F@st EBank, hệthống hiển thịdanh sách tài khoản mà người dùng được phân quyền sử dụng THÔNG TIN TÀI KHOẢN 1 1 Tại màn hình này, Quý hàng có thểtruy vấn thông tin Sổphụtài khoản một cách nhanh chóng bằng cách chọn biểu tượng Trong quá trình sửdụng các tính năng khác, nếu muốn quay lại tính năng truy vấn thông tin tài khoản, Quý khách chọn <Trang chủ>. TRUY VẤN, BÁO CÁO TRUY VẤN, BÁO CÁO GIAO DỊCH TÀI KHOẢN Tính năng này cho phép truy vấn toàn bộ thông tin liên quan đến hoạt động của tài khoản. Chọn phân hệ[Truy vấn tài khoản] [Giao dịch tài khoản]. 1 Chọn Tài khoả",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 9,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0010",
+    "text": "TRUY VẤN, BÁO CÁO GIAO DỊCH TÀI KHOẢN Tính năng này cho phép truy vấn toàn bộ thông tin liên quan đến hoạt động của tài khoản. Chọn phân hệ[Truy vấn tài khoản] [Giao dịch tài khoản]. 1 Chọn Tài khoản cần truy vấn 2 Chọn Loại giao dịch cần truy vấn 3 Nhập khoảng sốtiền cần truy vấn: Từsốtiến… Đến sốtiền 1 2 3 4 Chọn Khoảng thời gian cần truy vấn: Từngày .. Đến ngày 5 Chọn Hệthống sẽhiển thịthông tin giao dịch của tài khoản 6 6 18 Cẩm nang hướng dẫn TRUY VẤN, BÁO CÁO TRUY VẤN TÀI KHOẢN THEO LÔ Tính năng này cho phép truy vấn thông tin sốdư và giao dịch phát sinh của toàn bộtài khoản. Chọn phân hệ[Truy vấn tài khoản] [Truy vấn tài khoản theo lô]. 1 Chọn khoảng thời gian cần truy vấn 2 Hệthống hiển thịtoàn bộtài khoản của khách hàng. Chọn tài khoản cần truy vấn 1 2 3 Chọn 1 2 3 19 Cẩm nang hướng dẫn TRUY VẤN, BÁO CÁO TRUY VẤN TÀI KHOẢN THEO LÔ [TIẾP THEO] 1 Hệthống hiển thịdanh sách tài khoản và sốdư hiện tại 2 Đểhiển thịthông tin giao dịch của tài khoản, khách hàng chọn tải dữliệu 4 5",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 10,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0011",
+    "text": "hướng dẫn TRUY VẤN, BÁO CÁO TRUY VẤN TÀI KHOẢN THEO LÔ [TIẾP THEO] 1 Hệthống hiển thịdanh sách tài khoản và sốdư hiện tại 2 Đểhiển thịthông tin giao dịch của tài khoản, khách hàng chọn tải dữliệu 4 5 6 Hệthống sẽhiển thịthông tin giao dịch của từng Tài khoản mà khách hàng đã lựa chọn 4 5 6 20 Cẩm nang hướng dẫn TRUY VẤN, BÁO CÁO TRẠNG THÁI GIAO DỊCH 1 Chọn loại giao dịch cần truy vấn 1 2 3 1 2 3 4 Chọn 4 Tính năng này cho phép truy vấn toàn bộtrạng thái giao dịch mà khách hàng đã thực hiện trên F@st EBank. Chọn phân hệ[Truy vấn tài khoản] [Trạng thái giao dịch]. Chọn trạng thái giao dịch cần truy vấn: Chờduyệt/Ngân hàng đã thực hiện/Ngân hàng đang xửlý/Sửa đổi/ Ngân hàng từchối Chọn khoảng thời gian cần truy vấn. Hệthống hỗtrợtruy vấn trong 3 tháng gần nhất - Chuyển tiền đơn/lô - Yêu cầu tra soát - Chuyển tiền quốc tế - Mua ngoại tệthanh toán nợ - Mua ngoại tệThanh toán lương - Bán ngoại tệ - Chuyển ngoại tệtrong nước - Thanh toán khoản vay - Yêu cầu tới Ngân hàng - Thanh toán trực tu",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 11,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0012",
+    "text": "tra soát - Chuyển tiền quốc tế - Mua ngoại tệthanh toán nợ - Mua ngoại tệThanh toán lương - Bán ngoại tệ - Chuyển ngoại tệtrong nước - Thanh toán khoản vay - Yêu cầu tới Ngân hàng - Thanh toán trực tuyến - Chuyển tiền nhanh 24/7 Loại giao dịch: 21 Cẩm nang hướng dẫn TRUY VẤN, BÁO CÁO TRẠNG THÁI GIAO DỊCH [TIẾP THEO] 5 5 Hệthống hiển thịtất cảgiao dịch cùng thông tin chi tiết trong khoảng thời gian đã chọn 6 6 Trạng thái các giao dịch Chuyển tiền nhanh 24/7 Trạng thái Lưu ý giao dịch chuyển tiền 24/7 Chi tiết NH đang xửlý Không có Giao dịch đã được TCB xửlý. KH chờsau ít phút đểkiểm tra lại kết quảgiao dịch NH đã thực hiện ChờNH thụhưởng phản hồi Giao dịch chưa nhận được phản hồi dịch từNHTH. KH không làm lại lệnh và liên hệTCB đểkiểm tra NH đã thực hiện Giao dịch được xửlý thành công tại NHTH Giao dịch đã được thành công tại Ngân hàng thụhưởng (NHTH) NH đã thực hiện Giao dịch bịtừchối bởi NHTH Giao dịch bịNHTH từchối thực hiện. KH không làm lại lệnh và liên hệTCB để kiểm tra NH đã thực",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 12,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0013",
+    "text": "HTH Giao dịch đã được thành công tại Ngân hàng thụhưởng (NHTH) NH đã thực hiện Giao dịch bịtừchối bởi NHTH Giao dịch bịNHTH từchối thực hiện. KH không làm lại lệnh và liên hệTCB để kiểm tra NH đã thực hiện Có lỗi xảy ra trong quá trình thanh toán Giao dịch bịlỗi khi được xửlý bởi hệthống TCB. KH thực hiện lại giao dịch NH đã thực hiện Có lỗi xảy ra trong quá trình thanh toán với bên trung gian (NAPAS) Giao dịch bịNAPAS từchối thực hiện. KH được hoàn lại sốtiền giao dịch NH từchối Có lỗi xảy ra trong quá trình thanh toán với NHTH Giao dịch bịNHTH không xửlý thành công do một sốnguyên nhân hệthống hoặc tài khoản thụhưởng không còn tồn tai. KH được hoàn lại sốtiền giao dịch 22 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 23 Với giao dịch Chuyển tiền quốc tế, tại màn hình liệt kê giao dịch, Quý khách bấm Xem MT103 để xem chi tiết điện MT103 Quý khách có thểin điện MT103 bằng nút In và chọn Máy in là Print to PDF đểlưu file MT103 tại máy tính cá nhân Chức năng Truy vấn điện MT103 áp dụng với các g",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 13,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0014",
+    "text": "bấm Xem MT103 để xem chi tiết điện MT103 Quý khách có thểin điện MT103 bằng nút In và chọn Máy in là Print to PDF đểlưu file MT103 tại máy tính cá nhân Chức năng Truy vấn điện MT103 áp dụng với các giao dịch có trạng thái Hoàn thành (bao gồm Giao dịch thanh toán trảtrước có nợchứng từ) 5 5 TRUY VẤN, BÁO CÁO TRẠNG THÁI GIAO DỊCH [TIẾP THEO] 5 Cẩm nang hướng dẫn 24 1 Chọn loại giao dịch cần truy vấn 1 2 1 2 3 3 Chọn Tính năng này cho phép truy vấn và chỉnh sửa các giao dịch có trạng thái giao dịch bịlỗi hoặc bịtừchối bởi Người duyệt hoặc Ngân hàng. Chọn phân hệ[Truy vấn tài khoản] [Giao dịch lỗi cần Sửa đổi/xóa]. Chọn khoảng thời gian cần truy vấn. Lưu ý: Hệthống hỗtrợtruy vấn trong 3 tháng gần nhất Loại giao dịch hỗtrợ: - Chuyển tiền đơn/lô - Thanh toán hoá đơn dịch vụ - Yêu cầu tra soát - Chuyển tiền quốc tế - Đầu tư - Mua ngoại tệthanh toán nợ - Mua ngoại tệThanh toán lương - Bán ngoại tệ - Chuyển ngoại tệtrong nước - Thanh toán khoản vay - Yêu cầu tới Ngân hàng - Thanh toán trực tu",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 14,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0015",
+    "text": "- Chuyển tiền quốc tế - Đầu tư - Mua ngoại tệthanh toán nợ - Mua ngoại tệThanh toán lương - Bán ngoại tệ - Chuyển ngoại tệtrong nước - Thanh toán khoản vay - Yêu cầu tới Ngân hàng - Thanh toán trực tuyến - Chuyển tiền nhanh 24/7 TRUY VẤN, BÁO CÁO GIAO DỊCH CẦN SỬA ĐỔI, XÓA Cẩm nang hướng dẫn 25 1 Hệthống hiển thịtoàn bộgiao dịch cần sửa/xóa 4 5 4 Chọn biểu tượng đểchỉnh sửa lại giao dịch Chọn biểu tượng đểxóa giao dịch 5 6 Trường hợp tìm kiếm giao dịch cụthể, khách hàng nhập thông tin tìm kiếm tại các cột dữliệu có biểu tượng 6 TRUY VẤN, BÁO CÁO GIAO DỊCH CẦN SỬA ĐỔI, XÓA [TIẾP THEO] Cẩm nang hướng dẫn 26 1 3 1 2 Tính năng này cho phép truy vấn và chỉnh sửa toàn bộgiao dịch đang chờduyệt Chọn phân hệ[Truy vấn tài khoản] [Giao dịch chờduyệt]. Chọn loại giao dịch cần truy vấn Chọn khoảng thời gian cần truy vấn. Hệthống hỗtrợtruy vấn trong 3 tháng gần nhất 2 Chọn 3 Loại giao dịch hỗtrợ: - Chuyển tiền đơn/lô - Thanh toán hoá đơn dịch vụ - Yêu cầu tra soát - Chuyển tiền quốc tế - Đầu tư -",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 15,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0016",
+    "text": "ời gian cần truy vấn. Hệthống hỗtrợtruy vấn trong 3 tháng gần nhất 2 Chọn 3 Loại giao dịch hỗtrợ: - Chuyển tiền đơn/lô - Thanh toán hoá đơn dịch vụ - Yêu cầu tra soát - Chuyển tiền quốc tế - Đầu tư - Mua ngoại tệthanh toán nợ - Mua ngoại tệThanh toán lương - Bán ngoại tệ - Chuyển ngoại tệtrong nước - Thanh toán khoản vay - Yêu cầu tới Ngân hàng - Thanh toán trực tuyến - Chuyển tiền nhanh 24/7 TRUY VẤN, BÁO CÁO GIAO DỊCH CHỜ DUYỆT Cẩm nang hướng dẫn 27 TRUY VẤN, BÁO CÁO GIAO DỊCH CHỜ DUYỆT [TIẾP THEO] 4 4 5 Hệthống hiển thịtoàn bộgiao dịch chờphê duyệt. Trường hợp muốn tìm kiếm giao dịch cụthể, Quý khách nhập thông tin vào các cột dữ liệu có biểu tượng Quý khách có thểxem chi tiết, chỉnh sửa hoặc xóa giao dịch bằng cách chọn các biểu tượng tương ứng: 5 Cẩm nang hướng dẫn 28 TRUY VẤN, BÁO CÁO GIAO DỊCH CHỜ XÁC NHẬN 1 2 Khách hàng chọn khoảng thời gian cần truy vấn: Từngày … Tới ngày Khách hàng chọn đểtruy vấn giao dịch cần xác nhận 2 1 Tính năng này dành riêng cho Khách hàng sửdụng dịch",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 16,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0017",
+    "text": "O GIAO DỊCH CHỜ XÁC NHẬN 1 2 Khách hàng chọn khoảng thời gian cần truy vấn: Từngày … Tới ngày Khách hàng chọn đểtruy vấn giao dịch cần xác nhận 2 1 Tính năng này dành riêng cho Khách hàng sửdụng dịch vụkết nối trực tiếp H2H của TCB. Cho phép khách hàng xác nhận trước khi giao dịch được chuyển tới người phê duyệt. Chọn phân hệ[Truy vấn tài khoản] [Giao dịch chờxác nhận]. Cẩm nang hướng dẫn 29 TRUY VẤN, BÁO CÁO BÁO CÁO TÀI KHOẢN Tính năng này cho phép truy vấn và chiết xuất toàn bộthông tin liên quan đến hoạt động của tài khoản. Chọn phân hệ[Báo cáo tài khoản] [Báo cáo tài khoản]. 1 Chọn tài khoản cần chiết xuất báo cáo 2 Chọn loại báo cáo cần chiết xuất 3 Chọn Thực hiện đểchiết xuất báo cáo 1 2 3 1 2 3 Cẩm nang hướng dẫn 30 TRUY VẤN, BÁO CÁO TẢI THÔNG TIN GIAO DỊCH Chọn phân hệ [Báo cáo tài khoản] [Tải thông tin giao dịch] 1 Chọn loại dữliệu cần tải xuống 2 Chọn tài khoản nguồn trong danh sách 3 Sau khi nhập các thông tin cần thiết, chọn Thực hiện đểtải thông tin giao dịch 1 2 3 1 2",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 17,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0018",
+    "text": "ài khoản] [Tải thông tin giao dịch] 1 Chọn loại dữliệu cần tải xuống 2 Chọn tài khoản nguồn trong danh sách 3 Sau khi nhập các thông tin cần thiết, chọn Thực hiện đểtải thông tin giao dịch 1 2 3 1 2 3 Cẩm nang hướng dẫn 31 TRUY VẤN, BÁO CÁO TRUY VẤN HỢP ĐỒNG TIỀN GỬI Tính năng này cho phép truy vấn danh sách và xem thông tin chi tiết các khoản hợp đồng tiền gửi tại Techcombank. Chọn phân hệ[Hợp đồng tiền gửi]  [Thông tin hợp đồng tiền gửi]. Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Để xem thông tin chi tiết của từng hợp đồng, Quý khách chọn biểu tượng 30 TRUY VẤN, BÁO CÁO TIỀN GỬI TRỰC TUYẾN Tính năng này giúp Quý khách truy vấn danh sách và xem thông tin chi tiết các khoản tiền gửi trực tuyến tại Techcombank. Chọn phân hệ[Hợp đồng tiền gửi] [Tiền gửi trựctuyến]. Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền đượ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 18,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0019",
+    "text": "tại Techcombank. Chọn phân hệ[Hợp đồng tiền gửi] [Tiền gửi trựctuyến]. Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Để xem thông tin chi tiết của từng hợp đồng, Quý khách chọn biểu tượng 32 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 33 TRUY VẤN, BÁO CÁO TÀI TRỢTHƯƠNG MẠI Chọn phân hệ [Thông tin Bộ chứng từ] Chọn phân hệ [Hợp đồng bảo lãnh] 1 2 1 2 Đểxem chi tiết thông tin LC. Chọn biểu tượng Đểxem lịch sửphát hành LC. Chọn biểu tượng 1 2 Tính năng này cho phép truy vấn các thông tin về thư tín dụng, bộ chứng từ, hợp đồng bảo lãnh tại Techcombank theo thời gian. Chọn phân hệ[Thông tin tài trợ thương mại]  [Thông tin Thư tín dụng]. TRUY VẤN, BÁO CÁO TÀI TRỢ THƯƠNG MẠI [TIẾP THEO] Chọn phân hệ[Thông tin tài trợthương mại ] [Thông tin bộchứng từ] 1 2 3 4 1 2 Chọn loại chứng từcần truy vấn: Chọn sốbộchứng từcần truy vấn 3 Chọn ngày phát hành… ngày hết hạn Khách hàng chọn đểtruy vấn giao dịch 4 5 Hệthống",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 19,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0020",
+    "text": "ài trợthương mại ] [Thông tin bộchứng từ] 1 2 3 4 1 2 Chọn loại chứng từcần truy vấn: Chọn sốbộchứng từcần truy vấn 3 Chọn ngày phát hành… ngày hết hạn Khách hàng chọn đểtruy vấn giao dịch 4 5 Hệthống hiển thịdanh sách nhờthu tương ứng 5 34 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 35 TRUY VẤN, BÁO CÁO TÀI TRỢTHƯƠNG MẠI [TIẾP THEO] Chọn phân hệ [Thông tin Bộ chứng từ] Chọn phân hệ[Thông tin tài trợthương mại ] [Thông tin hợp đồng bảo lãnh] Hệthống tựđộng hiển thịdanh sách hợp đồng bảo lãnh của khách hàng đã được mởtại TCB với các thông tin bao gồm: - Sốhợp đồng - Loại tiền bảo lãnh - Sốtiền bảo lãnh - Ngày hiệu lực - Ngày hết hạn - Loại tiền ký quỹ - Sốtiền kỹquỹ - Loại bảo lãnh - Tại chi nhánh Cẩm nang hướng dẫn 36 TRUY VẤN, BÁO CÁO THÔNG TIN KHOẢN VAY Tính năng này cho phép xem thông tin chi tiết các hợp đồng tín dụng thực hiện tại Techcombank. Chọn phân hệ[Khoản vay] [Thông tin khoản vay]. Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 20,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0021",
+    "text": "tiết các hợp đồng tín dụng thực hiện tại Techcombank. Chọn phân hệ[Khoản vay] [Thông tin khoản vay]. Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Hệthống sẽhiển thị danh sách các khoản vay. Đểxem lịch trả nợ, Quý khách chọn biểu tượng. Đểxem sổphụkhoản vay, Quý khách chọn biểu tượng.  Đểthanh toán khoản vay, Quý khách chọn biểu tượng TRUY VẤN, BÁO CÁO THÔNG TIN KHOẢN VAY (TIẾP THEO) Thông tin lịch trảnợ Thông tin sổphụkhoản vay Màn hình trảnợkhoản vay 37 Cẩm nang hướng dẫn Quý khách chọn loại giao dịch cần kiểm tra lịch sửhoạt động. Đổi mật khẩu hoặc Đăng nhập Chọn Khoảng thời gian cần xem chi tiết 1 2 TÍNH NĂNG QUẢN TRỊ KHÁC NHẬT KÝ HOẠT ĐỘNG Tính năng này cho phép khách hàng kiểm tra lại lịch sửhoạt động của Tên truy cập trong một khoảng thời gian, bao gồm: lịch sửđổi mật khẩu và đăng nhập. Chon phân hệ[Quản trị] [Nhật ký hoạt động]. 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 21,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0022",
+    "text": "sửhoạt động của Tên truy cập trong một khoảng thời gian, bao gồm: lịch sửđổi mật khẩu và đăng nhập. Chon phân hệ[Quản trị] [Nhật ký hoạt động]. 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 3 Chọn Thực hiện đểthực hiện giao dịch Cẩm nang hướng dẫn 38 Quý khách nhập mật khẩu mới và nhập lại mật khẩu mới đểxác nhận Nhập mật khẩu cũ 1 2 TÍNH NĂNG QUẢN TRỊ KHÁC ĐỔI MẬT KHẨU Tính năng này cho phép khách hàng chủđộng đổi mật khẩu đểđảm bảo an toàn trong quá trình sửdụng dịch vụ. Chọn phân hệ[Quản trị] [Thay đổi mật khẩu]. 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 3 Chọn Thực hiện đểthực hiện giao dịch 1 2 3 4 4 Khi đổi mật khẩu, Quý khách vui lòng đặt mật khẩu theo yêu cầu của hệthống 39 Cẩm nang hướng dẫn Hệthống hiển thịtoàn danh sách tài khoản mà User được quyền thực hiện giao dịch. Quý",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 22,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0023",
+    "text": "ao dịch 1 2 3 4 4 Khi đổi mật khẩu, Quý khách vui lòng đặt mật khẩu theo yêu cầu của hệthống 39 Cẩm nang hướng dẫn Hệthống hiển thịtoàn danh sách tài khoản mà User được quyền thực hiện giao dịch. Quý khách thiết lập Cho phép Thanh toán hoặc không 1 2 TÍNH NĂNG QUẢN TRỊ KHÁC QUẢN LÝ TÀI KHOẢN Tính năng này cho phép khách hàng chủđộng quản lý danh mục tài khoản trong trường hợp được phân quyền giao dịch trên nhiều tài khoản. Chọn phân hệ[Quản trị]  [Quản lý tài khoản]. Chọn Thực hiện đểthực hiện giao dịch 1 2 Sau khi thực hiện thành công, Tài khoản không được phép giao dịch sẽkhông được hiển thịtrong Danh sách Tài khoản Nguồn/Nợkhi người dùng thực hiện các giao dịch tài chính. Như: Chuyển tiền, thanh toán trực tuyến…… Cẩm nang hướng dẫn 40 Khách hàng chọn Tạo mới đểthêm người thụ hưởng 1 2 TÍNH NĂNG QUẢN TRỊ KHÁC QUẢN LÝ NGƯỜI THỤ HƯỞNG Tính năng này cho phép khách hàng chủđộng quản lý danh mục người thụhưởng. Khách hàng có thểthêm mới, sửa, xóa. Chọn phân hệ[Quản trị]  [Quản lý người",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 23,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0024",
+    "text": "TÍNH NĂNG QUẢN TRỊ KHÁC QUẢN LÝ NGƯỜI THỤ HƯỞNG Tính năng này cho phép khách hàng chủđộng quản lý danh mục người thụhưởng. Khách hàng có thểthêm mới, sửa, xóa. Chọn phân hệ[Quản trị]  [Quản lý người thụhưởng ]. Chọn Sửa/Xóa đểthay đổi thông tin người thụhưởng đã tồn tại 1 2 3 3 Tính năng này cho phép người dùng quản lý danh mục Người thụhưởng: + Trong TCB + Ngoài TCB + Chuyển tiền nhanh 24/7 + Chuyển ngoại tệtrong nước + Chuyển tiền quốc tế + Trảlương ngoại tệtheo lô (người dùng chỉxem danh sách, thông tin này khách hàng phải qua quầy giao dịch của TCB đăng ký.) 41 Cẩm nang hướng dẫn Tài liệu hỗtrợkhách hàng chi tiết các bước tạo và duyệt lệnh của tất cảcác tính năng trên hệ thống F@st EBank dành cho khách hàng Doanh nghiệp. Bước xác thực giao dịch bằng Smart OTP hoặc Token nâng cao, quý khách vui lòng xem chi tiết tại trang số83 (Đặt hyper link ) PHẦN 3: TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM TH",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 24,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0025",
+    "text": "khách vui lòng xem chi tiết tại trang số83 (Đặt hyper link ) PHẦN 3: TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ 44 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN ĐƠN - CHUYỂN VND TRONG TECHCOMBANK 1 Quý khách chọn tài khoản nguồn 2 Quý khách chọn trong danh sách hoặc nhập mới người thụhưởng Chọn lưu thông tin người thụhưởng cho những lần chuyển tiếp theo (nếu cần) Sốtiền cần chuyển không được vượt quá số dư của tài khoản nguồn hoặc hạn mức được cấp Sau khi nhập đầy đủthông tin trên, Quý khách chọn thực hiện và xác thực để hoàn tất bước tạo lệnh 5 1 2 3 4 5 Chọn phân hệ [Chuyển khoản] [Chuyển tiền đơn] [Chuyển VND trongTCB] Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 45 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN ĐƠN - CHUYỂN VND NGOÀI TECHCOMBANK Chọn phân hệ [Chuyển khoản] [Chuyển tiền đơn] [Chuyển VND ngoàiTCB] N",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 25,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0026",
+    "text": "yperlink đến HD xác thực) 45 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN ĐƠN - CHUYỂN VND NGOÀI TECHCOMBANK Chọn phân hệ [Chuyển khoản] [Chuyển tiền đơn] [Chuyển VND ngoàiTCB] Nhập số tiền giao dịch Chọn tài khoản thu phí trong danh sách Chọn người thụhưởng trong danh sách hoặc nhập mới Lưu thông tin người thụ hưởng cho lần chuyển sau Chọn tên ngân hàng thụ hưởng trong danh sách Sau khi nhập đầy đủthông tin trên, Quý khách chọn thực hiện và nhập mã xác thực đểhoàn tất bước tạo lệnh Chọn sốTK nguồn trong danh sách 1 2 3 4 5 6 7 1 2 3 4 5 6 7 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) THỰC HIỆN GIAO DỊCH MỌI LÚC, MỌI NƠI TIẾT KIỆM THỜI GIAN TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN ĐƠN - CHUYỂN TIỀN 24/7 Tính năng này cho phép khách hàng chuyển tiền ngay lập tức tới người thụhưởng thuộc danh sách ngân hàng thành viên có liên kết với NAPAS. Chọn phân hệ [Chuyển khoản] [Chuyển tiền đơn] [Chuyển tiền nhanh24/7] 1 8 2 3 4 5 6 7 9 Nhập Sốtiền giao",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 26,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0027",
+    "text": "ngay lập tức tới người thụhưởng thuộc danh sách ngân hàng thành viên có liên kết với NAPAS. Chọn phân hệ [Chuyển khoản] [Chuyển tiền đơn] [Chuyển tiền nhanh24/7] 1 8 2 3 4 5 6 7 9 Nhập Sốtiền giao dịch Nhập Tài khoản nguồn, Thông tin số dư,Loại tiền được tựđộng hiển thị Nhập Tài khoản thu phí Chọn người hưởng hoặc nhập liệu thông tin theo thứtựtại bước 5,6 Chọn Ngân hàng hưởng Nhập Sốtài khoản, hệthống tựđộng lấy thông tin Tên người hưởng Chọn Lưu thông tin nếu muốn lưu lại thông tin người hưởng Nhập Nội dung thanh toán Chọn Thực hiện đểxác thực giao dịch Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Cẩm nang hướng dẫn 46 1 2 3 1 2 3 4 6 7 5 1 Nhập Sốtiền thanh toán, Loại ngoại tệvà Tài khoản ngoại tệ 2 Nếu quý khách lựa chọn Không sửdụng TKTT thì cần được cài đặt dịch vụtrước với Techcombank và không cần nhập thông tin tại trường Tài khoản ngoại tệ 1 Nhập thông tin mua ngoại tệLoại tỷgiá (Tỷgiá tựđộng), Sốtiền mua, Tài khoản VND. Các thông tin khác hệ thống hiển thị 2",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 27,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0028",
+    "text": "ước với Techcombank và không cần nhập thông tin tại trường Tài khoản ngoại tệ 1 Nhập thông tin mua ngoại tệLoại tỷgiá (Tỷgiá tựđộng), Sốtiền mua, Tài khoản VND. Các thông tin khác hệ thống hiển thị 2 Chọn Loại phí và Tài khoản thu phí nếu loại phí là OUR/SHA 3 Nhập thông tin người thụhưởng: Sốtài khoản, Tên người thụhưởng và Địa chỉ. 4 Nếu Chọn người hưởng lưu sẵn, hệthống tựđộng điền Thông tin người hưởng, Thông tin ngân hàng hưởng và Thông tin ngân hàng trung gian (nếu có) đã lưu Nhập thông tin ngân hàng thụhưởng: Mã ngân hàng hưởng, Tên ngân hàng hưởng và Địa chỉ. Điền thông tin Ngân hàng trung gian nếu cần Chọn Mục đích thanh toán và nhập Nội dung thanh toán. Điền Thông tin thêm nếu cần 1 Chọn Tải hồsơ đểđính kèm tài liệu chứng minh mục đích chuyển tiền 1 2 3 4 5 6 7 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] Trường hợp áp dụng tỷgiá tựđộng 47 Cẩm nang hướng dẫn 1 Chọn Tại đây đểtải tài liệu hướng dẫn",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 28,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0029",
+    "text": "NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] Trường hợp áp dụng tỷgiá tựđộng 47 Cẩm nang hướng dẫn 1 Chọn Tại đây đểtải tài liệu hướng dẫn hồ sơ chứng minh mục đích chuyển tiền Chọn Choose file đểlựa chọn file cần tải. Chọn Open đểhoàn tất chọn file Chọn Tải lên đểtải tài liệu lên hệthống. Sau khi đính kèm tài liệu, quý khách hàng thực hiện xác thực đểchuyển giao dịch sang người phê duyệt tiếp theo 5 8 9 8 9 11 1 0 11 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] Trường hợp áp dụng tỷgiá tựđộng [Tiếp theo] 10 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 48 Cẩm nang hướng dẫn 1 Quý khách liên hệtrực tiếp với Chuyên viên quản lý quan hệkhách hàng đểtiến hành chốt tỷgiá theo thỏa thuận 1 Sau khi quý khách nhận được e-mail thông báo tỷgiá thỏa thuận, quý khách đăng nhập tài khoản tạo lệnh trên FEB 2 Khởi tạo giao dịch trên FEB, nhập thôn",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 29,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0030",
+    "text": "ch hàng đểtiến hành chốt tỷgiá theo thỏa thuận 1 Sau khi quý khách nhận được e-mail thông báo tỷgiá thỏa thuận, quý khách đăng nhập tài khoản tạo lệnh trên FEB 2 Khởi tạo giao dịch trên FEB, nhập thông tin giao dịch (tỷgiá, sốtiền) và đính kèm hồsơ chứng minh mục đích như các bước ởphần Chuyển tiền Quốc tế- TỷGiá TựĐộng 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] Trường hợp áp dụng tỷgiá thỏa thuận 49 Cẩm nang hướng dẫn Một sốlưu ý khi KH tạo lệnh Chuyển tiền quốc tế - Thông tin Sốtiền: Sốtiền thanh toán, loại ngoại tệcần trùng khớp với thông tin sốtiền, loại tiền trên hồsơ mục đích chuyển tiền và không được vượt quá trịgiá còn lại được thanh toán của hồsơ - Thông tin người thụhưởng: Quý khách vui lòng khai báo Tên người thụhưởng, địa chỉ, sốTài khoản, NH hưởng khớp đúng với thông tin trên hồsơ (Hợp đồng, hóa đơn hoặc các chứng từkhác). Trong trường hợp, người thụhưởng khác với bên bán/cung cấp dịc",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 30,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0031",
+    "text": "khai báo Tên người thụhưởng, địa chỉ, sốTài khoản, NH hưởng khớp đúng với thông tin trên hồsơ (Hợp đồng, hóa đơn hoặc các chứng từkhác). Trong trường hợp, người thụhưởng khác với bên bán/cung cấp dịch vụ, quý khách vui lòng bổsung chứng từchứng minh mối quan hệcủa bên bán với bên thụhưởng. Nếu Thanh toán cho người bán ởthịtrường như EUR, SAUDI ARABIA, KUWAIT, BAHRAIN, QATAR, UAE, sốtài khoản người thụhưởng sẽlà IBAN. - Thông tin Mã ngân hàng hưởng: Nhập SWIFT CODE; nếu NH hưởng ởMỹ: nhập mã FEDWIRE; nếu thanh toán GBP/ NH hưởng ởAnh: nhập mã SORT CODE, thanh toán đồng CAD cần cung cấp sốtransit - Thông tin NH trung gian: Khi thanh toán các loại ngoại tệnhư HKD, CAD, SGD, JPY, THB khác thịtrường của đồng tiền thì cần cung cấp ngân hàng trung gian - Mục đích thanh toán: Trong trường hợp hồsơ không xác định rõ phương thức trảsau/trảtrước và quý khách muốn trảsau/trảtrước, quý khách vui lòng cung cấp thêm thông tin như thỏa thuận giữa các bên vềthay đổi phương thức hoặc cam kết/xác nhận .",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 31,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0032",
+    "text": "ơ không xác định rõ phương thức trảsau/trảtrước và quý khách muốn trảsau/trảtrước, quý khách vui lòng cung cấp thêm thông tin như thỏa thuận giữa các bên vềthay đổi phương thức hoặc cam kết/xác nhận .Nếu quý khách chọn trảtrước, vui lòng điền ngày cam kết bổsung TKHQ - Nội dung thanh toán: Quý khách ghi chính xác sốhóa đơn, hợp đồng và trịgiá thanh toán theo từng hóa đơn, hợp đồng - Hồsơ: Quý khách tải hồsơ mục đích phù hợp với mục đích chuyển tiền theo hướng dẫn của NH. Các hồsơ như hợp đồng/ thỏa thuận cần có xác nhận của hai bên mua và bán và có đầy đủthông tin phương thức thanh toán, chỉdẫn thanh toán TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] 50 Cẩm nang hướng dẫn STT Từgốc Từviết tắt 1 Invoice INV 2 Contract CTR 3 Street STR 4 Road RD 5 Date DD 6 Number NO 7 Company CO 8 Limited LTD 9 Payment PMT 10 Percent PCT 11 Building BLD Hướng dẫn một sốtừviết tắt trong giao dịch chuyển tiền quốc tế(*) STT Từg",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 32,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0033",
+    "text": "tract CTR 3 Street STR 4 Road RD 5 Date DD 6 Number NO 7 Company CO 8 Limited LTD 9 Payment PMT 10 Percent PCT 11 Building BLD Hướng dẫn một sốtừviết tắt trong giao dịch chuyển tiền quốc tế(*) STT Từgốc Từviết tắt 12 VietNam VN 13 Customs declaration CD 14 Purchase order PO 15 Proforma invoice PI 16 Corporation CORP 17 Joint Stock company JSC 18 Limited liability company LLC 19 Public limited company PLC 20 Private limited liability company PTE 21 Incorporated INC 22 Bill of Lading BL (*) Nội dung thanh toán thông dụng: payment for contract/invoice/… + date… = thanh toán cho hợp đồng/hóa đơn/… + ngày… TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN QUỐC TẾ] 51 Cẩm nang hướng dẫn 1 Quý khách chọn Loại giao dịch: Chuyển tiền quốc tế 2 3 Quý khách khoảng thời gian giao dịch cần bổ sung hồsơ. Từngày, Đến ngày Quý khách bấm Thực hiện 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG GD NH YÊU CẦU Chọn",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 33,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0034",
+    "text": "quốc tế 2 3 Quý khách khoảng thời gian giao dịch cần bổ sung hồsơ. Từngày, Đến ngày Quý khách bấm Thực hiện 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG GD NH YÊU CẦU Chọn phân hệ[TRUY VẤN TÀI KHOẢN] – [GIAO DỊCH CẦN SỬA ĐỔI/XÓA] 1 2 3 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 52 Cẩm nang hướng dẫn 1 Quý khách tìm kiếm giao dịch cần Bổsung thông tin theo yêu cầu từTechcombank: trường Trạng thái: Sửa đổi, TT xửlý tại NH: Yêu cầu bổsung hồsơ. 2 3 Thông tin chi tiết yêu cầu bổ sung từ Techcombank hiển thịtại trường Ghi chú Quý khách lựa chọn: Đểxem chi tiết giao dịch Đểđiều chỉnh thông tin giao dịch Đểxóa giao dịch 5 1 2 3 Chi tiết 1 2 3 1 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG GD NH YÊU CẦU Chọn phân hệ[TRUY VẤN TÀI KHOẢN] – [GIAO DỊCH CẦN SỬA ĐỔI/XÓA] 53 Cẩm nang hướng dẫn 1 Quý khách lựa chọn Loại yêu cầu gồm: Hủy giao dịch: Hủy các giao dịch mà TCB chưa hoàn thành. Tra soát giao dịch: Tra soát các giao dịch mà TCB",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 34,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0035",
+    "text": "– [GIAO DỊCH CẦN SỬA ĐỔI/XÓA] 53 Cẩm nang hướng dẫn 1 Quý khách lựa chọn Loại yêu cầu gồm: Hủy giao dịch: Hủy các giao dịch mà TCB chưa hoàn thành. Tra soát giao dịch: Tra soát các giao dịch mà TCB đã hoàn thành và gửi tới ngân hàng nước ngoài Bổsung tờkhai hải quan: Bổsung tờkhai hải quan với các giao dịch thanh toán trảtước Bổsung tờkhai hải quan theo lô: Bổsung thông tin tờkhai hải quan cho nhiều giao dịch thanh toán trả trước cùng lúc Yêu cầu hoàn trả: Yêu cầu ngân hàng trảlại giao dịch đã duyệt đểđiều chỉnh thông tin 1 2 Quý khách nhập Mã giao dịch: Yêu cầu hủy, Yêu cầu hoàn trả: Quý khách nhập mã CIP của giao dịch tại màn hình Truy vấn tài khoản>>Trạng thái giao dịch Tra soát giao dịch, Bổsung tờkhai hải quan: Quý khách nhập mã CIP giao dịch hoặc mã bút toán FT tại màn hình Truy vấn tài khoản>>Giao dịch tài khoản Bổsung tờkhai hải quan theo lô: Quý khách bỏqua trường thông tin này 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - YÊU CẦU TRA SOÁT/HỦY Chọn p",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 35,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0036",
+    "text": "ruy vấn tài khoản>>Giao dịch tài khoản Bổsung tờkhai hải quan theo lô: Quý khách bỏqua trường thông tin này 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - YÊU CẦU TRA SOÁT/HỦY Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] 1 2 3 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Quý khách bấm Thực hiện: đểchuyển tới bước tiếp theo 54 Cẩm nang hướng dẫn 1 Quý khách nhập Nội dung yêu cầu 2 Quý khách bấm Thực hiện đểkiểm tra và xác thực giao dịch Quý khách kiểm tra thông tin giao dịch gốc tại mục Chuyển tiền quốc tế 5 4 5 6 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - YÊU CẦU HỦY/TRA SOÁT Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] [TIẾP THEO] 4 5 6 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 55 Cẩm nang hướng dẫn 1 Quý khách nhập Nội dung yêu cầu và Tải lên Tờkhai hải quan (nếu cần) 2 Quý khách kiểm tra thông tin giao dịch gốc tại mục Chuyển tiền quốc tế Quý khách bấm Thực hiện đểkiểm tra và xác thực và hoàn thành giao dịch 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 36,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0037",
+    "text": "ờkhai hải quan (nếu cần) 2 Quý khách kiểm tra thông tin giao dịch gốc tại mục Chuyển tiền quốc tế Quý khách bấm Thực hiện đểkiểm tra và xác thực và hoàn thành giao dịch 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG TỜ KHAI HQ Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] 1 2 3 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Lưu ý: Giao dịch Bổsung tờkhai hải quan sau khi hoàn thành bước người tạo lệnh sẽđược gửi tới ngân hàng đểxửlý. Người duyệt lệnh không cần thực hiện phê duyệt giao dịch. 56 Cẩm nang hướng dẫn 1 Khách hàng tải mẫu file upload tại “Quý khách vui lòng lấy mẫu file tại đây” 2 3 Khách hàng chọn biểu tượng đểtải danh sách thông tin tờkhai hải quan cần bổsung. Chọn biểu tượng đểhoàn thiện tải danh sách thông tin tờkhai hải quan. Khách hàng chọn thưc hiện và nhập mã xác thực để hoàn tất bước tạo lệnh 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG TỜ KHAI HQ THEO LÔ Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] Xác thực giao dịch xem",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 37,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0038",
+    "text": "hiện và nhập mã xác thực để hoàn tất bước tạo lệnh 5 1 2 3 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG TỜ KHAI HQ THEO LÔ Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Lưu ý: Giao dịch Bổsung tờkhai hải quan theo lô sau khi hoàn thành bước người tạo lệnh sẽđược gửi tới ngân hàng đểxửlý. Người duyệt lệnh không cần thực hiện phê duyệt giao dịch. 4 Lưu ý khi nhập File tải lên: Sốtham chiếu: Nhập sốtham chiếu CIP có mục đích thanh toán và trạng thái hợp lệcho phép bổsung tờkhai hải quan Năm tờkhai hải quan: Nhập theo định dạng YYYY (VD: 2022) 1 2 3 4 57 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG TỜ KHAI HQ THEO LÔ Chọn phân hệ[YÊU CẦU TỚI NGÂN HÀNG] Trên màn hình kết quảgiao dịch: Tổng sốdòng trong file: Tổng sốdòng thông tin tờkhai hải quan trong file mà khách hàng đã tải lên Tổng sốyêu cầu: Tổng sốlương yêu cầu gửi tới ngân hàng sau khi hệthống gộp các thông tin tờkhai hải quan tr",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 38,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0039",
+    "text": "sốdòng trong file: Tổng sốdòng thông tin tờkhai hải quan trong file mà khách hàng đã tải lên Tổng sốyêu cầu: Tổng sốlương yêu cầu gửi tới ngân hàng sau khi hệthống gộp các thông tin tờkhai hải quan trong file đã tải lên. Quy tắc gộp yêu cầu: Hệthống sẽgộp tối đa 20 dòng thông tin tờ khai hải quan có cùng sốtham chiếu CIP thành 1 yêu cầu gửi tới ngân hàng Đểxem chi tiết File upload và các yêu cầu gửi tới ngân hàng, khách hàng vào Trạng thái giao dịch đểtruy vấn thông tin 58 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN QUỐC TẾ - BỔ SUNG TỜ KHAI HQ THEO LÔ Kiểm tra yêu cầu gửi tới ngân hàng: [Truy vấn tài khoản] [Trạng thái giao dịch] Đối với các yêu cầu gộp: Thông tin các dòng tờkhai hải quan bổsung sẽhiển thịtại cột Nội dung yêu cầu trên báo cáo Mỗi dòng trên báo cáo hiển thịtương ứng 1 dòng thông tin tờkhai hải quan trong file khách hàng upload theo quy tắc: SCT-[Sốchứng từ(sốhợp đồng/sốhóa đơn)] STK-[Sốtờkhai hải quan] [Năm tờkhai hải quan] Ví dụ: SCT-HD123456789",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 39,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0040",
+    "text": "ển thịtương ứng 1 dòng thông tin tờkhai hải quan trong file khách hàng upload theo quy tắc: SCT-[Sốchứng từ(sốhợp đồng/sốhóa đơn)] STK-[Sốtờkhai hải quan] [Năm tờkhai hải quan] Ví dụ: SCT-HD123456789 STK-HQ987654321 2022 59 Cẩm nang hướng dẫn 1 2 3 4 Chọn Loại ngoại tệ& Tài khoản ngoại tệtương ứng Nhập Sốtiền thanh toán Chọn Tài khoản thu phí Chọn Loại giao dịch tương ứng Sốdư tài khoản ngoại tệ, Tổng phí, Sốdư tài khoản thu phí sẽ được hệthống tựđộng hiển thị 6 7 5 Nhập Mã người hưởng hoặc chọn Mã người hưởng từdanh sách Sốtài khoản, Tên người thụ hưởng, & Tên ngân hàng sẽđược hệthống tựđộng hiển thị Nhập Nội dung chuyển tiền Nhấn Thực hiện đểXác thực giao dịch TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN NGOẠI TỆ TRONG NƯỚC Chọn phân hệ[CHUYỂN TIỀN ĐƠN] – [CHUYỂN NGOẠI TỆ TRONG NƯỚC] 1 2 3 4 5 6 7 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Quý khách chỉthực hiện chuyển tiền được cho người thụhưởng đã đăng ký với Ngân hàng Cẩm nang hướng dẫn 60 Cẩm nang hướng dẫn 61 TÍNH N",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 40,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0041",
+    "text": "5 6 7 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Quý khách chỉthực hiện chuyển tiền được cho người thụhưởng đã đăng ký với Ngân hàng Cẩm nang hướng dẫn 60 Cẩm nang hướng dẫn 61 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN TIỀN TỚI TÀI KHOẢN ĐỊNH DANH Chọn phân hệ[CHUYỂN TIỀN ĐƠN] – [CHUYỂN TIỀN TK ĐỊNH DANH] Quý khách nhập Sốtiền Quý khách chọn Tài khoản nguồn Có hai hình thức nhập Thông tin người thụhưởng: Chọn người hưởng: Áp dụng cho các trường hợp thông tin người hưởng của TK Định danh đã được lưu trước đó. Nhập sốTK Định danh. Tích chọn box:”Lưu thông tin người hưởng” nếu cần lưu thông tin người thụhưởng Nhập Nội dung thanh toán Chọn Thực hiện đểxác thực giao dịch 1 2 3 4 5 [Bán ngoại tệ] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH BÁN NGOẠI TỆ- TỶ GIÁ TỰ ĐỘNG Chọn phân hệ[Chuyển khoản] [Mua bán ngoại tệ] Quý khách lựa chọn Tài khoản bán ngoại tệ. Nếu quý khách không có TKTT thì chọn Không sửdụng TKTT ngoại tệvà chọn loại tiền cần bán. Dựa trên tài khoản lựa chọn, hệthống hiển",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 41,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0042",
+    "text": "hoản] [Mua bán ngoại tệ] Quý khách lựa chọn Tài khoản bán ngoại tệ. Nếu quý khách không có TKTT thì chọn Không sửdụng TKTT ngoại tệvà chọn loại tiền cần bán. Dựa trên tài khoản lựa chọn, hệthống hiển thịSố dư hiện tại của tài khoản Quý khách chọn Loại tỷgiá: Tỷgiá tựđộng Quý khách nhập thông tin người thụhưởng bao gồm Sốtiền giao dịch bằng nguyên tệ, hệthống sẽtựđộng quy đổi theo tỷgiá tham khảo tại mục Sốtiền quy đổi Quý khách lựa chọn Tài khoản ghi có và nhập Mục đích bán ngoại tệ Quý khách tích chọn Đồng ý với điều kiện trên đểxác nhận Quý khách bấm Thực hiện đểchuyển đến bước tiếp theo 5 1 2 3 4 5 6 62 Cẩm nang hướng dẫn [Bán ngoại tệ] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH BÁN NGOẠI TỆ- TỶ GIÁ THỎA THUẬN Chọn phân hệ[Chuyển khoản] [Mua bán ngoại tệ] 5 1 2 3 4 5 6 Tỷgiá thỏa thuận: Khách hàng liên hệvới TCB đểthỏa thuận tỉgiá. Sau khi thỏa thuận xong, TCB sẽcung cấp cho KH mã FX deal. KH đăng nhập vào FEB đểthực hiện giao dịch. Quý khách lựa chọn Tài khoản bán ngoại tệ. Nếu quý khách kh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 42,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0043",
+    "text": "ng liên hệvới TCB đểthỏa thuận tỉgiá. Sau khi thỏa thuận xong, TCB sẽcung cấp cho KH mã FX deal. KH đăng nhập vào FEB đểthực hiện giao dịch. Quý khách lựa chọn Tài khoản bán ngoại tệ. Nếu quý khách không có TKTT thì chọn Không sử dụng TKTT ngoại tệvà chọn loại tiền cần bán. Dựa trên tài khoản lựa chọn, hệthống hiển thịSố dư hiện tại của tài khoản Quý khách chọn Loại tỷgiá: Tỷgiá thỏa thuận Nhập Mã giao dịch tham chiếu (FX Deal được cung cấp bởi TCB). Thông tin Sốtiền giao dịch/tỷgiá/ Sốtiền quy đổi được hệthống tự động hiển thị Quý khách lựa chọn Tài khoản ghi có và nhập Mục đích bán ngoại tệ Quý khách tích chọn Đồng ý với điều kiện trên đểxác nhận Quý khách bấm Thực hiện đểchuyển đến bước tiếp theo 63 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 64 [Bán ngoại tệ] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH BÁN NGOẠI TỆ- TỶ GIÁ THỎA THUẬN Chọn phân hệ[Chuyển khoản] [Mua bán ngoại tệ] 1 Tỷ giá chỉ có hiệu lực trong T+0; Nếu trong T+0, Khách hàng không thực hiện giao dịch như đã cam kết với TCB, Khách hà",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 43,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0044",
+    "text": "H BÁN NGOẠI TỆ- TỶ GIÁ THỎA THUẬN Chọn phân hệ[Chuyển khoản] [Mua bán ngoại tệ] 1 Tỷ giá chỉ có hiệu lực trong T+0; Nếu trong T+0, Khách hàng không thực hiện giao dịch như đã cam kết với TCB, Khách hàng chịu phí phạt theo quy định của TCB Hệ thống FEB cho phép khách hàng Duyệt giao dịch Bán ngoại tệ Tỷ giá thỏa thuận thành công trên FEB khi tài khoản khách hàng không đủ số dư giao dịch, Khách hàng phải đảm bảo đủ số tiền giao dịch trong thời gian COT cho phép để giao dịch được xử lý thành công và không bị thu phí phạt. 2 3 Cẩm nang hướng dẫn 65 [Chuyển tiền theo lô trong TCB/ Trả lương trong TCB TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN KHOẢN LÔ/ TRẢ LƯƠNG VNĐ TRONG TECHCOMBANK Chọn phân hệ[Chuyển khoản] [Chuyển tiền theolô] 3 4 5 Khách hàng tùy nhập số tham chiếu theo nhu cầu đối soát của khách hàng 2 Chọn tài khoản nguồn trong danh sách 3 Khách hàng chọn biểu tượng đểtải danh sách giao dịch 4 Chọn biểu tượng đểhoàn thiện tải danh sách giao dịch Sau khi nhập đầy đủ thông tin trên. 5 Nh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 44,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0045",
+    "text": "khách hàng 2 Chọn tài khoản nguồn trong danh sách 3 Khách hàng chọn biểu tượng đểtải danh sách giao dịch 4 Chọn biểu tượng đểhoàn thiện tải danh sách giao dịch Sau khi nhập đầy đủ thông tin trên. 5 Nhập nội dung chuyển tiền 6 Quý khách chọn thực hiện và nhập mã xác thực đểhoàn tất bước tạo lệnh 7 Trường hợp khách hàng chưa có mẫu thanh toán, khách hàng tải tại đây 1 2 3 4 5 6 1 2 4 3 5 6 7 7 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Lưu ý trường hợp tên người thụhưởng trong File upload đểtrống hoặc khác biệt với tên ghi nhận trong TCB. TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LÔ VNĐ TRONG TECHCOMBANK Quý khách lưu ý: Với giao dịch chuyển tiền cho người thụhưởng trong TCB, nếu Tên người thụ hưởng đểtrống hoặc khác biệt so với tên được ghi nhận trên hệthống TCB, hệthống sẽhiển thịcảnh báo chi tiết ởmàn hình FEB. Quý khách lưu ý kiểm tra lại Sốtài khoản và tên tài khoản trong file giao dịch đểcung cấp đúng thông tin. Trường hợp, Quý khách bỏqua cảnh báo và tiếp tục Th",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 45,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0046",
+    "text": "sẽhiển thịcảnh báo chi tiết ởmàn hình FEB. Quý khách lưu ý kiểm tra lại Sốtài khoản và tên tài khoản trong file giao dịch đểcung cấp đúng thông tin. Trường hợp, Quý khách bỏqua cảnh báo và tiếp tục Thực hiện giao dịch. Hệthống TCB sẽvẫn tiếp tục xửlý giao dịch của Quý khách. Người tạo lệnh có thểkiểm tra Tên người thụ hưởng trên hệthống TCB bằng cách vào tính năng Truy vấn tài khoản chọn Giao dịch chờ duyệt 66 Cẩm nang hướng dẫn Kiểm tra File giao dịch: [Truy vấn Tài khoản] [Giao dịch chờduyệt] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LÔ VNĐ TRONG TECHCOMBANK Quý khách chọn Loại giao dịch cần truy vấn: Chuyển tiền theo lô Quý khách Ngày giao dịch cần truy vấn Quý khách chọn Thực hiện 1 2 3 Hệthống hiển thịDanh sách File chờduyệt 4 Đểxem chi tiết các giao dịch trong file. Quý khách chọn biểu tượng 5 4 67 Cẩm nang hướng dẫn Kiểm tra File giao dịch: [Truy vấn Tài khoản] [Giao dịch chờduyệt] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LÔ VNĐ TRONG TECHCOMBANK Hệthống hiển thịchi ti",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 46,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0047",
+    "text": "ọn biểu tượng 5 4 67 Cẩm nang hướng dẫn Kiểm tra File giao dịch: [Truy vấn Tài khoản] [Giao dịch chờduyệt] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LÔ VNĐ TRONG TECHCOMBANK Hệthống hiển thịchi tiết giao dịch trong file. Cột thông tin Tên đơn vị hưởng hiển thịTên được ghi nhận tại hệthống TCB và tên khách hàng tải lên. Quý khách kiểm tra kỹthông tin đểđiều chỉnh lại File upload đúng. 6 Tên người thụhưởng khác ghi nhận trên hệthống: Tên bên ngoài dấu ngoặc đơn () là tên ghi nhận trên hệthống, Tên bên trong dấu ngoặc đơn () là tên khách hàng đã tải lên Tên người thụhưởng đểtrống: hệthống hiển thịtên ghi nhận trên hệ thống Trường hợp tên người thụhưởng không chính xác, khách hàng muốn xóa File giao dịch đã upload, Quý khách chọn biểu tượng đểthực hiện xóa file giao dịch 7 68 Cẩm nang hướng dẫn Lưu ý trường hợp tên người thụhưởng trong File upload khác biệt với tên ghi nhận trong TCB. TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LƯƠNG VNĐ TRONG TECHCOMBANK Quý khách Lưu ý: Với giao dịc",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 47,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0048",
+    "text": "g dẫn Lưu ý trường hợp tên người thụhưởng trong File upload khác biệt với tên ghi nhận trong TCB. TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LƯƠNG VNĐ TRONG TECHCOMBANK Quý khách Lưu ý: Với giao dịch chuyển tiền cho người thụhưởng trong TCB, Nếu Tên người thụhưởng khác biệt so với tên được ghi nhận trên hệthống TCB, hệthống sẽ hiển thịcảnh báo chi tiết ởmàn hình FEB. Quý khách lưu ý kiểm tra lại Sốtài khoản và tên tài khoản trong file giao dịch đểcung cấp đúng thông tin. Trường hợp, Quý khách bỏqua cảnh báo và tiếp tục Thực hiện giao dịch. Hệthống TCB sẽHủy file giao dịch. Người tạo lệnh có thểkiểm tra Tên người thụ hưởng trên hệthống TCB bằng cách vào tính năng Truy vấn thông tin giao dịch. Giao dịch lỗi cần sửa/xóa 69 Cẩm nang hướng dẫn Kiểm tra File giao dịch bịHủy bỏ: [Truy vấn thông tin giao dịch] [Giao dịch lỗi cần sửa/xóa] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LƯƠNG VNĐ TRONG TECHCOMBANK Quý khách chọn Loại giao dịch cần truy vấn: Chuyển tiền theo lô Quý khách Ngày gia",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 48,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0049",
+    "text": "tin giao dịch] [Giao dịch lỗi cần sửa/xóa] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LƯƠNG VNĐ TRONG TECHCOMBANK Quý khách chọn Loại giao dịch cần truy vấn: Chuyển tiền theo lô Quý khách Ngày giao dịch cần truy vấn Quý khách chọn Thực hiện 1 2 3 Hệthống hiển thịDanh sách File lô bịlỗi 4 Đểxem chi tiết các giao dịch trong file. Quý khách chọn biểu tượng 5 4 70 Cẩm nang hướng dẫn Kiểm tra File giao dịch bịHủy bỏ: [Truy vấn thông tin giao dịch] [Giao dịch lỗi cần sửa/xóa] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN LƯƠNG VNĐ TRONG TECHCOMBANK Hệthống hiển thịchi tiết giao dịch trong file. Cột thông tin Tên đơn vịhưởng là Tên được ghi nhận tại hệthống TCB. Quý khách kiểm tra kỹthông tin để điều chỉnh lại File upload đúng 6 71 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 72 Chọn phân hệ[Chuyển tiền theo lô] [Chuyển tiền theo lô ngoài TCB/Trảlương ngoài TCB] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN KHOẢN LÔ/LƯƠNG VND NGOÀI TECHCOMBANK Nhập Sốtham chiếu theo nhu cầu của Quý khách Chọn Tài kh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 49,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0050",
+    "text": "tiền theo lô] [Chuyển tiền theo lô ngoài TCB/Trảlương ngoài TCB] TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH CHUYỂN KHOẢN LÔ/LƯƠNG VND NGOÀI TECHCOMBANK Nhập Sốtham chiếu theo nhu cầu của Quý khách Chọn Tài khoản nguồn trong danh sách Chọn Loại file upload Chọn biểu tượng đểtải lên File giao dịch Chọn biểu tượng đểhoàn thiện tải danh sách giao dịch Nhập Nội dung chuyển tiền Chọn Thực hiện đểhoàn tất bước tạo lệnh Trường hợp Quý khách chưa có thông tin mẫu thanh toán, Quý khách tải tại Mẫu thanh toán Trường hợp Quý khách chưa có thông tin mã ngân hàng thụhưởng, Quý khách tải tại Danh sách mã NH 1 2 3 4 6 7 5 8 Lưu ý: • Tính năng trả lương, trên sổ phụ chỉ hiển thị 1 lệnh thanh toán với tổng số tiền • Tính năng chuyển theo lô, trên sổ phụ sẽ hiển thị đầy đủ các lệnh thanh toán trong danh sách khách hàng thực hiện • Khuyến khích Khách hàng sử dụng tính năng chuyển tiền theo lô để đơn giản hóa các thao tác nhập lệnh, đạt hiệu quả cao • Danh sách giao dịch được lập trước theo mẫu thanh toán của Tech",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 50,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0051",
+    "text": "àng thực hiện • Khuyến khích Khách hàng sử dụng tính năng chuyển tiền theo lô để đơn giản hóa các thao tác nhập lệnh, đạt hiệu quả cao • Danh sách giao dịch được lập trước theo mẫu thanh toán của Techcombank Quý khách truy cập mục: Quản trị/Quản lý người thụhưởng/Trả lương ngoại tệtheo lô Quý khách tìm kiếm và lựa chọn danh sách người thụhưởng Quý khách lựa chọn định dạng xls và nhấn nút đểtải mẫu thanh toán có sẵn các thông tin: Mã người hưởng/CCY/Họtên và tài khoản thụhưởng TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ Chọn phân hệ[CHUYỂN TIỀN THEO LÔ] – [TRẢ LƯƠNG NGOẠI TỆ THEO LÔ] Hướng dẫn tải và điền mẫu file thanh toán – Cách 1 Quý khách điền đầy đủcác thông tin còn lại: Sốtiền, Sốtham chiếu, Diễn giải đểhoàn tất file thanh toán. 2 73 Cẩm nang hướng dẫn 1 2 Hướng dẫn tải và điền mẫu file thanh toán – Cách 2 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ Chọn phân hệ[CHUYỂN KHOẢN] - [CHUYỂN TIỀN THEO LÔ] – [TRẢ LƯƠNG NGOẠI TỆ THEO LÔ] 1 Tại màn hình g",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 51,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0052",
+    "text": "tải và điền mẫu file thanh toán – Cách 2 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ Chọn phân hệ[CHUYỂN KHOẢN] - [CHUYỂN TIỀN THEO LÔ] – [TRẢ LƯƠNG NGOẠI TỆ THEO LÔ] 1 Tại màn hình giao dịch Trảlương ngoại tệtheo lô, Quý khách nhấn tại đây để tải mẫu file thanh toán 1 2 Quý khách nhập các thông tin trên file thanh toán. • Thông tin Mã người hưởng\\Tên người thụhưởng\\Sốtài khoản\\Loại tiền quý khách kiểm tra tại màn hình: Quản trị/Quản lý người thụhưởng/Trảlương ngoại tệtheo lô • Quý khách điền đầy đủcác thông tin còn lại: Sốtiền, Sốtham chiếu, Diễn giải đểhoàn tất file thanh toán. 2 74 Cẩm nang hướng dẫn Chọn đểhoàn tất tải file 10 Nhập Sốtham chiếu 1 2 3 4 5 6 7 8 9 10 12 11 13 Chọn Loại ngoại tệ Chọn Mua ngoại tệ Nhập Sốtiền ngoại tệcần mua Chọn Tài khoản nguồn VND, các thông tin vềSốdư tài khoản VND, Sốtiền quy đổi VND, Tỷgiá tham thảo sẽđược tựđộng cập nhật Chọn Loại giao dịch Chọn Không có tài khoản thanh toán Nhập Nội dung chuyển tiền Chọn Loại phí Chọn Tài khoản",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 52,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0053",
+    "text": "hông tin vềSốdư tài khoản VND, Sốtiền quy đổi VND, Tỷgiá tham thảo sẽđược tựđộng cập nhật Chọn Loại giao dịch Chọn Không có tài khoản thanh toán Nhập Nội dung chuyển tiền Chọn Loại phí Chọn Tài khoản thu phí Chọn Thực hiện Chọn đểtải danh sách giao dịch TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ – TRƯỜNG HỢP KH KHÔNG CÓ TÀI KHOẢN NGOẠI TỆ Chọn phân hệ[CHUYỂN KHOẢN] – [CHUYỂN TIỀN THEO LÔ] – [TRẢ LƯƠNG NGOẠI TỆ] Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 75 Cẩm nang hướng dẫn Chọn đểhoàn tất tải file Chọn đểtải danh sách giao dịch 1 2 3 4 5 6 7 8 Nhập Sốtham chiếu 9 10 12 11 Không chọn Không có tài khoản thanh toán Chọn Loại ngoại tệ Chọn Tài khoản nguồn Chọn Mua ngoại tệnếu có nhu cầu Chọn Loại giao dịch Nhập Nội dung chuyển tiền Chọn Loại phí Chọn Tài khoản thu phí Chọn Thực hiện TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ – TRƯỜNG HỢP KH CÓ TÀI KHOẢN NGOẠI TỆ Chọn phân hệCHUYỂN KHOẢN - CHUYỂN TIỀN THEO LÔ – TRẢ LƯƠNG NGOẠI TỆ THEO LÔ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 53,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0054",
+    "text": "ản thu phí Chọn Thực hiện TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH TRẢ LƯƠNG NGOẠI TỆ THEO LÔ – TRƯỜNG HỢP KH CÓ TÀI KHOẢN NGOẠI TỆ Chọn phân hệCHUYỂN KHOẢN - CHUYỂN TIỀN THEO LÔ – TRẢ LƯƠNG NGOẠI TỆ THEO LÔ Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 76 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH Lưu ý: Tại bước nhập nội dung tra soát, khách hàng nhập tiếng Việt không dấu và không chứa ký tự đặc biệt (ví dụ: ~!@#$^&*%). Tính năng này không cần xác thực bằng mật khẩu và OTP. YÊU CẦU TRA SOÁT Tính năng này giúp Quý khách yêu cầu ngân hàng tra soát các giao dịch đã được thực hiện trên hệthống ngân hàng điện tử của Techcombank. Chọn phân hệ[Yêu cầu tra soát]. 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Quý khách nhập số giao dịch của lệnh thanh toán cần thực hiện tra soát. Chọn thực hiện để xem chi tiết giao dịch cần tra soát 1 2 Ví dụ: Nếu sổbút toán của giao dịch ởtrên sổphụ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 54,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0055",
+    "text": "các quyền được bảo hộ Quý khách nhập số giao dịch của lệnh thanh toán cần thực hiện tra soát. Chọn thực hiện để xem chi tiết giao dịch cần tra soát 1 2 Ví dụ: Nếu sổbút toán của giao dịch ởtrên sổphụlà: FT12094xxxxxxx\\BNK thì quý khách lưu ý bỏ bốn ký tựcuối của bút toán là \\BNK. Sổbút toán quý khách cần nhập đểthực hiện tra soát sẽlà: FT12094xxxxxxx 77 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN – LỆNH ĐƠN Tính năng này giúp Quý khách thực hiện thanh toán thuế, phí, lệ phí Hải quan trực tuyến. Chọn phân hệ [Thanh toán trực tuyến] Chọn dịch vụ 01 - Nộp ngân sách nhà nước 1 Mã số thuế của công ty 2 Năm đăng ký của tờkhai 3 Sốtờ khai cần thanh toán 4 Sau khi nhập đầy đủthông tin trên, Quý khách chọn Thực hiện đểtruy vấn thông tin thuế/phí từ Hải quan 1 2 3 4 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 4 1 2 3 4 78 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜ",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 55,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0056",
+    "text": "4 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 4 1 2 3 4 78 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN - LỆNH ĐƠN [TIẾP THEO] Hệ thống sẽ hiển thị thông tin thuế, phí liên quan tới tờ khai mà Khách hàng muốn thanh toán. Quý khách chọn hạng mục cần thanh toán 2 Chọn tiếp tục để thực hiện các bước tiếp theo 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 79 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN - LỆNH ĐƠN [TIẾP THEO] Nhập nội dung thanh toán và thông tin chuyển khoản. 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Nhập số tiền đồng ý thanh toán sau khi kiểm tra chi tiết hạng mục 2 Chọn tiếp tục để thực hiện các bước tiếp theo 1 2",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 56,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0057",
+    "text": "c về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Nhập số tiền đồng ý thanh toán sau khi kiểm tra chi tiết hạng mục 2 Chọn tiếp tục để thực hiện các bước tiếp theo 1 2 80 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN - LỆNH ĐƠN [TIẾP THEO] 1 2 3 4 5 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 Chọn tài khoản nguồn trong danh sách 2 Chọn tài khoản thu phí trong danh sách Khách hàng kiểm tra lại thông tin, nếu không đúng khách hàng chọn lại 1 Nội dung thanh toán hệthống tự động hiển thị, nếu sai khác, khách hàng điều chỉnh đúng yêu cầu Quý khách chọn thực hiện và nhập mã xác thực đểhoàn tất bước tạo lệnh 5 1 2 3 4 5 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 81 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN – LỆNH LÔ Tính năng này giúp Quý khách thực hiện thanh toán nhiều tờkhai nợthuế,",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 57,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0058",
+    "text": "em Tại đây (hyperlink đến HD xác thực) 81 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN – LỆNH LÔ Tính năng này giúp Quý khách thực hiện thanh toán nhiều tờkhai nợthuế, phí, lệ phí Hải quan trực tuyến trong 1 lần thực hiện giao dịch. Chọn phân hệ [Thanh toán trực tuyến] Chọn dịch vụ04 - Nộp ngân sách nhà nước theo lô Khách hàng chọn biểu tượng để tải danh sách giao dịch 1 2 3 4 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 4 1 2 3 4 5 6 Khách hàng chọn biểu tượng để hoàn thiện tải danh sách giao dịch Nhập mô tảgiao dịch Chọn tài khoản nguồn trong danh sách Quý khách chọn thực hiện để chuyển tới bước tiếp theo. 5 6 Trường hợp khách hàng chưa có mẫu thanh toán, khách hàng tải tại đây 82 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN - LỆNH LÔ [TIẾP THEO] 1 2 3 4 5 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hà",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 58,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0059",
+    "text": "ch hàng tải tại đây 82 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN THUẾ HẢI QUAN - LỆNH LÔ [TIẾP THEO] 1 2 3 4 5 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Khách hàng kiểm tra lại thông tin trước khi xác nhận thanh toán Quý khách chọn thực hiện và nhập mã xác thực đểhoàn tất bước tạo lệnh 5 1 2 3 4 1 2 3 4 Nếu thông tin chưa chính xác. Quý khách chọn thay đổi đểchỉnh sửa. Nếu Quý khách tạm dừng giao dịch, chọn hủy bỏđểtrởvềmàn hình thực hiện. Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 83 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN KHÁC Chọn phân hệ [Thanh toán trực tuyến] Chọn dịch vụ03 - Điện lực Việt Nam (EVN) Sau khi nhập đầy đủthông tin trên, Quý khách chọnThực hiện 1 Chọn tài khoản nguồn trong danh sách 2 Nhập mã khách hàng do điện lực cung cấp 3 Sau khi nhập mã khách hàng, hệthống tự động kết nối sang EVN đểtruy vấn nợhóa đơn. Thông",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 59,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0060",
+    "text": "rên, Quý khách chọnThực hiện 1 Chọn tài khoản nguồn trong danh sách 2 Nhập mã khách hàng do điện lực cung cấp 3 Sau khi nhập mã khách hàng, hệthống tự động kết nối sang EVN đểtruy vấn nợhóa đơn. Thông tin dư nợcủa khách hàng được tựđộng hiển thị, khách hàng chọn hóa đơn cần thanh toán 1 2 3 4 1 2 3 4 5 5 Hệthống mặc định nội dung thanh toán Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 84 Cẩm nang hướng dẫn TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN KHÁC [TIẾP THEO] Tính năng này hỗ trợ khách hàng thanh toán hóa đơn Tân Cảng Chọn phân hệ[Thanh toán trực tuyến] Chọn dịch vụ04 -Tân Cảng 1 Chọn tài khoản nguồn trong danh sách 2 Nhập mã hóa đơn cần thanh toán 3 Sau khi nhập đầy đủ thông tin trên, hệ thống hiển thịthông tin sốtiền cần thanh toán Thực hiện và nhập mã xác thực đểhoàn tất bước tạo lệnh 1 2 3 1 2 3 4 5 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 85 Cẩm nang hướng d",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 60,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0061",
+    "text": "oàn tất bước tạo lệnh 1 2 3 1 2 3 4 5 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 85 Cẩm nang hướng dẫn Cẩm nang hướng dẫn 86 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH MỞ TÀI KHOẢN TIỀN GỬI TRỰC TUYẾN Chọn phân hệ [Hợp đồng tiền gửi] [Tiền gửi trực tuyến] Thông tin tài khoản tiền gửi trực tuyến đang hiệu lực và đang chờ phê duyệt, xem chi tiết/ sửa/ xóa bằng các biểu tượng Chọn Tạo mới đểmởtài khoản tiền gửi trực tuyến 1 2 1 2 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 1 2 Cẩm nang hướng dẫn 87 TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH MỞ TÀI KHOẢN TIỀN GỬI TRỰC TUYẾN [TIẾP THEO] 1 Chọn tài khoản trích nợ 2 Nhập sốtiền cần gửi tối thiểu 1 triệu/ 1 lần gửi 3 Chọn kỳhạn trong danh sách 4 Chọn tài khoản nhận gốc/lãi vào 5 ngày đáo hạn 1 2 3 4 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàn",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 61,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0062",
+    "text": "p sốtiền cần gửi tối thiểu 1 triệu/ 1 lần gửi 3 Chọn kỳhạn trong danh sách 4 Chọn tài khoản nhận gốc/lãi vào 5 ngày đáo hạn 1 2 3 4 Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ 1 2 3 4 5 1 2 3 4 5 6 Chọn Thực hiện đểxác thực giao dịch 6 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 1 2 3 4 5 Chọn Sốkhếước cần thanh toán Chọn Thanh toán lãi và nhập Sốtiền gốc thanh toán. Hệthống tựđộng hiển thịSốtiền lãi thanh toán và Tổng gốc/lãi thanh toán Chọn Tài khoản thu phí nếu có phí trả nợtrước hạn Hệthống hiển thịlịch trảnợdựa trên Số khếước khách hàng lựa chọn Chọn Thực hiện đểxác thực giao dịch TÍNH NĂNG DÀNH CHO NGƯỜI TẠO LỆNH THANH TOÁN KHOẢN VAY Chọn phân hệ[KHOẢN VAY] – [THANH TOÁN KHOẢN VAY] Cẩm nang hướng dẫn 88 PHẦN 4: TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ Cẩm",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 62,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0063",
+    "text": "VAY] Cẩm nang hướng dẫn 88 PHẦN 4: TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ Cẩm nang hướng dẫn 91 Lưu ý:  Phê duyệt lệnh cần ít nhất 2 nhóm theo yêu cầu của luật kế toán: • Nhóm Kế toán trưởng hoặc người được uỷquyền • Nhóm Chủ tài khoản, người đại diện hợp pháp của chủ tài khoản, hoặc người được uỷquyền  Riêng gói 2 chữ ký, người tạo lệnh cũng cần phải thuộc 1 trong 2 nhóm nêu trên Sau khi người Tạo lệnh hoàn thiện giao dịch, người Duyệt lệnh cần tiến hành phê duyệt đểhoàn tất giao dịch. Bao gồm: Chuyển tiền đơn; Chuyển khoản theo lô/lương; Thanh toán hóa đơn; Bán ngoại tệ; Chuyển tiền quốc tế, Chuyển ngoại tệtrong nước, Trảlương ngoại tệtheo lô, Yêu cầu tra soát… TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH Phân hệ này được áp dụng cho vai trò Duyệt giao dịch trong doanh nghiệp. Chọn phân hệ: [Duyệt giaodịch] 1 2 Hệthống sẽhiển thịdanh sách tất cả các lệnh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 63,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0064",
+    "text": "NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH Phân hệ này được áp dụng cho vai trò Duyệt giao dịch trong doanh nghiệp. Chọn phân hệ: [Duyệt giaodịch] 1 2 Hệthống sẽhiển thịdanh sách tất cả các lệnh đang chờphê duyệt theo từng loại 1 2 Đểphê duyệt giao dịch, Quý khách chọn Duyệt theo chi tiết hoặc Duyệt nhiều lệnh (*) Duyệt nhiều lệnh chỉáp dụng với loại giao dịch Chuyển tiền đơn – VNĐ, Yêu cầu tra soát, Thanh toán trực tuyến, Chuyển tiền nhanh 247 và Chuyển tiền Tài khoản định danh Cẩm nang hướng dẫn 92 3 Quý khách lựa chọn Duyệt theo chi tiết của Loại giao dịch đang cần phê duyệt Quý khách lựa chọn giao dịch cần phê duyệt. Lựa chọn nút đểthực hiện phê duyệt giao dịch 4 TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH – DUYỆT THEO CHI TIẾT 3 3 4 Cẩm nang hướng dẫn 93 5 6 Quý khách kiểm tra các thông tin liên quan đến lệnh chuyển tiền Quý khách nhấn Thực hiện và xác thực đểphê duyệt giao dịch. Với các giao dịch Bán ngoại tệ, Chuyển tiền quốc tế, Trảlương ngoại tệtheo lô có Mua/Bán",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 64,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0065",
+    "text": "m tra các thông tin liên quan đến lệnh chuyển tiền Quý khách nhấn Thực hiện và xác thực đểphê duyệt giao dịch. Với các giao dịch Bán ngoại tệ, Chuyển tiền quốc tế, Trảlương ngoại tệtheo lô có Mua/Bán ngoại tệ, Hệthống tựđộng cập nhật tỷgiá tại thời điểm duyệt giao dịch và sửdụng tỷgiá này đểthực hiện giao dịch TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH – DUYỆT THEO CHI TIẾT [TIẾP THEO] 5 6 Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) Cẩm nang hướng dẫn 94 3 4 Quý khách chọn Duyệt nhiều lệnh Hệthống hiển thịtoàn bộ giao dịch chờduyệt 4 5 5 Chọn Thực hiện đểDuyệt giao dịch. Quý khách có thểduyệt 1 hoặc nhiều giao dịch bằng cách lựa chọn vào biểu tượng: Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH – DUYỆT NHIỀU LỆNH 3 Cẩm nang hướng dẫn 95 Lưu ý kiểm tra Tên người thụhưởng trong TCB dành cho Người duyệt lệnh Quý khách chọn File giao dịch cần duyệt Chọn biểu tượng đểDuyệt giao dịch. Xác thực giao dịch",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 65,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0066",
+    "text": "NHIỀU LỆNH 3 Cẩm nang hướng dẫn 95 Lưu ý kiểm tra Tên người thụhưởng trong TCB dành cho Người duyệt lệnh Quý khách chọn File giao dịch cần duyệt Chọn biểu tượng đểDuyệt giao dịch. Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 1 2 1 3 3 Thông tin khớp đúng, Quý khách chọn Duyệt đểDuyệt giao dịch trong file Quý khách kiểm tra thông tin Tên Người thụhưởng tại TCB. Nếu có sựsai khác, Quý khách trả lại giao dịch đểNgười tạo lệnh Hủy giao dịch và Upload lại File mới TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH – DUYỆT LÔ VNĐ TRONG TCB Cẩm nang hướng dẫn 96 40 Techcombank TÍNH NĂNG DÀNH CHO NGƯỜI DUYỆT LỆNH DUYỆT GIAO DỊCH [TIẾP THEO] - Duyệt mở Tiền gửi trực tuyến. Chọn phân hệ [Hợp đồng tiền gửi] [TIỀN GỬI TRỰC TUYẾN] Dịch vụ ngân hàng trực tuyến Techcombank Bản quyền thuộc về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Chọn duyệt giao dịch Chọn Thực hiện và xác thực đểhoàn tất giao dịch Xác thực giao dịch xem Tại đây (hyperlink đến HD",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 66,
+      "char_count": 998,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0067",
+    "text": "c về Ngân hàng Thương mạ cổ phần Kỹ Thương Việt Nam. Tất cả các quyền được bảo hộ Chọn duyệt giao dịch Chọn Thực hiện và xác thực đểhoàn tất giao dịch Xác thực giao dịch xem Tại đây (hyperlink đến HD xác thực) 1 2 1 2 PHẦN 5: HƯỚNG DẪN XÁC THỰC GIAO DỊCH AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ HƯỚNG DẪN XÁC THỰC GIAO DỊCH XÁC THỰC GIAO DỊCH BẰNG SMART OTP TRƯỜNG HỢP XÁC THỰC GIAO DỊCH KHÔNG TRỰC TUYẾN 1 Lưu ý 1: Xác thực không trực tuyến 1. Mã giao dịch là sốduy nhất được sinh ra bởi hệthống F@st Ebank cho từng loại giao dịch tài chính của Techcombank. 2. “Xác thực sẽhết hiệu lực sau 2 phút” là trạng thái thời gian chờxửlý xác thực được tính từthời điểm hiển thịMã giao dịch. • Thời hạn xác thực đã hết thì hệthống quay vềmàn hình khởi đầu giao dịch của người dùng tạo hoặc duyệt. 3. Tính năng Xác thực trực tuyến không áp dụng cho Khách hàng đang sửdụng token nâng cao (Advance hard token). Lưu ý 2: Nếu nh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 67,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0068",
+    "text": "hệthống quay vềmàn hình khởi đầu giao dịch của người dùng tạo hoặc duyệt. 3. Tính năng Xác thực trực tuyến không áp dụng cho Khách hàng đang sửdụng token nâng cao (Advance hard token). Lưu ý 2: Nếu nhập PIN sai tại ứng dụng Smart OTP sẽcảnh báo “Mã xác thực không hợp lệ” Nếu Quý Khách nhập PIN sai tại ứng dụng Smart OTP liên tiếp 5 lần sẽbịkhóa Token/OTP. ĐềnghịQuý Khách liên hệvới hotline đểđược hỗtrợvà tư vấn. 2 99 Cẩm nang hướng dẫn 3 6 2 Quý Khách lựa chọn nhập Mã giao dịch hoặc quét QR Code. 4 3 Quý Khách nhập mã PIN. Quý Khách nhập Mã xác thực (OTP) vào màn hình xác thực giao dịch trên F@st Ebank. Lựa chọn nút “Xác thực” 5 Hiển thị Mã xác thực (OTP) Hiển thịthông tin giao dịch thành công trên F@st Ebank Lưu ý 2: Lựa chọn đểquay vềdanh sách token 5 2 4 • Đồng ý lựa chọn • Xóa PIN lựa chọn • Hủy là từchối xác thực • Quên PIN hướng dẫn lấy lại PIN mới Quý Khách mởứng dụng Smart OTP đểlựa chọn token/Tên truy cập mong muốn tại phần Danh sách token đểsinh mã xác thực cho giao dịch. 6 H",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 68,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0069",
+    "text": "chọn • Hủy là từchối xác thực • Quên PIN hướng dẫn lấy lại PIN mới Quý Khách mởứng dụng Smart OTP đểlựa chọn token/Tên truy cập mong muốn tại phần Danh sách token đểsinh mã xác thực cho giao dịch. 6 HƯỚNG DẪN XÁC THỰC GIAO DỊCH XÁC THỰC GIAO DỊCH BẰNG SMART OTP TRƯỜNG HỢP XÁC THỰC GIAO DỊCH KHÔNG TRỰC TUYẾN [TIẾP THEO] 100 Cẩm nang hướng dẫn HƯỚNG DẪN XÁC THỰC GIAO DỊCH XÁC THỰC GIAO DỊCH BẰNG SMART OTP TRƯỜNG HỢP XÁC THỰC GIAO DỊCH TRỰC TUYẾN 1 1 Lưu ý 1: Xác thực trực tuyến 1. Mã giao dịch là sốduy nhất được sinh ra bởi hệthống F@st Ebank cho từng loại giao dịch tài chính của Techcombank. 2. “Xác thực sẽhết hiệu lực sau 2 phút” là trạng thái thời gian chờ xửlý xác thực được tính từthời điểm hiển thịMã giao dịch. • Thời hạn xác thực đã hết thì hệthống quay vềmàn hình khởi đầu giao dịch của người dùng tạo hoặc duyệt. 3. Lựa chọn Xác thực trực tuyến • Thời hạn xác thực (2) sẽdừng đếm ngược khi hệthống chờthông tin phản hồi từSmart OTP • Thông báo kết quảgiao dịch trên F@st Ebank ngay kh",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 69,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0070",
+    "text": "a người dùng tạo hoặc duyệt. 3. Lựa chọn Xác thực trực tuyến • Thời hạn xác thực (2) sẽdừng đếm ngược khi hệthống chờthông tin phản hồi từSmart OTP • Thông báo kết quảgiao dịch trên F@st Ebank ngay khi nhận được thông tin xác thực từSmart OTP gửi tới. Lưu ý 2: Nếu nhập PIN sai tại ứng dụng Smart OTP sẽcảnh báo “Mã xác thực không hợp lệ” Lưu ý 3: Nếu hệthống không nhận được sựphản hồi nào sau khoảng thời hạn này thì sẽhiển thịthông điệp “Quá trình xác thực giao dịch không thành công. Vui lòng thửlại !”. Quý Khách lựa chọn “Xác thực trực tuyến”, hệthống sẽgửi thông tin giao dịch tới thiết bịđang cài đặt ứng dụng Smart OTP (TCB OTP). 2 3 2 3 101 Cẩm nang hướng dẫn Quý Khách sẽnhận được cảnh báo “Bạn có một giao dịch đang chờxửlý “ từTrung tâm thông báo của hệđiều hành IOS/Android 6 7 2 3 4 2 3 4 Tại màn hình thông báo có giao dịch chờxửlý, Quý Khách lựa chọn vào thông báo đểtiếp tục mở thông tin giao dịch. Quý Khách lựa chọn nút Xem đểxem trực tiếp chi tiết thông tin giao dịch.  Mã giao",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 70,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0071",
+    "text": "3 4 Tại màn hình thông báo có giao dịch chờxửlý, Quý Khách lựa chọn vào thông báo đểtiếp tục mở thông tin giao dịch. Quý Khách lựa chọn nút Xem đểxem trực tiếp chi tiết thông tin giao dịch.  Mã giao dịch là tham sốtại màn hinh xác thực như tại bước 3.  Thời hạn xác thực sẽhết hiệu lực ltrong khoảng 30 giây.  Lựa chọn nút Hủy đểtừchối xác thực giao dịch. Lựa chọn nút Chấp nhận sau 5 giây đểxác thực thông tin giao dịch. Thông tin giao dịch sẽứng với từng loại hình thức giao dịch trên hệthống F@st Ebank. 5 6 Quý Khách sẽnhận được thông báo kết quảgiao dịch tại màn hình trên F@st Ebank. Lưu ý 2:  Nếu Quý Khách nhập PIN sai liên tiếp 5 lần sẽbịkhóa Token. ĐềnghịQuý Khách liên hệvới hotline đểđược hỗtrợvà tư vấn.  Lựa chọn nút Hủy đểtừchối xác thực giao dịch. Quý Khách nhập mã PIN và lựa chọn . • Đồng ý lựa chọn • Xóa PIN lựa chọn • Hủy là từchối xác thực • Quên PIN hướng dẫn lấy lại PIN mới Lưu ý: đối với các thiết bịdi động không cài đặt Mật khẩu & bảo mật (Android) / Touch ID & Mật m",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 71,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0072",
+    "text": "ọn . • Đồng ý lựa chọn • Xóa PIN lựa chọn • Hủy là từchối xác thực • Quên PIN hướng dẫn lấy lại PIN mới Lưu ý: đối với các thiết bịdi động không cài đặt Mật khẩu & bảo mật (Android) / Touch ID & Mật mã (IOS), Techcombank khuyến cáo Quý Khách cài đặt tính năng này đểđảm bảo an toàn, bảo mật dữliệu. 5 Hoặc Quý khách lựa chọn nút Xem sau đó quét Vân tay đối với trường hợp Quý Khách đã thiệt lập tính năng này trong phần “Cài đặt xem thông tin giao dịch” tại trang 14. Lưu ý 1: Nếu thiết bịkhông thểnhận diện được Vân tay trong 3 lần quét. Quý Khách vui lòng tắt chức năng này trong phần Cài đặt xem thông tin giao dịch. 7 HƯỚNG DẪN XÁC THỰC GIAO DỊCH XÁC THỰC GIAO DỊCH BẰNG SMART OTP TRƯỜNG HỢP XÁC THỰC GIAO DỊCH TRỰC TUYẾN [TIẾP THEO] 102 Cẩm nang hướng dẫn HƯỚNG DẪN XÁC THỰC GIAO DỊCH XÁC THỰC GIAO DỊCH BẰNG TOKEN NÂNG CAO Quý khách sửdụng Sốtham chiếu đểnhập lên Token đểlấy Mã xác thực (OTP) 1 1 Sau khi nhập đầy đủthông tin ở các bước tạo giao dịch, tại màn hình Xác thực giao dịch, hệthống",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 72,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0073",
+    "text": "IAO DỊCH BẰNG TOKEN NÂNG CAO Quý khách sửdụng Sốtham chiếu đểnhập lên Token đểlấy Mã xác thực (OTP) 1 1 Sau khi nhập đầy đủthông tin ở các bước tạo giao dịch, tại màn hình Xác thực giao dịch, hệthống hiện thịSốtham chiếu như sau: Quý khách nhấn phím OK đểkhởi động thiết bị Quý khách sửdụng các phím từ0 đến 9 đểnhập mã PIN đã thiết lập trên Token. Sau đó, Quý khách nhấn phím OK để xác nhận Token hiển thịmàn hình SELECT. Quý khách nhấn phím 2 đểđi đến màn hình nhập Sốtham chiếu đểlấy mã OTP 2 4 5 3 6 4 6 2 3 5 Quý khách nhập Sốtham chiếu và nhấn phím OK Token hiển thịmã OTP (Mã xác thực) đểxác thực giao dịch trên F@ST Ebank 7 7 Nhập mã OTP trên F@st Ebank đểhoàn tất Xác thực giao dịch 103 Cẩm nang hướng dẫn F@ST EBANK AN TOÀN VÀ BẢO MẬT TỐI ƯU HIỆU QUẢ TÀI CHÍNH DỊCH VỤ ĐA TIỆN ÍCH DỄDÀNG TRONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ www.techcombank.com.vn 104 Cẩm nang hướng dẫn Hãy liên hệ với chúng tôi để được phục vụ tốt nhất TẠI CÁC CN/PGD CỦA TECHCOMBANK TRÊN TOÀN QUỐC HOẶC C",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 73,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_hdsd_feb_aug_2022_226b60e2d4_v1_chunk_0074",
+    "text": "ONG SỬDỤNG TIẾT KIỆM THỜI GIAN GIẢM THIỂU CHỨNG TỪ www.techcombank.com.vn 104 Cẩm nang hướng dẫn Hãy liên hệ với chúng tôi để được phục vụ tốt nhất TẠI CÁC CN/PGD CỦA TECHCOMBANK TRÊN TOÀN QUỐC HOẶC CÁN BỘ QUẢN LÝ KHÁCH HÀNG DOANH NGHIỆP Hotline: 1800 588 822 (trong nước)/ 84 24 3944 6699 (quốc tế) Email:hotrodoanhnghiep@techcombank.com.vn www.techcombank.com.vn 105 Cẩm nang hướng dẫn",
+    "metadata": {
+      "file_path": "data\\raw\\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "file_name": "TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf",
+      "chunk_index": 74,
+      "char_count": 387,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  }
+]

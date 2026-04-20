@@ -2,8 +2,15 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Dict, List, Tuple
-from urllib.parse import quote
 
+def _resolve_raw_path(item: Dict) -> str:
+    metadata = item.get("metadata", {}) or {}
+    return str(
+        metadata.get("raw_path")
+        or metadata.get("file_path")
+        or metadata.get("source_file")
+        or ""
+    ).strip()
 
 def _resolve_source_name(item: Dict) -> str:
     metadata = item.get("metadata", {}) or {}
@@ -117,13 +124,14 @@ def build_sources(results: List[Dict]) -> List[Dict]:
         if key in seen:
             continue
         seen.add(key)
-
+        raw_path = _resolve_raw_path(item)
         source_payload = {
             "source": source_name,
             "file_name": source_name,
             "file_path": source_path,
+            "raw_path": raw_path,
             "score": item.get("score"),
-            "download_url": f"/api/documents/{quote(source_name)}" if source_name and source_name != "unknown_source" else None,
+            "download_url": None,
         }
         sources.append(source_payload)
 

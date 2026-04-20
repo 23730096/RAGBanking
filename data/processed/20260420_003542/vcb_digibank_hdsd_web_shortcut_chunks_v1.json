@@ -1,0 +1,162 @@
+[
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0001",
+    "text": "VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 1 VCB DIGIBANK HƯỚNG DẪN SỬ DỤNG I. GIỚI THIỆU DỊCH VỤ VCB DIGIBANK 1.1. Giới thiệu dịch vụ Dịch vụ VCB Digibank (sau đây gọi là Dịch vụ) là dịch vụ trong đó cho phép KH thực hiện các giao dịch với ngân hàng đồng nhất và liền mạch trên tất cả các kênh gồm trang giao dịch trực tuyến được cung cấp trên website chính thức của VCB với tên miền www.portal.vietcombank.com.vn hoặc tên miền khác được quy định tại từng thời kỳ (gọi là kênh Internet Banking - IB) và trên các ứng dụng ngân hàng di động được cài đặt trên thiết bị di động (điện thoại thông minh, máy tính bảng và các thiết bị di động khác) (gọi là kênh Mobile Banking - MB với các ứng dụng là VCB – Mobile B@nking, VCBPAY và các ứng dụng khác do VCB phát triển từng thời kỳ. 1.2. Tính năng dịch vụ VCB Digibank cho phép khách hàng thực hiện 2 nhóm chức năng sau: - Kiểm tra thông tin tài khoản thanh toán, tài khoản tiền gửi và tiền vay, thông tin thẻ tín dụng. - Chuyển tiền:  Chuyển tiền trong Viet",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 1,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0002",
+    "text": "Digibank cho phép khách hàng thực hiện 2 nhóm chức năng sau: - Kiểm tra thông tin tài khoản thanh toán, tài khoản tiền gửi và tiền vay, thông tin thẻ tín dụng. - Chuyển tiền:  Chuyển tiền trong Vietcombank  Chuyển tiền ngoài hệ thống Vietcombank (chuyển tiền thông thường qua kênh NHNN)  Chuyển tiền nhanh 24/7 (chuyển tiền nhanh qua tài khoản/ thẻ)  Chuyển tiền cho người hưởng nhận tiền mặt bằng CMND/Hộ chiếu tại các quầy giao dịch của Vietcombank  Chuyển tiền từ thiện cho các tổ chức từ thiện. - Thanh toán hóa đơn:  Thanh toán hóa đơn tiền điện, cước viễn thông (điện thoại, Internet), vé tàu, vé máy bay, học phí, phí bảo hiểm, viện phí, bảo hiểm, học phí, khoản vay tài chính…  Nộp thuế nội địa, thuế trước bạ  Nộp bảo hiểm xã hội  Nộp phí hạ tầng cảng biển - Nạp tiền:  Nạp tiền điện thoại  Nạp tiền ví điện tử  Nạp tiền đại lý  Nộp tiền chứng khoán - Tiết kiệm trực tuyến:  Mở/tất toán tài khoản tiết kiệm VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 2  Nộp thêm/Rút bớt tài khoản",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 2,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0003",
+    "text": "iện thoại  Nạp tiền ví điện tử  Nạp tiền đại lý  Nộp tiền chứng khoán - Tiết kiệm trực tuyến:  Mở/tất toán tài khoản tiết kiệm VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 2  Nộp thêm/Rút bớt tài khoản tiết kiệm  Đăng ký/hủy tiết kiệm tự động - Dịch vụ Thẻ:  Khóa/mở khóa thẻ  Đăng ký/hủy đăng ký thanh toán trên Internet  Thay đổi tài khoản thanh toán chỉ định  Thay đổi hạn mức chi tiêu  Đăng ký/hủy đăng ký Card OTP  Thanh toán thẻ tín dụng - Tiện ích: Đăng ký dịch vụ Auto Debit, Phone Banking, Ví điện tử, Tra soát trực tuyến… - Cài đặt: Chủ động lựa chọn Nhà cung cấp dịch vụ, Hạn mức giao dịch, Phương thức xác thực, Hình nền, Ngôn ngữ theo nhu cầu. - Hỗ trợ tính toán (chuyển đổi ngoại tệ, lãi tiết kiệm, lịch trả nợ) II. KÍCH HOẠT, CHUYỂN ĐỔI 2.1. Kích hoạt/đăng nhập 2.1.1. Kích hoạt lần đầu sau khi đăng ký Bước 1: Truy cập website VCB Digibank, nhập thông tin tên đăng nhập và mật khẩu - Tên đăng nhập là Số điện thoại đăng ký dịch vụ VCB Digibank - Mật khẩu là mật khẩu mặc định đư",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 3,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0004",
+    "text": "lần đầu sau khi đăng ký Bước 1: Truy cập website VCB Digibank, nhập thông tin tên đăng nhập và mật khẩu - Tên đăng nhập là Số điện thoại đăng ký dịch vụ VCB Digibank - Mật khẩu là mật khẩu mặc định được VCB gửi đến số điện thoại Bước 2 : Tại màn hình chào mừng, Chọn Bắt đầu sử dụng VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 3 đăng ký VCB Digibank của Quý khách Bước 3: Nhập mật khẩu mặc định và mật khẩu mới để tiến hành thay đổi Lưu ý: Để đảm bảo an toàn bảo mật, mật khẩu của Quý khách cần có độ dài từ 7-20 ký tự, bao gồm ký tự số, chữ hoa, chữ thường, ký tự đặc biệt. Bước 4 : Nhập mã xác nhận (mã OTP) được gửi về số điện thoại đăng ký VCB Digibank, lựa chọn Tiếp tục VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 4 Bước 5: Kích hoạt thành công, hệ thống hiển thị màn hình trang chủ của VCB Digibank. Quý khách đã có thể sử dụng các dịch vụ của VCB Digibank. 2.1.2. Đăng nhập Bước 1: Truy cập website VCB Digibank, nhập thông tin tên đăng nhập và mật khẩu - Tên đăng nhập là Số điện thoại đăng ký dịch vụ",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 4,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0005",
+    "text": "khách đã có thể sử dụng các dịch vụ của VCB Digibank. 2.1.2. Đăng nhập Bước 1: Truy cập website VCB Digibank, nhập thông tin tên đăng nhập và mật khẩu - Tên đăng nhập là Số điện thoại đăng ký dịch vụ VCB Digibank - Mật khẩu là mật khẩu do Quý khách thiết lập Bước 2 : Đăng nhập thành công, hệ thống hiển thị màn hình trang chủ của VCB Digibank. Quý khách đã có thể sử dụng các dịch vụ của VCB Digibank. 2.2. Chuyển đổi VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 5 Đối với Quý khách đã sử dụng dịch vụ VCB – iB@nking, Quý khách cần chuyển đổi lên VCB Digibank theo các bước như sau: Bước 1: Mở website VCB Digibank, nhập thông tin tài khoản và nhấn Đăng nhập - Tên đăng nhập là tên đăng nhập dịch vụ VCB – iB@nking của Quý khách - Mật khẩu là mật khẩu dịch vụ VCB – iB@nking Bước 2 : Tại màn hình chào mừng, lựa chọn Bắt đầu sử dụng VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 6 Bước 3: Thực hiện thiết lập mật khẩu mới và các thông tin như địa chỉ email, tài khoản mặc định  chọn Tiếp tục Bước 4 : Nhập mã x",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 5,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0006",
+    "text": "ng, lựa chọn Bắt đầu sử dụng VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 6 Bước 3: Thực hiện thiết lập mật khẩu mới và các thông tin như địa chỉ email, tài khoản mặc định  chọn Tiếp tục Bước 4 : Nhập mã xác nhận gửi về số điện thoại đăng ký  chọn Tiếp tục Bước 5: Chuyển đổi thành công. Hệ thống hiển thị màn hình trang chủ của VCB Digibank. Quý khách đã có thể sử dụng các dịch vụ của VCB Digibank. III. CÀI ĐẶT PHƯƠNG THỨC XÁC THỰC Vietcombank cung cấp nhiều Phương thức xác thực giao dịch, phù hợp với quy định của Ngân hàng nhà nước và nhu cầu đa dạng của Quý khách bao gồm: Mật khẩu đăng nhập, Sinh trắc học (Vân tay, khuôn mặt), SMS OTP, VCB-Smart OTP. Việc hiển thị Phương thức xác thực phụ thuộc vào loại giao dịch, số tiền giao dịch, phương thức xác thực mà Quý khách đăng ký với Vietcombank. VCB – Smart OTP là phương thức xác thực giao dịch an toàn, bảo mật, thuận tiện cho Quý khách. 3.1. Đăng ký phương thức xác thực VCB-Smart OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 7 Bước 1: Mở website",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 6,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0007",
+    "text": "CB – Smart OTP là phương thức xác thực giao dịch an toàn, bảo mật, thuận tiện cho Quý khách. 3.1. Đăng ký phương thức xác thực VCB-Smart OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 7 Bước 1: Mở website VCB Digibank, nhấn menu trái -> chọn Cài đặt phương thức xác thực Bước 2 : Tại màn hình cài đặt -> chọn Đăng ký/Hủy Bước 3: Thực hiện nhập các thông tin trên màn hình -> tích chọn điều kiện điều khoản -> nhấn Tiếp tục Bước 4 : Nhập mã xác nhận -> nhấn Tiếp tục VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 8 Bước 5: Thông báo kết quả Đăng ký phương thức xác thực VCB-Smart OTP thành công Lưu ý: Sau khi Đăng ký VCB-Smart OTP thành công, để hoàn tất quy trình kích hoạt ứng dụng VCB – Smart OTP, Quý khách cần thực hiện đầy đủ các bước theo trình tự sau: - Tải ứng dụng Vietcombank Smart OTP trên chợ ứng dụng - Nhập số điện thoại và nhập mã kích hoạt vào ứng dụng. Mã kích hoạt đã được Vietcombank gửi đến số điện thoại đăng ký VCB-Smart OTP của Quý khách - Nhắn tin theo cú pháp VCB DK SMARTOTP đến 6167",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 7,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0008",
+    "text": "ụng - Nhập số điện thoại và nhập mã kích hoạt vào ứng dụng. Mã kích hoạt đã được Vietcombank gửi đến số điện thoại đăng ký VCB-Smart OTP của Quý khách - Nhắn tin theo cú pháp VCB DK SMARTOTP đến 6167 - Thực hiện 2 giao dịch tài chính trên VCB Digibank kênh web bằng SMS OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 9 3.2. Kích hoạt lại phương thức xác thực VCB-Smart OTP Bước 1: Mở website VCB Digibank, nhấn menu trái -> chọn Cài đặt phương thức xác thực Bước 2 : Tại màn hình cài đặt -> chọn Kích hoạt lại Bước 3: Thực hiện nhập các thông tin trên màn hình -> tích chọn điều kiện điều khoản -> nhấn Tiếp tục Bước 4 : Nhập mã xác nhận -> nhấn Tiếp tục VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 10 Bước 6: Thông báo Kích hoạt lại phương thức xác thực VCB-Smart OTP thành công Lưu ý: Sau khi kích hoạt VCB-Smart OTP thành công, để hoàn tất quy trình kích hoạt ứng dụng VCB – Smart OTP, Quý khách cần thực hiện đầy đủ các bước theo trình tự sau: - Nhập số điện thoại và nhập mã kích hoạt vào mục Thêm tài kh",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 8,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0009",
+    "text": "Smart OTP thành công, để hoàn tất quy trình kích hoạt ứng dụng VCB – Smart OTP, Quý khách cần thực hiện đầy đủ các bước theo trình tự sau: - Nhập số điện thoại và nhập mã kích hoạt vào mục Thêm tài khoản trên ứng dụng VCB – Smart OTP. Mã kích hoạt đã được Vietcombank gửi đến số điện thoại đăng ký VCB-Smart OTP của Quý khách - Nhắn tin theo cú pháp VCB DK SMARTOTP đến 6167 - Thực hiện 2 giao dịch tài chính trên VCB Digibank kênh web bằng SMS OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 11 3.3. Khóa phương thức xác thực VCB-Smart OTP Bước 1: Mở website VCB Digibank, nhấn menu trái -> chọn Cài đặt phương thức xác thực Bước 2 : Tại màn hình cài đặt -> chọn Khóa dịch vụ Bước 3: Tại màn hình Khóa dịch vụ của phương thức xác thực VCB-Smart OTP -> nhấn Tiếp tục Bước 4 : Nhấn Có trên thông báo xác nhận Khóa dịch vụ của phương thức xác thực VCB-Smart OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 12 Bước 6: Thông báo Khóa phương thức xác thực VCB-Smart OTP thành công 3.4. Hủy phương thức xác thực VCB-",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 9,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "vcb_digibank_hdsd_web_shortcut_v1_chunk_0010",
+    "text": "ận Khóa dịch vụ của phương thức xác thực VCB-Smart OTP VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 12 Bước 6: Thông báo Khóa phương thức xác thực VCB-Smart OTP thành công 3.4. Hủy phương thức xác thực VCB-Smart OTP Bước 1: Mở website VCB Digibank, nhấn menu trái -> chọn Cài đặt phương thức xác thực Bước 2 : Tại màn hình cài đặt -> chọn Đăng ký/Hủy VCB Digibank – HƯỚNG DẪN SỬ DỤNG Trang 13 Bước 3: Tại màn hình Hủy dịch vụ của phương thức xác thực VCB-Smart OTP -> nhấn Tiếp tục Bước 4 : Nhấn Có trên thông báo xác nhận Hủy dịch vụ của phương thức xác thực VCB-Smart OTP Bước 6: Thông báo Hủy phương thức xác thực VCB-Smart OTP thành công",
+    "metadata": {
+      "file_path": "data\\raw\\VCB Digibank_HDSD web_shortcut.pdf",
+      "file_name": "VCB Digibank_HDSD web_shortcut.pdf",
+      "chunk_index": 10,
+      "char_count": 635,
+      "source_type": "unstructured",
+      "bank": "vietcombank",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  }
+]

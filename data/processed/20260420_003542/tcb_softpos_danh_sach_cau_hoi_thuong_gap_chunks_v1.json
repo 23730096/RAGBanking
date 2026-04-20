@@ -1,0 +1,377 @@
+[
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0001",
+    "text": "Public document Danh sách câu hỏi thường gặp Mục 1: Tài khoản ........................................................................................................................................ 3 Câu hỏi 1: Giải pháp chấp nhận thanh toán SoftPOS của Techcombank là gì? ....................................... 3 Câu hỏi 2: Điều kiện sử dụng SoftPOS là gì? ........................................................................................... 3 Câu hỏi 3: Tôi cần làm gì để đăng kí sử dụng SoftPOS? .......................................................................... 3 Câu hỏi 4: Tôi cần cung cấp giấy tờ gì để đăng kí sử dụng Techcombank SoftPOS? .............................. 3 Câu hỏi 5: Tôi phải làm gì nếu quên mật khẩu đăng nhập? ...................................................................... 4 Câu hỏi 6: Tôi phải làm gì nếu tài khoản của mình bị khóa? .................................................................... 6 Câu hỏi 7: Tôi phải làm gì khi không thể đăn",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 1,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0002",
+    "text": "....................... 4 Câu hỏi 6: Tôi phải làm gì nếu tài khoản của mình bị khóa? .................................................................... 6 Câu hỏi 7: Tôi phải làm gì khi không thể đăng nhập? .............................................................................. 6 Câu hỏi 8: Khi đăng ký sử dụng ứng dụng ePOS, tôi có mất phí gì không? ............................................ 6 Mục 2: Thanh toán ...................................................................................................................................... 6 Câu hỏi 10: Chức năng tạo mã thanh toán QR cho giao dịch dùng để làm gì? ........................................ 6 Câu hỏi 11: Techcombank ePOS chấp nhận thanh toán những thẻ nào? .................................................. 7 Câu hỏi 12: Tôi cần làm gì để khách trả tiền cho tôi qua ứng dụng? ........................................................ 7 Câu hỏi 13: Tôi muốn xem lịch sử giao dịch, thanh toán tại cửa hàng thì làm th",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 2,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0003",
+    "text": "hỏi 12: Tôi cần làm gì để khách trả tiền cho tôi qua ứng dụng? ........................................................ 7 Câu hỏi 13: Tôi muốn xem lịch sử giao dịch, thanh toán tại cửa hàng thì làm thế nào? .......................... 8 Câu hỏi 14: Trong trường hợp tạo mã QR thanh toán bị lỗi, tôi cần làm gì để xử lý? ............................. 8 Câu hỏi 15: Trong trường hợp thanh toán thẻ bị lỗi, tôi cần làm gì để xử lý? .......................................... 8 Câu hỏi 16: Lịch sử giao dịch sẽ được lưu trữ trong bao lâu? Trong trường hợp quá thời gian quy định, tôi có thể yêu cầu xuất sao kê không? ....................................................................................................... 9 Câu hỏi 17: Trường hợp khách hàng thanh toán đã trừ tiền thẻ ngân hàng, cửa hàng chưa nhận được tiền thì tôi nên làm thế nào? .................................................................................................................... 10 Câu 18: Doanh thu thanh toán tại cử",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 3,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0004",
+    "text": "chưa nhận được tiền thì tôi nên làm thế nào? .................................................................................................................... 10 Câu 18: Doanh thu thanh toán tại cửa hàng sẽ được Techcombank ghi có cho tôi như thế nào? ........... 10 Mục 3: Quản lý thiết bị ............................................................................................................................. 10 Câu hỏi 19: Tôi phải làm gì nếu thiết bị của tôi kích hoạt thất bại? ....................................................... 10 Câu hỏi 20: Ứng dụng ePOS đang hỗ trợ những phiên bản nào của hệ điều hành IOS và Android? ..... 10 Câu hỏi 21: Tại sao ứng dụng ePOS muốn biết vị trí của tôi? ................................................................ 10 Mục 4: Quản lý nhân viên ........................................................................................................................ 11 Câu hỏi 22: Tôi phải làm gì để tạo tài khoản cho nhân viên mới? ........",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 4,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0005",
+    "text": "iên ........................................................................................................................ 11 Câu hỏi 22: Tôi phải làm gì để tạo tài khoản cho nhân viên mới? .......................................................... 11 Câu hỏi 23: Nhân viên có thể xem được thông tin doanh thu của cửa hàng hay không? ....................... 12 Câu 24: Nhân viên của tôi có thể dùng tài khoản để đăng nhập tại nhiều thiết bị khác nhau không? .... 12 Câu 25: Tôi có thể phân quyền cho nhân viên của mình hay không? ..................................................... 12 Câu 26: Tôi phải làm gì khi nhân viên của tôi nghỉ việc ........................................................................ 12 Public document Mục 5: Quản lý cửa hàng ......................................................................................................................... 12 Câu 27: Nếu cửa hàng của tôi ngừng hoạt động, tôi cần làm gì để chấm dứt sử dụng dịch vụ? ............ 12 Câu 28:",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 5,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0006",
+    "text": ".................................................................................. 12 Câu 27: Nếu cửa hàng của tôi ngừng hoạt động, tôi cần làm gì để chấm dứt sử dụng dịch vụ? ............ 12 Câu 28: Tôi có mất phí khi dừng sử dụng dịch vụ không? ..................................................................... 13 Mục 6: Merchant Portal ........................................................................................................................... 13 Câu 29: Chức năng quản lý trên Merchant Portal và quản lý trên ứng dụng có gì khác nhau? .............. 13 Câu 30: Làm thế nào để tôi có tài khoản sử dụng Merchant Site Portal? ............................................... 14 Câu 31: Tôi có cần hoàn trả toàn bộ số tiền đơn hàng trong 1 lần yêu cầu hoàn trả không? .................. 14 Câu 32: Tôi có thể thực hiện hoàn trả cho những giao dịch như thế nào? .............................................. 14 Câu 33: Sau khi thực hiện hoàn trả bao lâu thì khách hàng của tôi sẽ n",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 6,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0007",
+    "text": "..... 14 Câu 32: Tôi có thể thực hiện hoàn trả cho những giao dịch như thế nào? .............................................. 14 Câu 33: Sau khi thực hiện hoàn trả bao lâu thì khách hàng của tôi sẽ nhận được tiền? ......................... 14 Câu 34: Tôi có thể hủy yêu cầu hoàn trả được không? ........................................................................... 14 Public document Mục 1: Tài khoản Câu hỏi 1: Giải pháp chấp nhận thanh toán SoftPOS của Techcombank là gì? Là giải pháp chấp nhận thanh toán của TCB cho phép chấp nhận thanh toán bằng mã QR, Thẻ, quản trị cửa hàng, nhân viên dành cho các hộ kinh doanh, doanh nghiệp bán lẻ, bao gồm: • Ứng dụng chấp nhận thanh toán TCB ePOS: cho phép thiết bị di động trở thành 1 thiết bị chấp nhận thanh toán mã QR/ Thẻ contactless (thẻ chạm) nhờ công nghệ NFC ( không tiếp xúc). • Merchant portal (phiên bản Web): cho phép các nhà bán hàng quản trị cửa hàng, giao dịch tốt hơn, dễ dàng đối soát giao dịch thanh toán tại cửa hàng. Câu hỏi 2:",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 7,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0008",
+    "text": "nhờ công nghệ NFC ( không tiếp xúc). • Merchant portal (phiên bản Web): cho phép các nhà bán hàng quản trị cửa hàng, giao dịch tốt hơn, dễ dàng đối soát giao dịch thanh toán tại cửa hàng. Câu hỏi 2: Điều kiện sử dụng SoftPOS là gì? Để sử dụng giải pháp, Quý khách cần là Hộ Kinh doanh, Doanh nghiệp có cửa hàng, đã đăng ký kinh doanh và hoạt động hợp pháp theo quy định của Pháp luật Việt Nam và đáp ứng quy định của Techcombank từng thời kỳ. Câu hỏi 3: Tôi cần làm gì để đăng kí sử dụng SoftPOS? Để sử dụng giải pháp, Quý khách cần có tài khoản thanh toán tại Techcombank và ký hợp đồng dịch vụ chấp nhận thanh toán với Techcombank. • Trong trường hợp Quý khách chưa có tài khoản thanh toán tại Techcombank, vui lòng thực hiện 1 trong các cách dưới đây: o Truy cập: - Đối với KHCN: https://techcombank.com/khach-hang-ca-nhan/chi-tieu/tai- khoan/tai-khoan-thanh-toan-techcombank - Đối với KHDN: https://techcombank.com/khach-hang-doanh-nghiep/mo-tai- khoan o Liên hệ chi nhánh/phòng giao dịch gần nh",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 8,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0009",
+    "text": "ank.com/khach-hang-ca-nhan/chi-tieu/tai- khoan/tai-khoan-thanh-toan-techcombank - Đối với KHDN: https://techcombank.com/khach-hang-doanh-nghiep/mo-tai- khoan o Liên hệ chi nhánh/phòng giao dịch gần nhất của Techcombank. Xem danh sách các phòng giao dịch tại https://techcombank.com/lien-he#atm-chi-nhanh • Nếu Quý khách đã có tài khoản thanh toán tại Techcombank, vui lòng đăng kí sử dụng giải pháp tại chi nhánh/phòng giao dịch gần nhất của Techcombank. Để xem trước hướng dẫn sử dụng các tính năng của Techcombank ePOS, Quý khách vui lòng tải ứng dụng Techcombank ePOS từ kho ứng dụng Google play và thực hiện theo hướng dẫn. Câu hỏi 4: Tôi cần cung cấp giấy tờ gì để đăng kí sử dụng Techcombank SoftPOS? Qúy khách cần cung cấp giấy tờ cần thiết sau: Public document • Bản sao y giấy chứng nhận đăng ký kinh doanh Doanh nghiệp/ Hộ kinh doanh • Bản sao y giấy tờ tùy thân: CCCD/Hộ chiếu của người đại diện theo pháp luật/ người đại diện theo ủy quyền • Bản gốc giấy ủy quyền của người đại diện theo",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 9,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0010",
+    "text": "g ký kinh doanh Doanh nghiệp/ Hộ kinh doanh • Bản sao y giấy tờ tùy thân: CCCD/Hộ chiếu của người đại diện theo pháp luật/ người đại diện theo ủy quyền • Bản gốc giấy ủy quyền của người đại diện theo pháp luật (trường hợp người đại diện thực hiện ký hợp đồng) • Ảnh chụp cửa hàng thể hiện rõ tên, địa chỉ cửa hàng Câu hỏi 5: Tôi phải làm gì nếu quên mật khẩu đăng nhập? Trong trường hợp quên mật khẩu đăng nhập, bạn vui lòng làm theo những bước sau để khôi phục mật khẩu: Bước 1: Tại màn hình đăng nhập, bấm quên mật khẩu. Hệ thống sẽ yêu cầu bạn nhập tên đăng nhập để gửi thông tin khôi phục mật khẩu. Bước 2: Sau khi gửi yêu cầu khôi phục mật khẩu thành công, vui lòng truy cập email đã đăng kí với hệ thống để nhận đường dẫn tới màn hình đổi mật khẩu Public document Bạn có thể bấm vào nút “ Thay đổi mật khẩu” hoặc copy và truy cập đường link để đi tới trang đổi mật khẩu. Bước 3: Đổi mật khẩu Vui lòng nhập mật khẩu mới (mật khẩu đảm bảo chứa ít nhất 8 ký tự, gồm chữ hoa và chữ thường) sau đó b",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 10,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0011",
+    "text": "đổi mật khẩu” hoặc copy và truy cập đường link để đi tới trang đổi mật khẩu. Bước 3: Đổi mật khẩu Vui lòng nhập mật khẩu mới (mật khẩu đảm bảo chứa ít nhất 8 ký tự, gồm chữ hoa và chữ thường) sau đó bấm “ Xác nhận” để đổi mật khẩu. Public document Sau khi đổi mật khẩu thành công, bạn có thể đăng nhập bằng tên đăng nhập và mật khẩu mới Câu hỏi 6: Tôi phải làm gì nếu tài khoản của mình bị khóa? Trong trường hợp bạn khách là nhân viên, bạn sẽ không có quyền tự mở khóa tài khoản của mình. Vui lòng liên hệ với chủ cửa hàng hoặc người quản lý để mở khóa tài khoản Trong trường hợp bạn là quản lý hoặc chủ cửa hàng, vui lòng liên hệ với tổng đài CSKH theo hotline: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Câu hỏi 7: Tôi phải làm gì khi không thể đăng nhập? Khi không thể đăng nhập, sẽ có một số nguyên nhân sau đây: • Tài khoản của bạn chưa đăng kí với hệ thống ePOS. • Tài khoản của bạn đã bị khóa • Bạn nhập sai mật khẩu • Thiết bị di độ",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 11,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0012",
+    "text": "ng thể đăng nhập? Khi không thể đăng nhập, sẽ có một số nguyên nhân sau đây: • Tài khoản của bạn chưa đăng kí với hệ thống ePOS. • Tài khoản của bạn đã bị khóa • Bạn nhập sai mật khẩu • Thiết bị di động của bạn chưa kết nối với internet Nếu bạn là quản lý hoặc chủ cửa hàng: • Để đăng kí sử dụng giải pháp ePOS, xem hướng dẫn tại → “Link như câu số 3” • Để mở lại tài khoản đã bị khóa “Link câu hỏi 6” • Để khôi phục mật khẩu, xem hướng dẫn tại “Link câu hỏi 5” • Nếu thiết bị di động của bạn chưa có kết nốt internet, vui lòng kiểm tra kết nối internet Nếu bạn là nhân viên • Để đăng kí tài khoản hoặc mở khóa tài khoản, vui lòng liên hệ với chủ cửa hàng của bạn để được hỗ trợ • Để khôi phục mật khẩu, xem hướng dẫn tại “Link câu hỏi 5” Câu hỏi 8: Khi đăng ký sử dụng ứng dụng ePOS, tôi có mất phí gì không? Quý khách vui lòng xem biểu phí áp dụng theo từng thời kì tại https://techcombank.com/cong-cu- tien-ich/bieu-phi-bieu-mau-dich-vu Mục 2: Thanh toán Câu hỏi 10: Chức năng tạo mã thanh toán QR",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 12,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0013",
+    "text": "gì không? Quý khách vui lòng xem biểu phí áp dụng theo từng thời kì tại https://techcombank.com/cong-cu- tien-ich/bieu-phi-bieu-mau-dich-vu Mục 2: Thanh toán Câu hỏi 10: Chức năng tạo mã thanh toán QR cho giao dịch dùng để làm gì? Khách mua hàng có thể sử dụng bất kỳ ứng dụng ngân hàng nào để quét mã QR và trả tiền cho bạn. Tính năng này giúp giao dịch được thực hiện nhanh chóng và không mất phí giao dịch. Đồng Public document thời khi thanh toán qua ứng dụng, các giao dịch sẽ được lưu lại giúp bạn quản lý thu nhập dễ dàng hơn. Câu hỏi 11: Techcombank ePOS chấp nhận thanh toán những thẻ nào? Techcombank ePOS chấp nhận thanh toán thẻ contactless của Visa, Master, Napas. Hỗ trợ thanh toán qua Apple pay, Samsung Pay, Garmin pay, các loại vòng tay thanh toán Câu hỏi 12: Tôi cần làm gì để khách trả tiền cho tôi qua ứng dụng? ePOS cung cấp hai hình thức thanh toán là thẻ và QR để người dùng có thể dễ dàng thanh toán các đơn hàng tại cửa hàng của bạn Đối với thanh toán thẻ • Bước 1: Tại màn h",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 13,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0014",
+    "text": "trả tiền cho tôi qua ứng dụng? ePOS cung cấp hai hình thức thanh toán là thẻ và QR để người dùng có thể dễ dàng thanh toán các đơn hàng tại cửa hàng của bạn Đối với thanh toán thẻ • Bước 1: Tại màn hình thanh toán, nhập số tiền cần thanh toán và chọn hình thức thanh toán thẻ • Bước 2: Yêu cầu khách hàng của bạn đặt thẻ ở lưng điện thoại đang được sử dụng để thanh toán • Bước 3: Yêu cầu khách hàng rút lại thẻ khi được thông báo và nhận thông báo thanh toán thành công Public document Lưu ý: Thiết bị của bạn cần được kích hoạt dịch vụ thanh toán thẻ để có thể sử dụng tính năng này, xem hướng đẫn TẠI ĐÂY. Đối với thanh toán QR: - Bước 1: Tại màn hình thanh toán, nhập số tiền cần thanh toán và chọn hình thức thanh toán QR - Bước 2: Hệ thống sẽ sinh ra mã QR ứng với đơn hàng và số tiền cần thanh toán - Bước 4: Đưa mã cho khách mua hàng để họ quét bằng bất kỳ ứng dụng ngân hàng nào -Bước 5: Nhận thông báo thanh toán thành công Câu hỏi 13: Tôi muốn xem lịch sử giao dịch, thanh toán tại cửa hà",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 14,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0015",
+    "text": "h toán - Bước 4: Đưa mã cho khách mua hàng để họ quét bằng bất kỳ ứng dụng ngân hàng nào -Bước 5: Nhận thông báo thanh toán thành công Câu hỏi 13: Tôi muốn xem lịch sử giao dịch, thanh toán tại cửa hàng thì làm thế nào? Khi vừa mở ứng dụng, bạn bấm vào mục Doanh thu ở phía trên màn hình để xem thống kê doanh thu và lịch sử giao dịch của từng cửa hàng. Bạn có thể chọn lại ngày tháng để xem thông tin của những ngày trước đó. Câu hỏi 14: Trong trường hợp tạo mã QR thanh toán bị lỗi, tôi cần làm gì để xử lý? Bạn kiểm tra xem lỗi hệ thống báo lại là gì để có cách xử lý tương ứng: 1. Do mất kết nối mạng: Kiểm tra kết nối Internet hiện có của thiết bị và tạo lại mã thanh toán 2. Do hệ thống: Chọn Thử lại hoặc chọn Tạo đơn hàng mới. Trong trường hợp cách thức này không hiệu quả. Vui lòng liên hệ với CSKH qua: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Câu hỏi 15: Trong trường hợp thanh toán thẻ bị lỗi, tôi cần làm gì để xử lý? Bạn kiểm",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 15,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0016",
+    "text": "ới CSKH qua: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Câu hỏi 15: Trong trường hợp thanh toán thẻ bị lỗi, tôi cần làm gì để xử lý? Bạn kiểm tra xem lỗi hệ thống báo lại là gì để có cách xử lý tương ứng: 1. Do mất kết nối mạng: Kiểm tra kết nối Internet hiện có của thiết bị và tạo lại mã thanh toán 2. Do hệ thống: Chọn Thử lại hoặc chọn Tạo đơn hàng mới. Trong trường hợp cách thức này không hiệu quả. Vui lòng liên hệ với CSKH qua email Softpos@techcombank.com.vn 3. Do thẻ của khách hàng • Thẻ không hỗ trợ contactless: Kiểm tra không có biểu tượng cột sóng (như ảnh dưới đây) trên thẻ Public document • Thẻ đã hết hạn: Kiểm tra ngày hết hạn trên thẻ • Thẻ hết hạn mức: Yêu cầu khách hàng kiểm tra lại hạn mức thẻ Câu hỏi 16: Lịch sử giao dịch sẽ được lưu trữ trong bao lâu? Trong trường hợp quá thời gian quy định, tôi có thể yêu cầu xuất sao kê không? Lịch sử giao dịch sẽ được lưu theo quy định của pháp luật Việt Nam về lưu trữ các",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 16,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0017",
+    "text": "ao dịch sẽ được lưu trữ trong bao lâu? Trong trường hợp quá thời gian quy định, tôi có thể yêu cầu xuất sao kê không? Lịch sử giao dịch sẽ được lưu theo quy định của pháp luật Việt Nam về lưu trữ các giao dịch điện tử. Tuy nhiên lịch sử giao dịch trên Ứng dụng Techcombank ePOS và Merchant portal chỉ được lưu trong vòng 12 tháng gần nhất. Trong trường hợp quá thời gian này, để xuất sao kê giao dịch, vui lòng liên hệ: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Public document Câu hỏi 17: Trường hợp khách hàng thanh toán đã trừ tiền thẻ ngân hàng, cửa hàng chưa nhận được tiền thì tôi nên làm thế nào? Bạn vui lòng kiểm tra lại thông tin giao dịch tại mục Doanh thu để xem trạng thái chuyển tiền về tài khoản cửa hàng. Trong khoảng 5-10 phút, nếu cửa hàng vẫn chưa nhận được tiền từ giao dịch, bạn có thể liên hệ bộ phận Chăm sóc khách hàng theo thông tin dưới đây: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 17,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0018",
+    "text": "hút, nếu cửa hàng vẫn chưa nhận được tiền từ giao dịch, bạn có thể liên hệ bộ phận Chăm sóc khách hàng theo thông tin dưới đây: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Câu 18: Doanh thu thanh toán tại cửa hàng sẽ được Techcombank ghi có cho tôi như thế nào? Sau khi giao dịch thanh toán thành công, số tiền thanh toán sẽ được cộng vào Tài khoản thanh toán khai báo dịch vụ của Quý khách: • Với các Giao dịch thanh toán QR và thẻ ghi nợ do Techcombank phát hành: Ngay khi giao dịch thanh toán thành công • Với các GD thẻ tín dụng do TCB phát hành : ngày làm việc tiếp theo • Tất cả thẻ không do Techcombank phát hành : ngày làm việc tiếp theo Mục 3: Quản lý thiết bị Câu hỏi 19: Tôi phải làm gì nếu thiết bị của tôi kích hoạt thất bại? Kích hoạt thất bại có thể do một số nguyên do sau đây • Mất kết nối internet: Bạn hãy kiểm tra lại kết nối mạng của thiết bị và kích hoạt lại thiết bị • Lỗi hệ thống: Với trường hợp này, vui lòng liên hệ",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 18,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0019",
+    "text": "h hoạt thất bại có thể do một số nguyên do sau đây • Mất kết nối internet: Bạn hãy kiểm tra lại kết nối mạng của thiết bị và kích hoạt lại thiết bị • Lỗi hệ thống: Với trường hợp này, vui lòng liên hệ o Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 o Hotline khách hàng doanh nghiệp: 1800 6556 Câu hỏi 20: Ứng dụng ePOS đang hỗ trợ những phiên bản nào của hệ điều hành IOS và Android? Cả các thiết bị Smartphone, tablet thông minh có: • Hệ điều hành Android 9.0 trở lên • Hỗ trợ NFC. Bạn có thể kiểm tra bằng cách trong phần Cài đặt của thiết bị, tìm kiếm NFC • Hỗ trợ dịch vụ Google play Câu hỏi 21: Tại sao ứng dụng ePOS muốn biết vị trí của tôi? Theo Pháp luật Việt Nam quy định các yêu cầu kỹ thuật về an toàn bảo mật đối với trang thiết bị phục vụ thanh toán thẻ ngân hàng, bạn cần chia sẻ thông tin vị trí thiết bị sử dụng thanh toán để phục vụ cho quá trình xử lý giao dịch của bạn để sử dụng dịch vụ thanh toán thẻ. ePOS cam kết Public document thông tin được sử dụng đúng mục đích,",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 19,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0020",
+    "text": "sẻ thông tin vị trí thiết bị sử dụng thanh toán để phục vụ cho quá trình xử lý giao dịch của bạn để sử dụng dịch vụ thanh toán thẻ. ePOS cam kết Public document thông tin được sử dụng đúng mục đích, đảm bảo tuân thủ các yêu cầu liên quan tới chính sách bảo mật. Mục 4: Quản lý nhân viên Câu hỏi 22: Tôi phải làm gì để tạo tài khoản cho nhân viên mới? Để thêm nhân viên mới, bạn làm theo các bước sau: Bước 1: Đăng nhập vào ứng dụng ePOS, vào mục “Quản lý nhân viên” và bấm “Thêm nhân viên mới” Bước 2: Tại màn hình thêm nhân viên mới, điền đầy đủ các thông tin bắt buộc Bước 3: Hệ thống sẽ gửi thông tin tên đăng nhập, password theo địa chỉ email được nhập trong form đăng kí tại bước 2. Vui lòng báo nhân viên của bạn xem thông tin trong email tương ứng và thực hiện đăng nhập bằng các thông tin được cung cấp. Bước 4: Nhân viên khi được thêm mới thành công sẽ có tên trong danh sách nhân viên của cửa hàng và quầy tương ứng Public document Câu hỏi 23: Nhân viên có thể xem được thông tin doanh thu",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 20,
+      "char_count": 999,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0021",
+    "text": "ợc cung cấp. Bước 4: Nhân viên khi được thêm mới thành công sẽ có tên trong danh sách nhân viên của cửa hàng và quầy tương ứng Public document Câu hỏi 23: Nhân viên có thể xem được thông tin doanh thu của cửa hàng hay không? Nhân viên của bạn sẽ chỉ xem được doanh thu tại các cửa hàng mà họ được phân quyền. Trong trường hợp bạn là chủ cửa hàng, bạn sẽ xem được doanh thu của tất cả các cửa hàng thuộc sở hữu của bạn. Câu 24: Nhân viên của tôi có thể dùng tài khoản để đăng nhập tại nhiều thiết bị khác nhau không? Nhân viên của bạn sẽ có thể dùng tài khoản đã đăng kí để đăng nhập trên nhiều thiết bị khác nhau. Tuy nhiên, nhân viên sẽ chỉ xem được các thông tin các cửa hàng mà họ được phân quyền truy cập. Câu 25: Tôi có thể phân quyền cho nhân viên của mình hay không? Bạn có thể quản lý quyền truy cập thông tin và thực hiện thanh toán tại từng cửa hàng cho nhân viên. Quyền truy cập có thể được chỉnh sửa tại mục Quản lý nhân viên Câu 26: Tôi phải làm gì khi nhân viên của tôi nghỉ việc Để đảm",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 21,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0022",
+    "text": "ruy cập thông tin và thực hiện thanh toán tại từng cửa hàng cho nhân viên. Quyền truy cập có thể được chỉnh sửa tại mục Quản lý nhân viên Câu 26: Tôi phải làm gì khi nhân viên của tôi nghỉ việc Để đảm bảo tính bảo mật, hãy khóa tài khoản của nhân viên ngay khi họ nghỉ việc. Để khóa tài khoản của nhân viên, vui lòng liên hệ: • Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 • Hotline khách hàng doanh nghiệp: 1800 6556 Mục 5: Quản lý cửa hàng Câu 27: Nếu cửa hàng của tôi ngừng hoạt động, tôi cần làm gì để chấm dứt sử dụng dịch vụ? Bạn có thể thực hiện xóa tài khoản khi muốn chấm dứt sử dụng dịch vụ. Để xóa tài khoản, truy cập vào menu, chọn “ Xóa tài khoản” và làm theo hướng dẫn dưới đây: Public document Lưu ý: • Bạn có thể hủy việc xóa tài khoản bằng cách đăng nhập vào tài khoản trong vòng 30 ngày kể từ ngày yêu cầu xóa tài khoản. • Sau 30 ngày, tài khoản sẽ được xóa và không thể khôi phục. Khi muốn tạo tài khoản mới bằng số điện thoại này, bạn vui lòng liên hệ CSKH để được hỗ tr",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 22,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0023",
+    "text": "g vòng 30 ngày kể từ ngày yêu cầu xóa tài khoản. • Sau 30 ngày, tài khoản sẽ được xóa và không thể khôi phục. Khi muốn tạo tài khoản mới bằng số điện thoại này, bạn vui lòng liên hệ CSKH để được hỗ trợ. o Hotline khách hàng cá nhân/hộ kinh doanh: 1800 588 822 o Hotline khách hàng doanh nghiệp: 1800 6556 Câu 28: Tôi có mất phí khi dừng sử dụng dịch vụ không? Không, bạn sẽ không mất phí khi dừng sử dụng dịch vụ Mục 6: Merchant Portal Câu 29: Chức năng quản lý trên Merchant Portal và quản lý trên ứng dụng có gì khác nhau? Dù là trên Merchant Site Portal hay ứng dụng, bạn đều có thể sử dụng các chức năng quản lý để quản lý các giao dịch và nhân viên đang làm việc tại các cửa hàng của bạn. Tuy nhiên, Merchant Site Portal cung cấp thông tin và giao diện thân thiện hơn đối với người dùng là quản lí tập trung hoặc kế toán tổng hợp cho tất cả các cửa hàng trong chuỗi kinh doanh của bạn trong khi ứng dụng sẽ phù hợp hơn với đối tượng là nhân viên hoặc cửa hàng trưởng. Public document Ngoài ra, M",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 23,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0024",
+    "text": "lí tập trung hoặc kế toán tổng hợp cho tất cả các cửa hàng trong chuỗi kinh doanh của bạn trong khi ứng dụng sẽ phù hợp hơn với đối tượng là nhân viên hoặc cửa hàng trưởng. Public document Ngoài ra, Merchant Site Portal cung cấp tính năng hoàn tiền cho các giao dịch có nhu cầu hoàn trả tại bất cứ cửa hàng nào trong chuỗi kinh doanh của bạn. Tính năng này tạm thời không khả dụng trên ứng ePOS. Xem Hướng dẫn sử dụng Merchant Site Portal TẠI ĐÂY. Câu 30: Làm thế nào để tôi có tài khoản sử dụng Merchant Site Portal? Bạn cần có tài khoản ePOS để có thể đăng nhập vào Merchant Site Portal. Tài khoản này chính là tài khoản bạn hoặc nhân viên của bạn dùng để đăng nhập ứng dụng ePOS. Câu 31: Tôi có cần hoàn trả toàn bộ số tiền đơn hàng trong 1 lần yêu cầu hoàn trả không? Bạn có thể lựa chọn hoàn trả một phần giá trị đơn hàng hoặc toàn bộ giá trị đơn hàng Câu 32: Tôi có thể thực hiện hoàn trả cho những giao dịch như thế nào? Bạn chỉ có thể thực hiện hoàn trả cho những giao dịch thanh toán thành c",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 24,
+      "char_count": 1000,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  },
+  {
+    "id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_v1_chunk_0025",
+    "text": "một phần giá trị đơn hàng hoặc toàn bộ giá trị đơn hàng Câu 32: Tôi có thể thực hiện hoàn trả cho những giao dịch như thế nào? Bạn chỉ có thể thực hiện hoàn trả cho những giao dịch thanh toán thành công, chưa phát sinh giao dịch hoàn trả toàn phần. Câu 33: Sau khi thực hiện hoàn trả bao lâu thì khách hàng của tôi sẽ nhận được tiền? Sau khi nhận yêu cầu hoàn trả từ cửa hàng, giao dịch sẽ được xử lý trong vòng 1 ngày làm việc. Tuy nhiên thời gian nhận tiền sẽ phụ thuộc vào ngân hàng phát hành thẻ của chủ thẻ thanh toán Câu 34: Tôi có thể hủy yêu cầu hoàn trả được không? Bạn chỉ có thể hủy yêu cầu hoàn trả nếu yêu cầu chưa được phê duyệt bởi người phê duyệt. Rất tiếc hệ thống của chúng tôi không thể hỗ trợ hủy giao dịch nếu tiền hoàn trả đã được gửi tới khách hàng",
+    "metadata": {
+      "file_path": "data\\raw\\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "file_name": "tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf",
+      "chunk_index": 25,
+      "char_count": 771,
+      "source_type": "unstructured",
+      "doc_type": "general",
+      "version": "v1",
+      "run_id": "20260420_003542",
+      "created_at": "2026-04-20T00:35:42"
+    }
+  }
+]

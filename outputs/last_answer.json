@@ -1,0 +1,35 @@
+{
+  "question": "toi can mo tai khoan",
+  "answer": "Trả lời:\nĐể mở tài khoản, bạn cần là hộ kinh doanh, doanh nghiệp có cửa hàng, đã đăng ký kinh doanh và hoạt động hợp pháp theo quy định của Pháp luật Việt Nam và đáp ứng quy định của Techcombank từng thời kỳ. Bạn cũng cần phải có tài khoản thanh toán tại Techcombank và ký hợp đồng dịch vụ chấp nhận thanh toán với Techcombank.\n\nNguồn sử dụng:\n- Nguồn 1",
+  "sources": [
+    {
+      "chunk_id": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1_8_2e1cfb5cf4",
+      "score": 0.7330191530920368,
+      "dense_score": 0.8398961,
+      "lexical_score": 0.48363961030678926,
+      "source": "tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1.json"
+    },
+    {
+      "chunk_id": "vanbangoc_80_2016_nd_cp_316749_chunks_v1_2_efd22198cf",
+      "score": 0.6858061353149619,
+      "dense_score": 0.8429489,
+      "lexical_score": 0.3191396843832065,
+      "source": "vanbangoc_80_2016_nd_cp_316749_chunks_v1.json"
+    },
+    {
+      "chunk_id": "vanbangoc_80_2016_nd_cp_316749_chunks_v1_4_c68fd3cfb5",
+      "score": 0.6845099201699989,
+      "dense_score": 0.84144306,
+      "lexical_score": 0.31833259389999635,
+      "source": "vanbangoc_80_2016_nd_cp_316749_chunks_v1.json"
+    },
+    {
+      "chunk_id": "vanbangoc_80_2016_nd_cp_316749_chunks_v1_3_2b96b960b7",
+      "score": 0.6809854020774474,
+      "dense_score": 0.8359903,
+      "lexical_score": 0.31930730692482506,
+      "source": "vanbangoc_80_2016_nd_cp_316749_chunks_v1.json"
+    }
+  ],
+  "dropped_context": 1
+}
