@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from core.setup_logging import setup_logging
 from ingestion.load_data import load_data
 from ingestion.chunking import (
@@ -9,20 +11,61 @@ from ingestion.chunking import (
 
 setup_logging()
 
-docs = load_data(file_path="data/raw/vcb-FAQ - SMS Banking.pdf")
-chunks = chunk_documents(docs, chunk_size=1000, chunk_overlap=200)
+RAW_DIR = Path("data/raw")
+PROCESSED_DIR = "data/processed"
 
-run_id = "20260418_150000"  # hoặc để None rồi auto generate
-chunks = enrich_chunks_metadata(chunks, version="v1", run_id=run_id)
+# ===== Tạo run_id chung cho cả batch =====
+run_id = None  # để None cho auto, hoặc fix nếu muốn
 
-output_path = build_output_path(
-    source_file_path="data/raw/vcb-FAQ - SMS Banking.pdf",
-    processed_dir="data/processed",
-    version="v1",
-    run_id=run_id,
-    ext="json"
-)
+all_files = list(RAW_DIR.glob("**/*"))
 
-save_chunks(chunks, output_path)
+total_chunks = 0
 
-print(f"Saved {len(chunks)} chunks to {output_path}")
+for file_path in all_files:
+    if not file_path.is_file():
+        continue
+
+    print(f"\n📄 Processing: {file_path}")
+
+    try:
+        # ===== LOAD =====
+        docs = load_data(file_path=str(file_path))
+
+        # ===== CHUNK =====
+        chunks = chunk_documents(
+            docs,
+            chunk_size=1000,
+            chunk_overlap=200
+        )
+
+        if not chunks:
+            print("⚠️ No chunks created, skip")
+            continue
+
+        # ===== ENRICH =====
+        chunks = enrich_chunks_metadata(
+            chunks,
+            version="v1",
+            run_id=run_id
+        )
+
+        # ===== BUILD OUTPUT PATH =====
+        output_path = build_output_path(
+            source_file_path=str(file_path),
+            processed_dir=PROCESSED_DIR,
+            version="v1",
+            run_id=chunks[0]["metadata"]["run_id"],  # lấy run_id thực tế
+            ext="json"
+        )
+
+        # ===== SAVE =====
+        save_chunks(chunks, output_path)
+
+        print(f"✅ Saved {len(chunks)} chunks → {output_path}")
+        total_chunks += len(chunks)
+
+    except Exception as e:
+        print(f"❌ Error processing {file_path}: {e}")
+
+print("\n==============================")
+print(f"🎯 DONE - Total chunks: {total_chunks}")

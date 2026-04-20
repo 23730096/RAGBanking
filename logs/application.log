@@ -341,3 +341,312 @@
 [2026-04-18 17:28:18] INFO - generation.rag - Question: Tôi có thể đăng ký SMS Banking ở đâu?
 [2026-04-18 17:28:18] INFO - generation.rag - Collection=rag_banking_collection | top_k=5 | score_threshold=0.4
 [2026-04-18 17:28:18] INFO - httpx - HTTP Request: POST http://localhost:6333/collections/rag_banking_collection/points/query "HTTP/1.1 200 OK"
+[2026-04-20 00:04:11] INFO - generation.rag - Question: test
+[2026-04-20 00:04:11] INFO - httpx - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:12] INFO - sentence_transformers.base.model - Loading SentenceTransformer model from intfloat/multilingual-e5-small.
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:12] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/README.md "HTTP/1.1 200 OK"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/sentence_bert_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:13] WARNING - huggingface_hub.utils._http - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:13] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:14] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:14] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:14] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:15] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:16] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:16] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:16] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:16] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:16] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[2026-04-20 00:04:17] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-04-20 00:04:19] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 00:04:19] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:04:19] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[2026-04-20 00:04:20] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 00:04:20] INFO - httpx - HTTP Request: POST http://localhost:6333/collections/rag_banking_collection/points/query "HTTP/1.1 200 OK"
+[2026-04-20 00:04:20] INFO - rag.runtime - Hybrid retrieval done | question=test | dense_limit=20 | final=15
+[2026-04-20 00:04:20] INFO - generation.rag - Decision config | min_items=2 | min_score=0.5 | max_chars=4000 | retrieved=5
+[2026-04-20 00:04:20] INFO - generation.rag - Context selection | selected=4 | dropped=1
+[2026-04-20 00:04:20] INFO - generation.rag - Calling Ollama | model=qwen2.5:3b | timeout=60
+[2026-04-20 00:34:43] INFO - ingestion - Loading single file via input
+[2026-04-20 00:34:43] INFO - ingestion - Loading file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-20 00:34:43] INFO - ingestion - Detected unstructured file: data/raw/vcb-FAQ - SMS Banking.pdf
+[2026-04-20 00:34:43] INFO - ingestion - Chunked unstructured | file=data/raw/vcb-FAQ - SMS Banking.pdf | chunks=15
+[2026-04-20 00:34:43] INFO - ingestion - Total chunks created: 15
+[2026-04-20 00:34:43] INFO - ingestion - Chunks metadata enriched | total=15 | run_id=20260418_150000
+[2026-04-20 00:34:43] INFO - ingestion - Chunks saved | output=data\processed\20260418_150000\vcb_faq_sms_banking_chunks_v1.json | total=15
+[2026-04-20 00:35:39] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:39] INFO - ingestion - Loading file: data\raw\2020_1167 + 1168_16-2020-TT-NHNN.pdf
+[2026-04-20 00:35:39] INFO - ingestion - Detected unstructured file: data\raw\2020_1167 + 1168_16-2020-TT-NHNN.pdf
+[2026-04-20 00:35:39] INFO - ingestion - Chunked unstructured | file=data\raw\2020_1167 + 1168_16-2020-TT-NHNN.pdf | chunks=34
+[2026-04-20 00:35:39] INFO - ingestion - Total chunks created: 34
+[2026-04-20 00:35:39] INFO - ingestion - Chunks metadata enriched | total=34 | run_id=20260420_003539
+[2026-04-20 00:35:39] INFO - ingestion - Chunks saved | output=data\processed\20260420_003539\2020_1167_1168_16_2020_tt_nhnn_chunks_v1.json | total=34
+[2026-04-20 00:35:39] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:39] INFO - ingestion - Loading file: data\raw\Giao-trinh-Ngan-hang-thuong-mai-Nguyen-Van-Tien.pdf
+[2026-04-20 00:35:41] INFO - ingestion - Detected unstructured file: data\raw\Giao-trinh-Ngan-hang-thuong-mai-Nguyen-Van-Tien.pdf
+[2026-04-20 00:35:41] INFO - ingestion - Chunked unstructured | file=data\raw\Giao-trinh-Ngan-hang-thuong-mai-Nguyen-Van-Tien.pdf | chunks=649
+[2026-04-20 00:35:41] INFO - ingestion - Total chunks created: 649
+[2026-04-20 00:35:41] INFO - ingestion - Chunks metadata enriched | total=649 | run_id=20260420_003541
+[2026-04-20 00:35:41] INFO - ingestion - Chunks saved | output=data\processed\20260420_003541\giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1.json | total=649
+[2026-04-20 00:35:41] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:41] INFO - ingestion - Loading file: data\raw\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\TCB-HDSD_FEB_Aug_2022_226b60e2d4.pdf | chunks=74
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 74
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=74 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1.json | total=74
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\tcb-softpos-danh-sach-cau-hoi-thuong-gap.pdf | chunks=25
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 25
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=25 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1.json | total=25
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\Thông tư 06-2023-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\Thông tư 06-2023-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\Thông tư 06-2023-TT-NHNN.pdf | chunks=0
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 0
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\Thông tư 23-2014-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\Thông tư 23-2014-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\Thông tư 23-2014-TT-NHNN.pdf | chunks=0
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 0
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\Thông tư 39-2016-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\Thông tư 39-2016-TT-NHNN.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\Thông tư 39-2016-TT-NHNN.pdf | chunks=0
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 0
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\VanBanGoc_101_2012_NĐ-CP.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\VanBanGoc_101_2012_NĐ-CP.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\VanBanGoc_101_2012_NĐ-CP.pdf | chunks=30
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 30
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=30 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vanbangoc_101_2012_nđ_cp_chunks_v1.json | total=30
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\VanBanGoc_80_2016_ND-CP_316749.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\VanBanGoc_80_2016_ND-CP_316749.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\VanBanGoc_80_2016_ND-CP_316749.pdf | chunks=10
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 10
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=10 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vanbangoc_80_2016_nd_cp_316749_chunks_v1.json | total=10
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\VCB Digibank_HDSD web_shortcut.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\VCB Digibank_HDSD web_shortcut.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\VCB Digibank_HDSD web_shortcut.pdf | chunks=10
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 10
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=10 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_digibank_hdsd_web_shortcut_chunks_v1.json | total=10
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\VCB LoyaltyQA.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\VCB LoyaltyQA.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\VCB LoyaltyQA.pdf | chunks=22
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 22
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=22 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_loyaltyqa_chunks_v1.json | total=22
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\vcb-FAQ - SMS Banking.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\vcb-FAQ - SMS Banking.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\vcb-FAQ - SMS Banking.pdf | chunks=15
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 15
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=15 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_faq_sms_banking_chunks_v1.json | total=15
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\vcb-hdsd_tc.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\vcb-hdsd_tc.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\vcb-hdsd_tc.pdf | chunks=19
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 19
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=19 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_hdsd_tc_chunks_v1.json | total=19
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\vcb-Mobile Banking FAQ 280813.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\vcb-Mobile Banking FAQ 280813.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\vcb-Mobile Banking FAQ 280813.pdf | chunks=19
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 19
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=19 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_mobile_banking_faq_280813_chunks_v1.json | total=19
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\vcb-QLB_FAQ IB Mobile Web_final.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\vcb-QLB_FAQ IB Mobile Web_final.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\vcb-QLB_FAQ IB Mobile Web_final.pdf | chunks=25
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 25
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=25 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_qlb_faq_ib_mobile_web_final_chunks_v1.json | total=25
+[2026-04-20 00:35:42] INFO - ingestion - Loading single file via input
+[2026-04-20 00:35:42] INFO - ingestion - Loading file: data\raw\vcb_cau_hoi_thuong_gap.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Detected unstructured file: data\raw\vcb_cau_hoi_thuong_gap.pdf
+[2026-04-20 00:35:42] INFO - ingestion - Chunked unstructured | file=data\raw\vcb_cau_hoi_thuong_gap.pdf | chunks=25
+[2026-04-20 00:35:42] INFO - ingestion - Total chunks created: 25
+[2026-04-20 00:35:42] INFO - ingestion - Chunks metadata enriched | total=25 | run_id=20260420_003542
+[2026-04-20 00:35:42] INFO - ingestion - Chunks saved | output=data\processed\20260420_003542\vcb_cau_hoi_thuong_gap_chunks_v1.json | total=25
+[2026-04-20 00:36:48] INFO - embedding.text - Embedding model : intfloat/multilingual-e5-small
+[2026-04-20 00:36:48] INFO - embedding.text - Device          : cpu
+[2026-04-20 00:36:48] INFO - embedding.text - Batch size      : 32
+[2026-04-20 00:36:48] INFO - embedding.text - Found 14 chunk files
+[2026-04-20 00:36:49] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:49] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:49] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:49] WARNING - huggingface_hub.utils._http - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-04-20 00:36:49] INFO - sentence_transformers.base.model - Loading SentenceTransformer model from intfloat/multilingual-e5-small.
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/README.md "HTTP/1.1 200 OK"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/modules.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:50] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/sentence_bert_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:51] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:51] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:51] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:51] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:52] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:52] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:52] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:52] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:52] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:53] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:54] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[2026-04-20 00:36:55] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-04-20 00:36:57] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 00:36:58] INFO - httpx - HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-20 00:36:58] INFO - httpx - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/intfloat/multilingual-e5-small/614241f622f53c4eeff9890bdc4f31cfecc418b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[2026-04-20 00:36:58] INFO - httpx - HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+[2026-04-20 00:36:58] INFO - embedding.text - Processing chunk file: data\processed\20260418_150000\vcb_faq_sms_banking_chunks_v1.json
+[2026-04-20 00:36:59] INFO - embedding.text - Saved embeddings | file=vcb_faq_sms_banking_chunks_v1.json | output=data\processed\embeddings\20260418_150000\vcb_faq_sms_banking_chunks_v1_embeddings.json | count=15
+[2026-04-20 00:36:59] INFO - embedding.text - Processing chunk file: data\processed\20260420_003539\2020_1167_1168_16_2020_tt_nhnn_chunks_v1.json
+[2026-04-20 00:37:01] INFO - embedding.text - Saved embeddings | file=2020_1167_1168_16_2020_tt_nhnn_chunks_v1.json | output=data\processed\embeddings\20260420_003539\2020_1167_1168_16_2020_tt_nhnn_chunks_v1_embeddings.json | count=34
+[2026-04-20 00:37:01] INFO - embedding.text - Processing chunk file: data\processed\20260420_003541\giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1.json
+[2026-04-20 00:37:47] INFO - embedding.text - Saved embeddings | file=giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1.json | output=data\processed\embeddings\20260420_003541\giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1_embeddings.json | count=649
+[2026-04-20 00:37:47] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1.json
+[2026-04-20 00:37:53] INFO - embedding.text - Saved embeddings | file=tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1.json | output=data\processed\embeddings\20260420_003542\tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1_embeddings.json | count=74
+[2026-04-20 00:37:53] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1.json
+[2026-04-20 00:37:54] INFO - embedding.text - Saved embeddings | file=tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1.json | output=data\processed\embeddings\20260420_003542\tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1_embeddings.json | count=25
+[2026-04-20 00:37:54] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vanbangoc_101_2012_nđ_cp_chunks_v1.json
+[2026-04-20 00:37:56] INFO - embedding.text - Saved embeddings | file=vanbangoc_101_2012_nđ_cp_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vanbangoc_101_2012_nđ_cp_chunks_v1_embeddings.json | count=30
+[2026-04-20 00:37:56] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vanbangoc_80_2016_nd_cp_316749_chunks_v1.json
+[2026-04-20 00:37:57] INFO - embedding.text - Saved embeddings | file=vanbangoc_80_2016_nd_cp_316749_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vanbangoc_80_2016_nd_cp_316749_chunks_v1_embeddings.json | count=10
+[2026-04-20 00:37:57] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_cau_hoi_thuong_gap_chunks_v1.json
+[2026-04-20 00:37:59] INFO - embedding.text - Saved embeddings | file=vcb_cau_hoi_thuong_gap_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_cau_hoi_thuong_gap_chunks_v1_embeddings.json | count=25
+[2026-04-20 00:37:59] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_digibank_hdsd_web_shortcut_chunks_v1.json
+[2026-04-20 00:37:59] INFO - embedding.text - Saved embeddings | file=vcb_digibank_hdsd_web_shortcut_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_digibank_hdsd_web_shortcut_chunks_v1_embeddings.json | count=10
+[2026-04-20 00:37:59] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_faq_sms_banking_chunks_v1.json
+[2026-04-20 00:38:00] INFO - embedding.text - Saved embeddings | file=vcb_faq_sms_banking_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_faq_sms_banking_chunks_v1_embeddings.json | count=15
+[2026-04-20 00:38:00] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_hdsd_tc_chunks_v1.json
+[2026-04-20 00:38:01] INFO - embedding.text - Saved embeddings | file=vcb_hdsd_tc_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_hdsd_tc_chunks_v1_embeddings.json | count=19
+[2026-04-20 00:38:01] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_loyaltyqa_chunks_v1.json
+[2026-04-20 00:38:03] INFO - embedding.text - Saved embeddings | file=vcb_loyaltyqa_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_loyaltyqa_chunks_v1_embeddings.json | count=22
+[2026-04-20 00:38:03] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_mobile_banking_faq_280813_chunks_v1.json
+[2026-04-20 00:38:04] INFO - embedding.text - Saved embeddings | file=vcb_mobile_banking_faq_280813_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_mobile_banking_faq_280813_chunks_v1_embeddings.json | count=19
+[2026-04-20 00:38:04] INFO - embedding.text - Processing chunk file: data\processed\20260420_003542\vcb_qlb_faq_ib_mobile_web_final_chunks_v1.json
+[2026-04-20 00:38:05] INFO - embedding.text - Saved embeddings | file=vcb_qlb_faq_ib_mobile_web_final_chunks_v1.json | output=data\processed\embeddings\20260420_003542\vcb_qlb_faq_ib_mobile_web_final_chunks_v1_embeddings.json | count=25
+[2026-04-20 00:39:19] INFO - vectorstore.qdrant - ===== START INDEX TO QDRANT =====
+[2026-04-20 00:39:19] INFO - vectorstore.qdrant - Found 14 embedding files
+[2026-04-20 00:39:19] INFO - vectorstore.qdrant - Loaded 15 items from data\processed\embeddings\20260418_150000\vcb_faq_sms_banking_chunks_v1_embeddings.json
+[2026-04-20 00:39:19] INFO - vectorstore.qdrant - Loaded 34 items from data\processed\embeddings\20260420_003539\2020_1167_1168_16_2020_tt_nhnn_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 649 items from data\processed\embeddings\20260420_003541\giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 74 items from data\processed\embeddings\20260420_003542\tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 30 items from data\processed\embeddings\20260420_003542\vanbangoc_101_2012_nđ_cp_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 10 items from data\processed\embeddings\20260420_003542\vanbangoc_80_2016_nd_cp_316749_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\vcb_cau_hoi_thuong_gap_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 10 items from data\processed\embeddings\20260420_003542\vcb_digibank_hdsd_web_shortcut_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 15 items from data\processed\embeddings\20260420_003542\vcb_faq_sms_banking_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 19 items from data\processed\embeddings\20260420_003542\vcb_hdsd_tc_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 22 items from data\processed\embeddings\20260420_003542\vcb_loyaltyqa_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 19 items from data\processed\embeddings\20260420_003542\vcb_mobile_banking_faq_280813_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\vcb_qlb_faq_ib_mobile_web_final_chunks_v1_embeddings.json
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Total embedding items loaded: 972
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Detected vector size from embeddings: 384
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Collection already exists: rag_banking_collection
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Built 972 Qdrant points
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Upserted 128/972 points
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Upserted 256/972 points
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Upserted 384/972 points
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Upserted 512/972 points
+[2026-04-20 00:39:20] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:20] INFO - vectorstore.qdrant - Upserted 640/972 points
+[2026-04-20 00:39:21] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:21] INFO - vectorstore.qdrant - Upserted 768/972 points
+[2026-04-20 00:39:21] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:21] INFO - vectorstore.qdrant - Upserted 896/972 points
+[2026-04-20 00:39:21] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 00:39:21] INFO - vectorstore.qdrant - Upserted 972/972 points
+[2026-04-20 00:39:21] INFO - httpx - HTTP Request: GET http://localhost:6333/collections/rag_banking_collection "HTTP/1.1 200 OK"
+[2026-04-20 00:39:21] INFO - vectorstore.qdrant - Collection summary | name=rag_banking_collection | points_count=972
+[2026-04-20 00:39:21] INFO - vectorstore.qdrant - ===== DONE INDEX TO QDRANT =====
+[2026-04-20 08:30:26] INFO - httpx - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+[2026-04-20 08:30:26] INFO - vectorstore.recreate_collection - Creating collection | name=rag_banking_collection | vector_size=384 | distance=cosine
+[2026-04-20 08:30:27] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection "HTTP/1.1 200 OK"
+[2026-04-20 08:30:27] INFO - httpx - HTTP Request: GET http://localhost:6333/collections/rag_banking_collection "HTTP/1.1 200 OK"
+[2026-04-20 08:30:27] INFO - vectorstore.recreate_collection - Done | points_count=0
+[2026-04-20 08:30:52] INFO - vectorstore.qdrant - ===== START INDEX TO QDRANT =====
+[2026-04-20 08:30:52] INFO - vectorstore.qdrant - Found 14 embedding files
+[2026-04-20 08:30:52] INFO - vectorstore.qdrant - Loaded 15 items from data\processed\embeddings\20260418_150000\vcb_faq_sms_banking_chunks_v1_embeddings.json
+[2026-04-20 08:30:52] INFO - vectorstore.qdrant - Loaded 34 items from data\processed\embeddings\20260420_003539\2020_1167_1168_16_2020_tt_nhnn_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 649 items from data\processed\embeddings\20260420_003541\giao_trinh_ngan_hang_thuong_mai_nguyen_van_tien_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 74 items from data\processed\embeddings\20260420_003542\tcb_hdsd_feb_aug_2022_226b60e2d4_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\tcb_softpos_danh_sach_cau_hoi_thuong_gap_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 30 items from data\processed\embeddings\20260420_003542\vanbangoc_101_2012_nđ_cp_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 10 items from data\processed\embeddings\20260420_003542\vanbangoc_80_2016_nd_cp_316749_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\vcb_cau_hoi_thuong_gap_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 10 items from data\processed\embeddings\20260420_003542\vcb_digibank_hdsd_web_shortcut_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 15 items from data\processed\embeddings\20260420_003542\vcb_faq_sms_banking_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 19 items from data\processed\embeddings\20260420_003542\vcb_hdsd_tc_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 22 items from data\processed\embeddings\20260420_003542\vcb_loyaltyqa_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 19 items from data\processed\embeddings\20260420_003542\vcb_mobile_banking_faq_280813_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Loaded 25 items from data\processed\embeddings\20260420_003542\vcb_qlb_faq_ib_mobile_web_final_chunks_v1_embeddings.json
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Total embedding items loaded: 972
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Detected vector size from embeddings: 384
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Collection already exists: rag_banking_collection
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Built 972 Qdrant points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 128/972 points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 256/972 points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 384/972 points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 512/972 points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 640/972 points
+[2026-04-20 08:30:53] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:53] INFO - vectorstore.qdrant - Upserted 768/972 points
+[2026-04-20 08:30:54] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:54] INFO - vectorstore.qdrant - Upserted 896/972 points
+[2026-04-20 08:30:54] INFO - httpx - HTTP Request: PUT http://localhost:6333/collections/rag_banking_collection/points?wait=true "HTTP/1.1 200 OK"
+[2026-04-20 08:30:54] INFO - vectorstore.qdrant - Upserted 972/972 points
+[2026-04-20 08:30:54] INFO - httpx - HTTP Request: GET http://localhost:6333/collections/rag_banking_collection "HTTP/1.1 200 OK"
+[2026-04-20 08:30:54] INFO - vectorstore.qdrant - Collection summary | name=rag_banking_collection | points_count=972
+[2026-04-20 08:30:54] INFO - vectorstore.qdrant - ===== DONE INDEX TO QDRANT =====
